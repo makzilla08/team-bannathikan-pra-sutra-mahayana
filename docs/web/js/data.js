@@ -154,15 +154,27 @@ const SUTRAS_DATA = [
     {
         id: 53,
         dsbc_book_id: 53,
-        title_thai: "สัทธรรมตังกราวตารสูตร",
+        title_thai: "ลังกาวตารสูตร",
         title_sanskrit: "Saddharmalaṅkāvatārasūtram",
         title_english: "Lankavatara Sutra",
+        title_chinese: "入楞伽經 (T671)",
         priority: 9,
-        status: "pending",
-        description: "ธรรมะของพระโพธิสัตว์มหายาน",
-        chapters_count: 0,
-        chapters: [],
-        source_url: "https://www.dsbcproject.org/canon-text/book/53"
+        status: "completed",
+        description: "จิตเท่านั้น (cittamātra) — อาลยวิญญาณ ตถาคตครรภ์ ปัญจธรรม ตริสวภาวะ — แก่นโยคาจารจันทน์",
+        chapters_count: 10,
+        chapters: [
+            { id: 1, title_thai: "การอาราธนาของท้าวทศกัณฐ์", title_sanskrit: "Rāvaṇādhyeṣaṇā", status: "completed" },
+            { id: 2, title_thai: "รวบรวมธรรม 36,000", title_sanskrit: "Ṣaṭtriṃśatsāhasrasarvadharmasamuccaya", status: "completed" },
+            { id: 3, title_thai: "ความไม่เที่ยง", title_sanskrit: "Anityatā", status: "completed" },
+            { id: 4, title_thai: "การบรรลุ", title_sanskrit: "Abhisamaya", status: "completed" },
+            { id: 5, title_thai: "ความเที่ยง/ไม่เที่ยงของตถาคต", title_sanskrit: "Tathāgatanityānityaprasaṅga", status: "completed" },
+            { id: 6, title_thai: "ขณะจิต", title_sanskrit: "Kṣaṇika", status: "completed" },
+            { id: 7, title_thai: "นิรมาณ", title_sanskrit: "Nairmāṇika", status: "completed" },
+            { id: 8, title_thai: "การไม่กินเนื้อ", title_sanskrit: "Māṃsabhakṣaṇa", status: "completed" },
+            { id: 9, title_thai: "ธารณีย์", title_sanskrit: "Dhāraṇī", status: "completed" },
+            { id: 10, title_thai: "คาถาปิด", title_sanskrit: "Sagāthaka", status: "completed" }
+        ],
+        source_url: ""
     },
     {
         id: 18,

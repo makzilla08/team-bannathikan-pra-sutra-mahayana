@@ -1,7 +1,11 @@
 {
   "sutra_id": "4",
-  "title": "วิมลกีรตินิเทศสูตร",
+  "title": "สัทธรรมลังกาวตารสูตร",
+  "title_sanskrit": "Saddharmalaṅkāvatārasūtram",
+  "title_chinese": "入楞伽經",
   "created_at": "2026-03-18T07:38:19.187696",
-  "status": "pending",
+  "status": "completed",
+  "chapters": 10,
+  "chapters_done": 10,
   "contributors": []
 }

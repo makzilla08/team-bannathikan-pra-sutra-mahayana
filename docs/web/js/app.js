@@ -182,6 +182,9 @@ function getTranslationMarkdownUrl(sutra, chapterId) {
   if (String(sutra.id) === '18') {
     return `${basePath}translations/18_mahavairocana/chapter_${padded}/translation.md`;
   }
+  if (String(sutra.id) === '53') {
+    return `${basePath}translations/09_lankavatara/chapter_${padded}/translation.md`;
+  }
   return '';
 }
 
