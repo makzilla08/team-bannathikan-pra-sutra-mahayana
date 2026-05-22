@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📊 วิจัยหุ้นปันผล 2569</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Noto Sans Thai', sans-serif;
+            background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0f0f23 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 2.5em;
+            background: linear-gradient(90deg, #ffd700, #ff6b6b, #ffd700);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .header .subtitle { color: #888; margin-top: 10px; }
+        .section {
+            max-width: 1400px;
+            margin: 0 auto 40px;
+        }
+        .section-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid rgba(255,215,0,0.3);
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            padding: 20px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .card:hover { transform: translateY(-3px); box-shadow: 0 10px 40px rgba(0,0,0,0.3); }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9em;
+        }
+        th {
+            background: rgba(255,215,0,0.1);
+            color: #ffd700;
+            padding: 12px 8px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td {
+            padding: 10px 8px;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        tr:hover td { background: rgba(255,255,255,0.03); }
+        .yield-high { color: #4ade80; font-weight: 700; }
+        .yield-mid { color: #fbbf24; }
+        .yield-low { color: #94a3b8; }
+        .hot { color: #ff6b6b; animation: pulse 2s infinite; }
+        @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.7; } }
+        .tag {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 0.75em;
+            margin-right: 4px;
+        }
+        .tag-bank { background: rgba(59,130,246,0.2); color: #60a5fa; }
+        .tag-energy { background: rgba(249,115,22,0.2); color: #fb923c; }
+        .tag-property { background: rgba(168,85,247,0.2); color: #c084fc; }
+        .tag-etf { background: rgba(34,197,94,0.2); color: #4ade80; }
+        .tag-us { background: rgba(59,130,246,0.2); color: #60a5fa; }
+        .comparison {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .compare-box {
+            background: rgba(0,0,0,0.3);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .compare-box .big { font-size: 2em; font-weight: 700; }
+        .compare-box .label { color: #888; font-size: 0.9em; margin-top: 5px; }
+        .winner { border: 2px solid #4ade80; }
+        .note {
+            background: rgba(255,215,0,0.1);
+            border-left: 4px solid #ffd700;
+            padding: 15px 20px;
+            border-radius: 0 10px 10px 0;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+        .footer { text-align: center; padding: 40px; color: #555; font-size: 0.85em; }
+        @media (max-width: 768px) {
+            .header h1 { font-size: 1.8em; }
+            .grid { grid-template-columns: 1fr; }
+            table { font-size: 0.8em; }
+            th, td { padding: 8px 4px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📊 วิจัยหุ้นปันผล 2569</h1>
+        <div class="subtitle">ไทย • อาเซียน • เอเชีย • โลก | อัปเดต 30 มี.ค. 2569</div>
+    </div>
+
+    <!-- 🇹🇭 หุ้นไทย -->
+    <div class="section">
+        <div class="section-title">🇹🇭 หุ้นปันผลไทย</div>
+        <div class="grid">
+            <div class="card">
+                <table>
+                    <tr><th>หุ้น</th><th>Yield</th><th>P/E</th><th>กลุ่ม</th></tr>
+                    <tr><td>ICHI</td><td class="yield-high hot">6-10%</td><td>12-15x</td><td><span class="tag tag-energy">เครื่องดื่ม</span></td></tr>
+                    <tr><td>SIRI</td><td class="yield-high">7-8.5%</td><td>8-10x</td><td><span class="tag tag-property">อสังหาฯ</span></td></tr>
+                    <tr><td>TISCO</td><td class="yield-high">7-8%</td><td>7-9x</td><td><span class="tag tag-bank">ธนาคาร</span></td></tr>
+                    <tr><td>SCB</td><td class="yield-high">5.5-8.2%</td><td>8-10x</td><td><span class="tag tag-bank">ธนาคาร</span></td></tr>
+                    <tr><td>TPIPP</td><td class="yield-high">7-8%</td><td>-</td><td><span class="tag tag-etf">REITs</span></td></tr>
+                    <tr><td>CPNREIT</td><td class="yield-mid">6.5-7.5%</td><td>-</td><td><span class="tag tag-etf">REITs</span></td></tr>
+                    <tr><td>AP</td><td class="yield-mid">6-7.5%</td><td>8-10x</td><td><span class="tag tag-property">อสังหาฯ</span></td></tr>
+                    <tr><td>WHABOW</td><td class="yield-mid">6.5-7.5%</td><td>-</td><td><span class="tag tag-etf">REITs</span></td></tr>
+                    <tr><td>KTB</td><td class="yield-mid">5-7.5%</td><td>8-10x</td><td><span class="tag tag-bank">ธนาคาร</span></td></tr>
+                    <tr><td>BBL</td><td class="yield-mid">5-5.5%</td><td>8-9x</td><td><span class="tag tag-bank">ธนาคาร</span></td></tr>
+                    <tr><td>SAPPE</td><td class="yield-mid">5-7%</td><td>12-15x</td><td><span class="tag tag-energy">เครื่องดื่ม</span></td></tr>
+                    <tr><td>LH</td><td class="yield-mid">5-6%</td><td>10-12x</td><td><span class="tag tag-property">อสังหาฯ</span></td></tr>
+                </table>
+            </div>
+            <div class="card">
+                <h3 style="color: #ffd700; margin-bottom: 15px;">💡 กลยุทธ์ไทย</h3>
+                <p>• <strong>จังหวะซื้อ:</strong> ก.พ.-พ.ค. ก่อน XD 1-2 เดือน</p>
+                <p>• <strong>หลีกเลี่ยง:</strong> Dividend Trap (yield สูงแต่ราคาตก)</p>
+                <p>• <strong>Payout ratio:</strong> ต่ำกว่า 80% = ยั่งยืน</p>
+                <p>• <strong>SET เป้า:</strong> 1,566 จุด (บลจ.กรุงไทยฯ)</p>
+                <div class="note">
+                    💡 <strong>หุ้นเด่น:</strong> SCB (Holding Co, yield พุ่ง), TISCO (แบงก์สูงสุด), SIRI (อสังหาสูงสุด)
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 🌏 อาเซียน-เอเชีย -->
+    <div class="section">
+        <div class="section-title">🌏 หุ้นปันผลอาเซียน & เอเชีย</div>
+        <div class="card">
+            <table>
+                <tr><th>ประเทศ</th><th>หุ้น</th><th>Yield</th><th>กลุ่ม</th><th>จุดเด่น</th></tr>
+                <tr><td>🇮🇩 อินโด</td><td>DMAS</td><td class="yield-high hot">18-21%</td><td>อสังหาฯ/นิคมฯ</td><td>Yield สูงสุดในภูมิภาค!</td></tr>
+                <tr><td>🇯🇵 ญี่ปุ่น</td><td>Aval Data (6418)</td><td class="yield-high hot">14-15%</td><td>เทคโนโลยี</td><td>คืนกำไรดี หุ้นกลาง</td></tr>
+                <tr><td>🇮🇩 อินโด</td><td>Adaro Energy</td><td class="yield-high hot">14-16%</td><td>พลังงาน</td><td>ถ่านหิน กำไรสะสม</td></tr>
+                <tr><td>🇦🇺 ออสซี่</td><td>IPH Ltd</td><td class="yield-high">10-12%</td><td>กฎหมาย</td><td>กระแสเงินสดมั่นคง</td></tr>
+                <tr><td>🇦🇺 ออสซี่</td><td>Woodside</td><td class="yield-high">7.7-11%</td><td>พลังงาน</td><td>+ Franking Credits</td></tr>
+                <tr><td>🇸🇬 สิงคโปร์</td><td>United Hampshire REIT</td><td class="yield-high">9-9.7%</td><td>REITs</td><td>ลงทุนในสหรัฐฯ</td></tr>
+                <tr><td>🇰🇷 เกาหลี</td><td>K Car</td><td class="yield-high">7.2-8.4%</td><td>ยานยนต์</td><td>จ่ายรายไตรมาส</td></tr>
+                <tr><td>🇪🇺 ยุโรป</td><td>Stellantis (STLA)</td><td class="yield-high">8.1%</td><td>ยานยนต์</td><td>P/E ต่ำสุด 4-6x</td></tr>
+                <tr><td>🇲🇾 มาเลเซีย</td><td>BIMB</td><td class="yield-mid">5.6-5.8%</td><td>ธนาคารอิสลาม</td><td>แข็งแกร่ง</td></tr>
+                <tr><td>🇲🇾 มาเลเซีย</td><td>Maybank</td><td class="yield-mid">5.5-6.2%</td><td>ธนาคาร</td><td>ปันผลพิมพ์นิยม</td></tr>
+                <tr><td>🇸🇬 สิงคโปร์</td><td>DBS</td><td class="yield-mid">3.8-4.5%</td><td>ธนาคาร</td><td>กำไรสถิติใหม่</td></tr>
+                <tr><td>🇰🇷 เกาหลี</td><td>Samsung Fire</td><td class="yield-mid">3.5-4.3%</td><td>ประกัน</td><td>Value-up policy</td></tr>
+            </table>
+        </div>
+    </div>
+
+    <!-- 🇺🇸 USA & ETFs -->
+    <div class="section">
+        <div class="section-title">🇺🇸 หุ้นปันผล USA & ETFs</div>
+        <div class="grid">
+            <div class="card">
+                <h3 style="color: #60a5fa; margin-bottom: 15px;">🏦 Dividend Stocks</h3>
+                <table>
+                    <tr><th>หุ้น</th><th>Yield</th><th>P/E</th></tr>
+                    <tr><td>Altria (MO)</td><td class="yield-high hot">8-9%</td><td>8-10x</td></tr>
+                    <tr><td>Stellantis (STLA)</td><td class="yield-high hot">8.1%</td><td>4-6x</td></tr>
+                    <tr><td>Amcor (AMCR)</td><td class="yield-mid">5.6-6.6%</td><td>14-16x</td></tr>
+                    <tr><td>Verizon (VZ)</td><td class="yield-mid">5.6-6.5%</td><td>8-10x</td></tr>
+                    <tr><td>BTI</td><td class="yield-mid">5.5-8%</td><td>7-9x</td></tr>
+                    <tr><td>Realty Income (O)</td><td class="yield-mid">5.3-5.7%</td><td>~14x</td></tr>
+                    <tr><td>Chevron (CVX)</td><td class="yield-mid">4.2-4.5%</td><td>12-14x</td></tr>
+                </table>
+            </div>
+            <div class="card">
+                <h3 style="color: #4ade80; margin-bottom: 15px;">📦 Dividend ETFs</h3>
+                <table>
+                    <tr><th>ETF</th><th>Yield</th><th>P/E</th><th>จุดเด่น</th></tr>
+                    <tr><td>JEPI</td><td class="yield-high hot">7-9%</td><td>-</td><td>รายเดือน!</td></tr>
+                    <tr><td>VYMI</td><td class="yield-mid">4.5-5%</td><td>~13x</td><td>ต่างประเทศ Low P/E</td></tr>
+                    <tr><td>SPYD</td><td class="yield-mid">4.3-4.5%</td><td>-</td><td>S&P 500 Hi-Yield</td></tr>
+                    <tr><td>SCHD</td><td class="yield-mid">3.5-3.8%</td><td>~17x</td><td>คุณภาพ + เติบโต</td></tr>
+                    <tr><td>VYM</td><td class="yield-low">3-3.2%</td><td>~20x</td><td>กระจายตัว 500+ หุ้น</td></tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- 📊 เปรียบเทียบ -->
+    <div class="section">
+        <div class="section-title">📊 เปรียบเทียบ: S&P 500 vs Dividend</div>
+        <div class="card">
+            <div class="comparison">
+                <div class="compare-box winner">
+                    <div class="big" style="color: #4ade80;">15-16%</div>
+                    <div class="label">S&P 500 CAGR</div>
+                </div>
+                <div class="compare-box">
+                    <div class="big" style="color: #fbbf24;">12-13%</div>
+                    <div class="label">SCHD CAGR</div>
+                </div>
+                <div class="compare-box">
+                    <div class="big" style="color: #f87171;">-18%</div>
+                    <div class="label">S&P 500 ปี 2022</div>
+                </div>
+                <div class="compare-box winner">
+                    <div class="big" style="color: #4ade80;">-3.2%</div>
+                    <div class="label">SCHD ปี 2022</div>
+                </div>
+            </div>
+            <div class="note" style="margin-top: 20px;">
+                💡 <strong>สรุป:</strong> S&P 500 ให้ผลตอบแทนสูงกว่า 4-5% ต่อปี แต่ SCHD ลดความผันผวนได้มาก<br>
+                • อายุ &lt; 50 + ไม่ต้องการเงินสด → S&P 500 ชนะ<br>
+                • ต้องการ income / ใกล้เกษียณ / ทนขาลงไม่ไหว → SCHD หรือ hybrid
+            </div>
+        </div>
+    </div>
+
+    <!-- 💡 Quick Pick -->
+    <div class="section">
+        <div class="section-title">🎯 Quick Pick สรุปสั้น</div>
+        <div class="grid">
+            <div class="card" style="border: 1px solid #4ade80;">
+                <h3 style="color: #4ade80; margin-bottom: 10px;">✅ เริ่มต้นง่ายสุด</h3>
+                <p><strong>SCHD</strong> — คุณภาพสูง Yield 3.5% + Capital Gain</p>
+                <p><strong>VYM</strong> — กระจายตัวมาก 500+ หุ้น</p>
+            </div>
+            <div class="card" style="border: 1px solid #ffd700;">
+                <h3 style="color: #ffd700; margin-bottom: 10px;">🇹🇭 หุ้นไทย</h3>
+                <p><strong>PTT + BBL + RATCH</strong> — Blue chip 稳</p>
+                <p><strong>TPIPP + WHABOW</strong> — REITs yield สูง</p>
+            </div>
+            <div class="card" style="border: 1px solid #ff6b6b;">
+                <h3 style="color: #ff6b6b; margin-bottom: 10px;">🔥 Yield สูงสุด</h3>
+                <p><strong>DMAS (อินโด)</strong> — 18-21%</p>
+                <p><strong>Aval Data (ญี่ปุ่น)</strong> — 14-15%</p>
+                <p><strong>MO (USA)</strong> — 8-9%</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        🦐 รายงานจาก Gemini CLI • อัปเดต 30 มี.ค. 2569<br>
+        ⚠️ ข้อมูลประมาณการ ควรตรวจสอบราคา/ yield ล่าสุดก่อนตัดสินใจลงทุน
+    </div>
+</body>
+</html>

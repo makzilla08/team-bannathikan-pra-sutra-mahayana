@@ -1,0 +1,839 @@
+Digital Sanskrit Buddhist Canon - Books
+
+        .error {
+            color: red;
+        }
+
+                Digital Sanskrit Buddhist Canon
+
+×
+
+Home
+
+Canon Texts
+
+Main Introduction
+
+Browse By List
+
+Romanized
+
+देवनागरी
+
+Bibliography
+
+Manuscripts
+
+Introduction
+
+Short History
+
+Contributors
+
+People
+
+Browse Gallery
+
+Resources
+
+Links
+
+Catalog
+
+About Us
+
+Donations
+
+People
+
+Usage Policy
+
+News
+
+Contact Us
+
+(626) 571-8811 ext.321
+
+[email protected]
+
+Home
+
+Canon Texts
+
+Main Introduction
+
+Browse By
+                                                    Category
+
+Browse By List
+
+Romanized
+
+देवनागरी
+
+Bibliography
+
+Manuscripts
+
+Introduction
+
+Short History
+
+Contributors
+
+People
+
+Browse Gallery
+
+Resources
+
+Links
+
+Catalog
+
+About Us
+
+Donations
+
+People
+
+Usage Policy
+
+News
+
+Contact Us
+
+Home
+
+Canon Text
+
+Romanized
+
+sūtrapiṭaka
+
+mahāyānasūtra
+
+36 pramuditanayanajagadvirocanā
+
+36 pramuditanayanajagadvirocanā
+
+Technical Details
+
+Text Version:
+
+Romanized
+
+Input Personnel: 
+
+DSBC Staff
+
+Input Date: 
+
+2004
+
+Proof Reader: 
+
+Miroj Shakya
+
+Supplier: 
+
+Nagarjuna Institute of Exact Methods
+
+Sponsor: 
+
+University of the West
+
+Parallel
+                                                            Devanāgarī version
+
+३६ प्रमुदितनयनजगद्विरोचना
+
+                            36 pramuditanayanajagadvirocanā|
+
+atha khalu sudhanaḥ śreṣṭhidārakaḥ kalyāṇamitrānuśāsanyāveśāviṣṭaḥ kalyāṇamitravacanapratipattisaṃbhūtacittaḥ kalyāṇamitravaidyeṣvāturasaṃjñāsamudācāracittaḥ kalyāṇamitradarśanamanasikārāvikṣiptacittaḥ kalyāṇamitradarśanasarvāvaraṇaparvatavikiraṇāvakāśapratilabdhacittaḥ kalyāṇamitradarśanena sarvasattvadhātuparitrāṇamahākaruṇānayasāgarāvataraṇapratilabdhacittaḥ kalyāṇamitradarśanena dharmadhātunayasāgarajñānāvabhāsapratilabdhacitto yena pramuditanayanajagadvirocanā nāma rātridevatā tenopasaṃkrāntaḥ||
+
+atha khalu pramuditanayanajagadvirocanā rātridevatā sudhanasya śreṣṭhidārakasya bhūyasyā mātrayā kalyāṇamitropasaṃkramaṇakuśalamūlasaṃbhārasaṃbhavaparipākamupādāya mahāsaṃbhārasaṃbhavakalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| mahāvikramaṃ kalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| duravataraṇavīryakarmakalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| suciravilagnaṃ kalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| anantamadhyadikpraveśaṃ kalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| dīrghādhvasaṃvasanasaṃbhavaṃ kalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| anantakāryasaṃpūrṇavijñaptisaṃbhavaṃ kalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| anantamadhyamārgavyūhasaṃbhārakramaṇaṃ kalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| samantamukhavikramasaṃbhavaṃ kalyāṇamitropasaṃkramaṇamadhyatiṣṭhat| anuccalanāgamanavikramaṃ kalyāṇamitropasaṃkramaṇamadhyatiṣṭhat||
+
+atha khalu sudhanaḥ śreṣṭhidārakaḥ sarvajñatāsaṃbhāravīryaparākrameṇa kalyāṇamitropasaṃkramaṇena, mahāpraṇidhānasāgarābhinirhāravikrameṇa kalyāṇamitropasaṃkramaṇena, ekasattvārthamaparāntakalpāparyantaduḥkhānubhavavyavasitena kalyāṇamitropasaṃkramaṇena, ekaparamāṇurajasi sarvadharmadhātvanucaraṇavilambavikrameṇa mahāvīryakavacavarmaṇā kalyāṇamitropasaṃkramaṇena, sarvadiksamudraprasarānujavanena kalyāṇamitropasaṃkramaṇena, ekavālapathe aparāntakalpabodhisattvacaryāsaṃvasanena kalyāṇamitropasaṃkramaṇena, bodhisattvacaryāprāptasya praticittakṣaṇaṃ sakalasarvajñatājñānapratiṣṭhānena kalyāṇamitropasaṃkramaṇena, tryadhvaprāptasarvatathāgatavikurvitavyūhamārgākramaṇavyavasitena kalyāṇamitropasaṃkramaṇena, sarvadharmadhātunayasrotaḥprasṛtamārgākrameṇa kalyāṇamitropasaṃkramaṇena, sarvadharmadhātunayārambaṇānuccalitena sakaladharmadhātuspharaṇena kalyāṇamitropasaṃkramaṇena yena pramuditanayanajagadvirocanā rātridevatā tenopasaṃkrāntaḥ||
+
+so'paśyat pramuditanayanajagadvirocanāṃ rātridevatāṃ bhagavataḥ parṣanmaṇḍale puṣpagarbhasiṃhāsananiṣaṇṇāṃ samantabhadraprītivipulavimalavegadhvajaṃ bodhisattvasamādhiṃ samāpannām| tasyāścāpaśyat sarvaromavivarebhyaḥ sarvasattvābhirocanāṃ sarvasattvābhirucitāṃ sarvasattvadarśanānukūlāṃ sarvasattvapriyadarśanavividhadānādipāramitācaryābhidyotanameghānniścaramāṇan yaduta sarvasattvayathāśayavijñaptisamarutadānacaryāsaṃdarśanameghān sarvasattvānugrahāvigrahāya sarvavastvanavekṣaṇatāyai sarvasattvasamaprayogāparityāgitāyai sarvasattvasamacittatāyai sarvasattvāvimānanāparityāgatāyai ādhyātmikabāhyasarvavastuparityāgitāyai mahāduṣkaraparityāgasaṃdarśanatāyai sarvaloke yathāśayasattvadānacaryāsaṃdarśanatāyai tryadhvaprāptabodhisattvācintyaduṣkaracaryāparityāganirmāṇameghānniścaritvā daśasu dikṣu sarvalokadhātuprasaraparyāpannānāṃ sarvasattvānāṃ vijñaptimāgacchato'paśyat yadutācintyabodhisattvavṛṣabhitāvikurvitapratilābhena||
+
+sarvaromavivarebhyaḥ sarvasattvasamāpannānaupapattinirmāṇakāyameghānniścaritvā sarvalokadhātuparyāpannān sarvasattvān spharitvā abhimukhaṃ sarvavratasamādānākampyatāṃ saṃdarśayamānān sattvadhātusamaṃ nānātapovratamaṇḍalamudyotayamānān sarvasarvalokaniśrayatāṃ sarvaviṣayānavekṣatāṃsarvasaṃsārasaṃvāsavimukhatāṃ divyamānuṣasaṃpattivipattisukhasamavasaraṇatāṃ saṃdarśayamānān aśubhamaṇḍalamudyotayamānān, śubhasaṃjñāviparyāsaṃ loke vinivartayamānān, anityacalavyayapariṇāmadharmatāṃ paridīpayamānān, duḥkhānātmasarvasaṃskāradharmatāṃ saṃdarśayamānān, tathāgataviṣayasaṃvāsāvipravāsatāṃ rocayamānān, atyantatathāgataśīlapariśuddhaye sattvān samādāpayamānān, sarvasattvayathāśayarutaśīlacaryāṃ saṃdarśayamānān, sarvasattvasaṃtoṣaṇaśīlasugandhikatāṃ saṃdarśayamānān, sarvasattvān paripācayamānānapaśyat||
+
+sarvaromavivarebhyaśca sarvasattvadhātusamāpannān nānāvarṇātmabhāvanirmāṇameghānniścaritvā sarvasattvānāṃ sarvāṅgapratyaṅgacchedādhivāsanatāṃ saṃdarśayamānān, sarvasattvakāyotpīḍanopakramaṇādhivāsanatāṃ saṃdarśayamānān, sarvasattvāsatyavacanākrośaparibhāṣaṇakutsanapaṃsanatāḍanatarjanādhivāsanatāṃ saṃdarśayamānān, sarvasattvākṣobhyatāṃ saṃdarśayamānān sarvasattvasatkārānunnāmāvanāmatāṃ saṃdarśayamānān, sarvasattvanirabhimānatāṃ saṃdarśayamānān, sarvadharmasvabhāvakṣāntyakṣayatākṣayajñānatāṃ saṃdarśayamānān, sarvasattvasarvakleśaprahāṇāya kṣānticaryāṃ saṃdarśayamānān sarvasattvānāṃ, visaṃsthitadurvarṇāśrayaśarīratāṃ vyāvartayamānān sarvasattvānāmanuttarāṃ tathāgatavarṇaviśuddhiṃ saṃvarṇayamānān sattvān paripācayamānānapaśyat||
+
+sarvaromavivarebhyaśca sarvasattvasamānnānāvarṇasaṃsthānārohapariṇāhān nānopapattikasattvakāyanirmāṇameghānniścārya yathāśayān sattvān spharitvā sarvajñatāmahāsaṃbhāravīryaparākramatāṃ saṃdarśayamānān, sarvamārakalivikiraṇavīryatāṃ bodhyārambhākṣobhyāvivartyavīryatāṃ sarvasattvasaṃsārasāgarottāraṇavīryatāṃ sarvākṣaṇāpāyadurgativinipātapathavinivartanavīryatāmajñānaparvatavikiraṇavīryatāṃ sarvatathāgatapūjopasthānāparikhedavīryatāṃ sarvabuddhadharmacakrasaṃpratīcchanasaṃdhāraṇavīryatāṃ sarvāvaraṇaparvatanirbhedanavikiraṇavīryatāṃ sarvasattvaparipākavinayāparikhedavīryatāṃ sarvabuddhakṣetrapariśodhanavīryatāmanuttarāṃ tathāgatavīryaviśuddhiṃ saṃdarśayamānān sattvān paripācayamānānapaśyat||
+
+sarvaromavivarebhyaśca nānāvarṇasaṃsthānān vividhātmabhāvanirmāṇameghānniścaritvā nānopāyaiḥ sattvānāṃ prītiṃ saṃjanayamānān, daurmanasyaṃ vinivartayamānān, sarvakāmaratiṃ vijugupsamānān, hrīdharmatāṃ loke prabhāvayamānān, guptendriyatāyāṃ sattvān pratiṣṭhāpayamānān, anuttarabrahmacaryaṃ saṃvarṇayamānān, sabhayaṃ kāmalokamāraviṣayaṃ saṃdarśayamānān, vigatakāmaratīnāmapi sarvalokakāmarativiṣayaṃ saṃdarśayamānān, dharmārāmaratyāṃ sattvān pratiṣṭhāpayamānān, anupūrvadhyānasamādhisamāpattisukhānyabhinirharamāṇān, sarvasattvasarvakleśanidhyapticittatāṃ saṃvarṇayamānān, sarvabodhisattvasamādhisamudravikurvaṇatāṃ saṃdarśayamānān, bodhisattvābhijñāvikurvitavṛṣabhitāṃ saṃdarśayamānān, sattvānāṃ prītiṃ saṃjanayamānān, prāmodyamutpādayamānān, daurmanasyaṃ vyāvartayamānān, cittakalyatāmāvahayamānān, cittakarmaṇyatāṃ kurvāṇān, āśayaṃ viśodhayamānān, indriyāṇyuttāpayamānān, kāyasukhaṃ saṃjanayamānān, dharmaprītivegaṃ vivardhayamānān sattvān paripācayamānānapaśyat||
+
+sarvaromavivarebhyaśca sarvopapattisadṛśaśarīrānnānākāyameghānniścaritvā sarvakṣetragatasarvasattvābhimukhābhirucitadarśanatāyai sarvakalyāṇamitropasaṃkramaṇāparikhedatāṃ saṃdarśayamānān, sarvācāryagurukalyāṇamitropasthānaparicaryāparikhedatāṃ saṃdarśayamānān, sarvatathāgatadharmacakrapravartanasaṃpratīcchanasaṃdhāraṇāparikhedavīryatāṃ saṃdarśayamānān, sarvadharmamukhasamudrān pravicinvānān, sarvabuddhasamudrāvatāraṇanayaṃ saṃvarṇayamānān, sarvadharmalakṣaṇasvabhāvanayamabhidyotayamānān, sarvadharmān, samādhidvāraṃ saṃdarśayamānān, sarvasattvadṛṣṭiparvatanirbhedanaṃ prajñāvajraṃ saṃdarśayamānān, anekacittakṣaṇasamāyogena sarvasattvāvidyāndhakāravidhamanaprajñādityamaṇḍalodāgamaṃ saṃdarśayamānān, sarvasattvaprītisaṃjananatayā sarvajñatāyāṃ sattvān paripācayamānānapaśyat||
+
+sarvaromavivarebhyaśca sarvajagatsamānudārācintyanānāvarṇavikalpasaṃsthān ātmabhāvanirmāṇameghānniścaritvā yathāśayādhimuktasarvasattvābhimukhasthitān nānārutamantrasaṃskāranirdeśaiḥ sarvalaukikapuṇyābhijñatāṃ saṃdarśayamānān, sarvalaukikakṛtyapracārataśca sarvatraidhātukasaṃbhavasaṃdarśanataśca sarvatraidhātukaniḥsaraṇadiksaṃvarṇanataśca sarvadṛṣṭikāntāragahananiḥsaraṇadiksaṃdarśanataśca sarvajñatāmārgaviśeṣatāṃ saṃvarṇayamānān, śrāvakapratyekabuddhabhūmipathasamatikramaṃ saṃdarśayamānān, saṃskārāsaṃskārānunayapratighānunaye'pratighānunayatāṃ saṃdarśayamānān, saṃsāranirvāṇasukhāsaṃniśritatāṃ saṃdarśayamānān, tuṣitabhavanavāsādiparaṃparāgamanāpratiprasrabdhiṃ saṃdarśayamānān, bodhimaṇḍaprasthānābhisaṃbodhāpratiprasrabdhiṃ saṃdarśayamānān, sarvajñatāyāṃ sattvān paridīpayamānānapaśyat||
+
+sarvaromavivarebhyaśca ekaikasmādromavivarāt sarvakṣetraparamāṇurajaḥsamānātmabhāvanirmāṇameghānniścaritvā sarvasattvalokābhimukhasthitān samantabhadrabodhisattvacaryāpraṇidhānaṃ saṃvarṇayamānān, sarvadharmadhātuviśuddhiniṣṭhāpraṇidhānavaiśeṣikatāṃ saṃvarṇayamānān, praticittakṣaṇaṃ sarvalokadhātusamudrapariśuddhiṃ saṃvarṇayamānān, sarvatathāgatapūjopasthānāpratiprasrabdhiṃ saṃvarṇayamānān, praticittakṣaṇaṃ sarvadharmanayasāgarāvatārāpratiprasrabdhiṃ saṃvarṇayamānān, praticittakṣaṇaṃ tathāgatabalapraveśāpratiprasrabdhatāṃ saṃvarṇayamānān, praticittakṣaṇaṃ sarvalokadhātusamudraparamāṇurajaḥsamasarvadharmadhātunayasāgarāvataraṇāpratiprasrabdhīḥ saṃdarśayamānān, sarvakṣetreṣvaparāntādhiṣṭhānakalpasaṃvāsasarvajñatāmārgaviśuddhisaṃprakāśanāpratiprasrabdhatāṃ saṃvarṇayamānān, praticittakṣaṇaṃ tathāgatabalapraveśāpratiprasrabdhatāṃ saṃdarśayamānān, sarvatryadhvanayasāgarāvatārāpratiprasrabdhatāṃ saṃdarśayamānān, bodhisattvasarvakṣetrarddhivikurvitasaṃdarśanāpratiprasrabdhatāṃ saṃdarśayamānān, bodhisattvapraṇidhānacaryāsaṃdarśanena sarvasattvān sarvajñatāyāṃ pratiṣṭhāpayamānānapaśyat||
+
+sarvaromavivarebhyaśca ekaikasmādromavivarāt sarvajagaccittasamān kāyanirmāṇameghānniścaritvā sarvasattvābhimukhasthitānaparyantaṃ sarvajñatāsaṃbhārabalaṃ saṃdarśayamānān, abhedyāparyādattāvināśadharmasarvajñatācittabalaṃ saṃdarśayamānān, avivartyāpratyudāvartyādhiṣṭhānāpratiprasrabdhamanuttarasarvabodhisattvacaryāsamudāgamabalaṃ saṃdarśayamānān, sarvasaṃsāradoṣānanulepabalatāṃ bodhisattvānāṃ saṃvarṇayamānān, sarvamāramaṇḍalavikiraṇabalaṃ bodhisattvānāṃ saṃdarśayamānān, sarvakleśamalānanulepakleśabalatāṃ bodhisattvānāṃ saṃdarśayamānān, sarvakarmāvaraṇaparvatavikiraṇabalaṃ bodhisattvānāṃ saṃdarśayamānān, sarvakalpasaṃvāsabodhisattvacaryāparikhedamahākaruṇābalaṃ bodhisattvānāṃ saṃdarśayamānān, sarvabuddhakṣetrasaṃprakampanasaṃkṣobhaṇasarvasattvasaṃpraharṣaṇabalaṃ bodhisattvānāṃ saṃdarśayamānān, sarvamāraparapravādigaṇapramardanabalaṃ bodhisattvānāṃ saṃdarśayamānān, mahādharmacakrapravartanajñānabalaṃ loke prabhāvayamānān, sarvasattvān sarvajñatāyāṃ paridīpayamānānapaśyat||
+
+sarvaromavivarebhyaśca ekaikasmādromavivarāt sarvajagaccittasamādānānantavarṇakāyanirmāṇasamudremeghānniścaritvā daśadiganantasattvadhātuspharaṇān yathāśayādhimuktānāṃ sattvānāṃ bodhisattvacaryājñānavikramaṃ saṃdarśayamānān, sarvasattvadhātusamudrāvataraṇajñānaṃ saṃdarśayamānān, sarvasattvacittasamudrāvataraṇajñānaṃ saṃdarśayamānān, sarvasattvendriyasāgaraparijñājñānaṃ saṃdarśayamānān, sarvasattvacaryāsamudrāvataraṇajñānaṃ saṃdarśayamānān, sarvasattvaparipākavinayakālānatikramaṇajñānaṃ saṃdarśayamānān, sarvadharmadhātvānuravaṇajñānaṃ saṃdarśayamānān, praticittakṣaṇaṃ sarvadharmadhātujñānanayasāgaraspharaṇajñānaṃ saṃdarśayamānān, sarvalokadhātusamudrasaṃvartavivartajñānaṃ saṃdarśayamānān, sarvalokadhātupratiṣṭhānasaṃsthānavyūhavikalpajñānaṃ saṃdarśayamānān, sarvatathāgatapūjāvikurvitopasaṃkramaṇapūjopasthānadharmacakrameghasaṃpratīcchanajñānaṃ saṃdarśayamānān, evaṃ jñānapāramitācaryāsaṃdarśanena sattvānāṃ prītiṃ saṃjanayamānānapaśyat| cittaṃ prasādayamānān prāmodyamutpādayamānān harṣaṃ saṃjanayamānān daurmanasyaṃ vinivartayamānān cittaṃ viśodhayamānān cittakalyatāmāvartayamānān, indriyāṇyuttāpayamānān adhimuktibalaṃ saṃjanayamānān sarvajñatāyāmavaivartyān kurvāṇānapaśyat||
+
+yathā ca pāramitācaryāsaṃdarśanena loke sattvān paripākaṃ vrajato'paśyat, tathā sarvabodhisattvadharmanigarjanena ye ca pramuditanayanajagadvirocanāyā rātridevatāyāḥ prathamacittotpādasaṃbhārāḥ kalyāṇamitrārāgaṇaprayogāḥ tathāgatapādamūlopasaṃkramaṇapūjopasthānaprayogāḥ kuśaladharmacaryābhiyogaprayogāḥ, ye ca dānapāramitācaryāduṣkaraparityāgāḥ, śīlapāramitāpariśodhanaprayogāḥ, mahārājyaiśvaryaparivārabhogādhipatyaparityāgābhiniṣkramaṇaprayogāḥ, ye loke duṣkaracaryāmahāvratatapomaṇḍalakṣāntinirhārāḥ, yā bodhisattvavratasamādānaprayogākampyatā, ye bodhisattvadṛḍhasamādānadharmasamudrāḥ sarvasattvadhātuduṣkṛtadurbhāṣitaduścintitādhivāsanaprayogāḥ, kāyikacaitasikapīḍādhivāasanaprayogāḥ, yā sarvakarmāvipraṇāśadharmatākṣāntiḥ sarvadharmādhimuktikṣāntiḥ sarvadharmasvabhāvanidhyānakṣāntiḥ, yat sarvajñatārambhaprayogavīryam, yat sarvabuddhadharmapariniṣpādanavīryam, yāḥ sarvavīryapāramitācaryāḥ ye dhyānapāramitāsaṃbhārāḥ dhyānapāramitābhiyogāḥ dhyānapāramitāpariniṣpattiviśuddhicaryāḥ, yāni bodhisattvasamādhipratilābhavikurvitāni, ye samādhimukhasamudrāvatārāḥ, yāni dhyānapāramitācaritāni, ye prajñāpāramitāsaṃbhārāḥ, ye bodhisattvamahāprajñādityamaṇḍalaviśodhananayāḥ, ye mahāprajñāmeghasaṃbhavāḥ, ye prajñānidhānasaṃbhārāḥ, ye mahāprajñāmahāsāgaravyavacāraṇanayaprayogāḥ, ye mahopāyakauśalyanayaprayogāḥ, ye mahopāyakauśalyapariśuddhisaṃprayuktāḥ pūrvayogāḥ, yāni bodhisattvamahāpraṇidhipāramitāśarīrāṇi, yā mahāpraṇidhipāramitāpariniṣpattayaḥ, yāni mahāpraṇidhānapāramitācaritāni, ye mahāpraṇidhānapāramitāsaṃprayuktāḥ pūrvayogāḥ, ye balapāramitāpratilābhamahāsaṃbhārāḥ, ye balapāramitāpratyayāḥ , ye balapāramitānayamahāsāgarāḥ, ye balapāramitānirdeśāḥ, ye balapāramitāsaṃprayuktāḥ pūrvayogāḥ, ye jñānapāramitānayāḥ, ye jñānapāramitāprayogāḥ, ye jñānapāramitāviśuddhinayāḥ, yā jñānapāramitādiśaḥ, ye jñānapāramitānugamāḥ, ye jñānapāramitāprasarāḥ, yāni jñānapāramitānayasamavasaraṇāni, ye jñānapāramitāvijñaptinayāḥ, yāni jñānapāramitāprasarānusaraṇāni, yāni jñānapāramitāspharaṇāni, ye jñānapāramitāpravistarāḥ, ye jñānapāramitākāyāḥ, ye jñānapāramitāsamudranayāḥ, ye jñānapāramitāpariniṣpattisaṃprayuktāḥ pūrvayogāḥ, ye jñānapāramitācaryāprakārapravicayapraveśasaṃbhavasamudāgamāḥ, ye jñānapāramitāsamavasaraṇanayasaṃprayuktā dharmādharmasaṃgrahadharmajñānānugamāḥ karmajñānānugamāḥ kṣetrajñānānugamāḥ kalpajñānānugamāḥ tryadhvajñānānugamāḥ buddhotpādajñānānugamā buddhajñānānugamā bodhisattvajñānānugamā bodhisattvacittasaṃbhavajñānānugamā bodhisattvavyavasthānajñānānugamā bodhisattvasaṃbhavajñānānugamāḥ, bodhisattvaprasthānajñānānugamāḥ, bodhisattvapraṇidhijñānānugamāḥ, bodhisattvadharmacakrajñānānugamāḥ, bodhisattvadharmapravicayajñānānugamāḥ, bodhisattvadharmasāgaranayajñānānugamāḥ, bodhisattvadharmasamudrajñānānugamāḥ, bodhisattvadharmaparivartajñānānugamāḥ, bodhisattvadharmanidhānajñānānugamāḥ, bodhisattvadharmagatijñānānugamāḥ, ye pramuditanayanajagadvirocanāyā rātridevatāyā yāvadanantamadhyārambaṇajñānapāramitāsaṃprayuktā bodhisattvadharmāḥ, tānasyāḥ sarvaromavivarebhya ekaikaromavivaravisṛtanānāvarṇasattvakāyameghaniścaritān sattvān paripācayamānānapaśyat| yaduta akaniṣṭhasudarśanasudṛśātapobṛhacchuddhāvāsadevasadṛśakāyameghaniścaritān sattvān paripācayamānānapaśyat| evaṃ bṛhatphalapuṇyaprasavānabhrakadevasadṛśakāyameghaniścaritān sattvān paripācayamānānapaśyat| śubhakṛtsnāpramāṇaśubhaparīttaśubhadevasadṛśakāyameghaniścaritān sattvān paripācayamānāpaśyat| ābhāsvarāpramāṇābhaparīttābhadevasadṛśakāyameghaniścaritān sattvān paripācayamānānapaśyat| mahābrahmabrahmapurohitabrahmapārṣadadevasadṛśakāyameghaniścaritān sattvān paripācayamānānapaśyat| sāpsarogaṇasadevaputravaśavartidevarājasadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| sāpsarogaṇasadevaputrasunirmitadevarājasadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| sāpsarogaṇasadevaputrasaṃtuṣitadevarājasadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| sāpsarogaṇasadevaputrasuyāmadevarājasadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| sāpsarogaṇasadevaputraśakradevarājasadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| dhṛtarāṣṭragandharvarājagandharvaputragandharvakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| virūḍhakakumbhāṇḍarājakumbhāṇḍaputrakumbhāṇḍakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| virūpākṣanāgarājanāgaputranāgakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| vaiśravaṇamahāyakṣarājayakṣaputrayakṣakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| drumakinnararājakinnaraputrakinnarakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| sumatimahoragendramahoragaputramahoragakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| mahābalavegasthāmagaruḍendragaruḍaputragaruḍakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| rāhvasurendrāsuraputrāsurakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| yamadharmarājayamaputrayamakanyāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| sarvamanuṣyendranaranārīdārakadārikāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| evaṃ sarvagatiparyāpannasarvasattvasadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| sarvaśrāvakapratyekabuddharṣisadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| vāyvaptejaḥskandhadevatāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| sāgaranadīparvatavanaspatyauṣadhivṛkṣapṛthivīdevatāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| udyānanagarabodhimaṇḍarātridivasagaganadikpādagāminīśarīrakāyikadevatāsadṛśātmabhāvameghaniścaritān sattvān paripācayamānānapaśyat| evaṃ yāvadvajrapāṇisādṛśātmabhāvameghaniścaritān daśa diśaḥ spharitvā dharmadhātunayaprasareṣu sarvasattvasaṃmukhībhāvasthitān sattvān paripācayamānānapaśyat||
+
+ye ca pramuditanayanajagadvirocanāyā rātridevatāyāḥ prathamacittotpādasaṃbhāramukhāḥ pūrvajanmasamudāgatakuśalacittaparaṃparāvyavacchedanayāḥ, yāni ca bodhicittotpādapraśaṃsāparaṃparānantaryāṇi cyutyupapattiparigrahaparaṃparānantaryāṇi ātmabhāvaparigrahaparaṃparānantaryāṇi nāmacakraparaṃparānantaryāṇi kalyāṇamitropasaṃkramaṇaparaṃparānantaryāṇi buddhotpādārāgaṇaparaṃparānantaryāṇi, dharmapadavyañjanodgrahaparaṃparānantaryāṇi bodhisattvamārgapratipatticittaparaṃparānantaryāṇi samādhipratilābhaparaṃparānantaryāṇi samādhipratilābhādbuddhadarśanaparaṃparānantaryāṇi kṣetradarśanacakṣuspharaṇaparaṃparānantaryāṇi kalpaparaṃparājñānacakrānantaryāṇi dharmadhātuprativedhajñānaparaṃparānantaryāṇi sattvadhātuvyavalokanajñānaparaṃparānantaryāṇi dharmadhātunayasāgarāvataraṇaparaṃparācyutyupapattijñānaparaṃparānantaryāṇi divyaśrotrapariśuddhipratyavekṣaṇajñānaparaṃparānantaryāṇi sarvasattvadhātucittavyavalokanasarasvatyavakrāntimukhaparaṃparānantaryāṇi prathamadivyacakṣuravakrāntimukhaparaṃparānantaryāṇi prathamadivyaśrotravijñaptiparaṃparānantaryāṇi prathamaparasattvacittajñānaparaṃparānantaryāṇi prathamātmaparasattvapūrvanivāsānusmṛtijñānaparaṃparānantaryāṇi prathamābhāvapratiṣṭhānābhisaṃskārarddhipratilābhapratyayaparaṃparānantaryāṇi maharddhivikramadikspharaṇaparaṃparānantaryāṇi bodhisattvavimokṣapratilābhaparaṃparānantaryāṇi bodhisattvavimokṣasāgarācintyanayāvatāraparaṃparānantaryāṇi bodhisattvavikurvitaparaṃparānantaryāṇi bodhisattvavikramaparaṃparānantaryāṇi bodhisattvākramaparaṃparānantaryāṇi bodhisattvasaṃjñāgataparaṃparānantaryāṇi bodhisattvamārgāvatāraparaṃparānantaryāṇi, yāvad yāni pramuditanayanajagadvirocanāyā rātridevatāyā bodhisattvasusūkṣmajñānapraveśaparaṃparānantaryāṇi, tāni asyāḥ sarvaromavivarebhyo nirmāṇakāyameghānniścaritvā sattvebhyo dharmaṃ deśayamānānapaśyat| saṃprakāśayamānān dyotayamānān saṃdarśayamānān udīrayamānān pravibhajamānān pravistaramānān gaṇayato nirdiśyamānān vijñāpayamānān upasaṃharamāṇānapaśyat||
+
+keṣāṃcidvātamaṇḍalīsaṃkṣobhanirghoṣarutena deśayamānānapaśyat| keṣāṃcidapskandhasaṃkacchananirnādarutena, keṣāṃcijjvalanārcinigarjitarutena, keṣāṃcit sāgaragarjitanirghoṣarutena, keṣāṃcit pṛthivīsaṃkampananirnādarutena, keṣāṃcinmahāparvatarājasaṃghaṭṭanasaṃharṣaṇanirghoṣanirnādarutena, keṣāṃciddevanagarasaṃkampanamadhuranirnādanirghoṣarutena, keṣāṃciddivyavimānasaṃghaṭṭanarutena, keṣāṃciddevendrarutena, keṣāṃcinnāgendrarutena, keṣāṃcidyakṣendrarutena, keṣāṃcidgandhavendrarutena, keṣāṃcidasurendrarutena, keṣāṃcidgaruḍendrarutena, keṣāṃcinmahoragarutena, keṣāṃciddevarutena, keṣāṃcitkinnarendrarutena, keṣāṃcinmanuṣyendrarutena, keṣāṃcidbrahmendrarutena, keṣāṃcidapsaraḥsaṃgītirutena, keṣāṃciddivyatūryasaṃpravādanarutena, keṣāṃcinmaṇirājanirghoṣarutena, keṣāṃcit sarvasattvakāyanānārutaiḥ pramuditanayanajagadvirocanāyā rātridevatāyā vimokṣaviṣayaṃ sattvānāṃ prabhāvayamānānapaśyat| evaṃ bodhisattvātmabhāvameghairnānābodhisattvarutaistathāgatanirmāṇakāyameghaistathāgatarutavimātratāsvarāṅganayaiḥ pramuditanayanajagadvirocanāyā rātridevatāyā vimokṣaviṣayaṃ saprathamacittotpādasaṃbhavaniṣpattisamudāgamaṃ savimokṣavikrīḍitaṃ sarvasattvānāṃ vijñapyamānānapaśyat||
+
+tasyā ekaikena nirmāṇarūpameghena praticittakṣaṇamanabhilāpyānabhilāpyāni daśadiśi loke buddhakṣetrāṇi viśodhyamānānapaśyat| anantamadhyān sattvasamudrān sarvāpāyaduḥkhebhyo vimocyamānānapaśyat| anantamadhyaṃ sattvadhātuṃ devamanuṣyasaṃpattau pratiṣṭhāpyamānānapaśyat| anantamadhyān sattvasamudrān saṃsārasāgarāduccālyamānānapaśyat| anantamadhyān sattvasamudrān śrāvakapratyekabuddhabhūmau pratiṣṭhāpyamānānapaśyat| praticittakṣaṇamanantamadhyān sattvasamudrān daśabhūmāvāvartamānān sudhanaḥ śreṣṭhidārakaḥ paśyati sma, śṛṇoti vyavacārayati avacarati pratividhyati nidhyāyati anugacchati anusarati anupraviśati samatayādhitiṣṭhati yaduta pramuditanayanajagadvirocanāyā rātridevatāyā acintyasamantabhadraprītivipuladhvajabodhisattvavimokṣavikurvitavṛṣabhitānubhāvena pūrvasabhāgacaritatvāttathāgatādhiṣṭhānādhiṣṭhitatvādacintyakuśalamūlaparipākena samantabhadrāyāśca bodhisattvacaryāyā bhājanībhūtatvāt||
+
+atha khalu sudhanaḥ śreṣṭhidārako mahābodhisattvaprītivegasāgarāvabhāsapratilabdho daśadiktathāgatādhiṣṭhitaḥ pramuditanayanajagadvirocanāyā rātridevatāyāḥ purataḥ prāñjaliḥ sthitvā pramuditanayanajagadvirocanāṃ rātridevatāmābhiḥ sārūpyābhirgāthābhirabhyaṣṭauṣīt—
+
+gambhīradharmata jinānāṃ yatra suśikṣitāsyamitakalpān| 
+
+daśadiśi loki anupūrvaṃ rūpa yathāśayaṃ jagu pharitvā||1||
+
+jñātvā nirātmakamanāthaṃ vitatha visaṃjñinaṃ satatabhrāntam| 
+
+ṛddhyā anekavidha kāyaiśvarya vidarśatva jagu vinesi||2||
+
+atyantavijvara praśāntā dharmaśarīra advayaviśuddhā| 
+
+dvayāniśritaṃ jagaśeṣaṃ nirmitameghagarjana vinesi||3||
+
+na ca skandhaāyatanadhātau niśrayu tubhya vidyati kadācit| 
+
+sarvāṅgapūrṇavararūpaiśvaryaṃ nigarjanairjagu vinesi||4||
+
+adhyātmabāhiravimuktā uccalitā dvayodbhavasamudrāt| 
+
+saṃsārasāgari anantān darśayase gatīṣu pratibhāsān||5||
+
+na ca tubhya iñjana kadācinmanyana syandanā na ca prapañcā| 
+
+loke prapañcaratabālān dharmasvabhāva darśayi vinesi||6||
+
+ekāgracitta bahukalpān sarvasamādhisāgaravihāraiḥ| 
+
+pūjārthamutsṛjasi romnā nirmitamegha dikṣu sugatānām||7||
+
+buddhabalanayapraveśānotarasi pratikṣaṇamanantān| 
+
+sarvān saṃgrahaprayogaṃ darśayase yathāsvamavatāraiḥ||8||
+
+vyavalokya tvaṃ bhavasamudraṃ karmavicitritaṃ vividharūpān| 
+
+dharmeṣvanāvaraṇamārgaṃ deśayatī viśodhayasi sattvān||9||
+
+rūpaṃ ti lakṣaṇavicitraṃ śuddha samantabhadracaraṇena| 
+
+sattvānāmāśayavaśā tvaṃ devata rūpu darśayasi loke||10||
+
+atha khalu sudhanaḥ śreṣṭhidārakaḥ pramuditanayanajagadvirocanāṃ rātridevatāmābhiḥ sārūpyābhirgāthābhirabhiṣṭutya etadavocat-kiyacciraṃ saṃsthitāsi devate anuttarāyāṃ samyaksaṃbodhau? kiyaccirapratilabdhaścāyaṃ tvayā devate samantabhadraprītivipulavimalavegadhvajo bodhisattvavimokṣa iti||
+
+atha khalu pramuditanayanajagadvirocanā rātridevatā sudhanaṃ śreṣṭhidārakaṃ gāthābhiradhyabhāṣata—
+
+smarāmi atīta bahukalpān kṣetrarajopamāstata pareṇa| 
+
+kṣetraṃ maṇiprabhasukhābhaṃ tatra praśāntaghoṣu anukalpaḥ||11||
+
+daśacāturdvīpanayutānāṃ koṭiśatasahasra paripūrṇam| 
+
+maṇiparvatābhaparimāṇaṃ madhyama cāturdvīpa suvicitram||12||
+
+daśarājadhāninayutānāṃ koṭiśataiḥ sahasraparipūrṇam| 
+
+gandhadhvajā maṇiprabhāsā madhyamarājadhāni ramaṇīyā||13||
+
+tasyāṃ viśāṃpatirabhūṣī pārthivacakravartirabhirūpo| 
+
+dvātriṃśalakṣaṇasamaṅgī so'nuvyañjanai racitagātraḥ||14||
+
+upapāduko padumagarbhe kāñcanavarṇasuprabhaśarīro| 
+
+jambudhvajaṃ sakalu sarva spharati prabhāya so gaganacārī||15||
+
+putrāṇa tasya paripūrṇa śūravarāṅgarūpiṇa sahasrā| 
+
+koṭī amātya paripūrṇā paṇḍita dakṣa viddha medhāvī||16||
+
+daśa istrikoṭi paripūrṇāḥ apsarasādṛśā ratividhijñā| 
+
+tāḥ sniogdhacitta hitacittā maitramanā upasthihiṣu rājñaḥ ||17 ||
+
+so co mahāpṛthivīrājā parvatacakravālapariyantāḥ| 
+
+catvāra dvīpa susamṛddhā dharmabalena āvasati sarvān||18||
+
+ahu cakravartivarabhāryā brahmarutasvarā racanakāyā| 
+
+vimalaprabhā kanakavarṇā spharami prabhāya yojanasahasram||19||
+
+astaṃ gate dinakararaśmi svapiti nṛpe saputraparivāraiḥ| 
+
+saṃgītighoṣa upaśānte śayanagatā ahu sukhaprasuptā||20||
+
+rātrimadhyamaki yāme buddha utpannu bhū śirisamudraḥ| 
+
+tasmin vikurvita anantā darśi jino daśaddiśi pharitvā||21||
+
+tān sarvakṣetrarajatulyāno siripūjitaḥ prabhasamudrān| 
+
+nānāvikurvitaśarīrān yehi pharī diśo daśa aśeṣāḥ||22||
+
+pṛthivī prakampita saśailā ghoṣa nigarji te jina utpanno| 
+
+devāsurā manujanāgāḥ sarvi praharṣi te jina utpannaḥ||23||
+
+buddhasya nirmitasamudrā niścari sarvaromavivarebhyaḥ| 
+
+te co daśaddiśi pharitvā loki yathāśaye bhaṇiṣu dharmam||24||
+
+tāṃśco vikurvita anantān supini jino nidarśi mama sarvān| 
+
+gambhīra garjita śruṇitvā prīti mamā abhūṣi supinānte||25||
+
+daśa rātridevatasahasrā upari mama sthitā nabhatalasmin| 
+
+varṇānudīryanta jinasya divyarutena māṃ bhaṇi prabodhya||26||
+
+uttiṣṭha devamatibhārye eṣa jinopapanna tava rājye| 
+
+kalpāna sāgaraśatebhi durlabha saṃpaśyan sukhi viśuddho||27||
+
+ahu prītisaṃbhuta vibuddhā paśyami ābha nirmala viśuddhām| 
+
+saṃpaśya'kṣṇa iyamābhā paśyami buddha bodhidrumarāje||28||
+
+dvātriṃśalakṣaṇavicitro raśmisamudra osaritu romāt| 
+
+abhyudgato yatha sumeru dakṣiṇavāmato jina samantāt||29||
+
+dṛṣṭvā mama pramuditāyāścittamutpannamīdṛśa bhaveyam| 
+
+praṇidhiśca me kṛtu udāro buddhavikurvitaṃ vipula dṛṣṭvā||30||
+
+pratibodhitaḥ sa maya rājā istrigaṇaśca yo'sya parivāram| 
+
+buddhaprabhā vipula dṛṣṭvā sarvi abhūṣi prīṇitaśarīrāḥ||31||
+
+upasaṃkramī jinasakāśaṃ svāmina sārdha yānanayutebhiḥ|
+
+bahuprāṇikoṭinayutebhiḥ saṃparivāritaḥ sabalakāyaḥ||32||
+
+pūjā kṛtā mayi jinasyo varṣasahasra viṃśati anūnā| 
+
+niryātitā ratana sapto pṛthivī sasāgarā ca sugatasya||33||
+
+sūtrāsamudra guṇameghān praṇidhisamudra saṃbhavaviyūhān| 
+
+sarvāṃstathāgataprabhavān deśayate yathāśaya jagasmin||34||
+
+sā rātridevata hitārthaṃ bodhayi māṃ tadā karuṇajātā| 
+
+tasyāṃ mama spṛha utpannā īdṛśa bhūtva bodhayi pramattān||35||
+
+etanmama praṇidhicittaṃ prathamamupapannamagravarabodhau| 
+
+saṃsārasāgaragatāyā no mama niścitā bhavasamudraiḥ||36||
+
+daśa buddhakoṭinayutāni ye mama pūjitā janiya śraddhām| 
+
+saṃsāri devamanujeṣū viṣayaratisukhānyabhilaṣantyā||37||
+
+prathamo jinaḥ śirisamudrastatsamanantaraṃ guṇapradīpaḥ| 
+
+tṛtīyo jino ratanaketurbuddha caturtha bhūdgaganaprajñaḥ||38||
+
+jina pañcamaḥ kusumagarbhaḥ ṣaṣṭhu jino asaṅgamaticandraḥ| 
+
+jinu dharmacandraprabhurājo aṣṭamu jñānamaṇḍalaprabhāsaḥ||39||
+
+racanārciparvatapradīpo navamu abhūṣi tatra dvipadenduḥ| 
+
+daśamastriyadhvaprabhaghoṣaste maya pūjitā pramuditāyā||40||
+
+etān daśa pramukha kṛtvā sarvi ta pūjitā naravarendrā| 
+
+na ca tāva labdha maya cakṣuryeni mamottari nayasamudram||41||
+
+sarvāṅgatastadanu sattvakṣetramabhūṣi sarvaratanābham| 
+
+kalpaśca devaśirināmā tatra utpanna buddha śatapañca||42||
+
+śaśimaṇḍalābhu prathamo'bhū dvitīyu abhūṣi bhāskarapradīpaḥ| 
+
+jyotidhvajastṛtīyu buddhastasya anantaraṃ maṇisumeruḥ||43||
+
+kusumārcisāgarapradīpo jvalanaśirīṣa devaśirigarbhaḥ| 
+
+obhāsarāja prabhaketurdaśamu samantajñānaprabharājaḥ||44||
+
+etān daśa pramukha kṛtvā sarvi ta pūjitā maya narendrāḥ| 
+
+skandhālaye'bhiratayā me dharmi anālaye nilayabuddhyā||45||
+
+arvāgatastadanu dharmapradīpameghaśirināmā| 
+
+atra lokadhātu suvicitraḥ kalpa tadāsi brahmaprabhanāmā||46||
+
+tasmin jinā aparimāṇāḥ te maya pūjitāḥ saparivārāḥ| 
+
+sarveṣa teṣa sugatānāṃ dharma śruto mi gauravi janitvā||47||
+
+prathamo jino ratanamerustatsamanantaraṃ guṇasamudraḥ| 
+
+jinu dharmadhātusvaraketu dharmasamudragarjana caturthaḥ||48||
+
+dharmadhvajo dharaṇitejā dharmabalaprabho gaganabuddhiḥ| 
+
+dharmārcimeruśikharābhaḥ paścima teṣu meghaśirināmā||49||
+
+etān daśa pramukha kṛtvā sarvi ta pūjitā maya narendrā| 
+
+na ca meṣa dharmata vibuddhā yenima otari jinasamudrān||50||
+
+tadanantaraṃ sugata āsī sūryapradīpaketuśirināmā| 
+
+kṣetrā sa buddhamati nāmnā tatra abhūcca somaśirikalpaḥ||51||
+
+tasminnaśītinayutānāṃ yā maya pūjitā daśabalānām| 
+
+vividhairanantavipulebhiḥ pūjamukhebhirnaikarucirebhiḥ||52||
+
+gandharvarāja prathamo'bhū dvitīyu abhūṣi buddhadrumarājaḥ| 
+
+tṛtiyu jino guṇasumerustatsamanantaraṃ ratananetraḥ||53||
+
+vairocanaprabhaviyūho dharmasamudratejaśiri buddhaḥ| 
+
+lokendratejaśiribhadraḥ paścimu sarvadharmaprabharājaḥ||54||
+
+etān daśa pramukha kṛtvā pūjita te mayā sugata sarve| 
+
+na tu tāva labdha maya jñānaṃ saddharmasamudra yenavatareyam||55||
+
+tadanantaraṃ supariśuddhaṃ vajramāṇiabhedyadṛḍhatejaḥ| 
+
+kṣetraṃ samantaprabhameghaṃ naikaviyūhasaṃsthitavicitram||56||
+
+yasmin viśuddha bahusattvāḥ kalyatarāḥ kileśamalakṛṣṭāḥ| 
+
+kalpa praśāntamatitejāḥ buddhasahasrasaṃbhava viyūhā||57||
+
+prathamo jino vajiranābhi dvitīyu abhūdasaṅgabaladhārī| 
+
+jinu dharmadhātupratibhāsaḥ sarvadiśapradīpaprabharājaḥ||58||
+
+jinu pañcamaḥ karuṇatejā ṣaṣṭha abhū jino vratasamudraḥ| 
+
+jinu kṣāntimaṇḍalapradīpo aṣṭama dharmamaṇḍalaprabhāsaḥ||59||
+
+obhāsasāgaraviyūhaḥ paścimu teṣa praśāntaprabharājaḥ| 
+
+etān daśa pramukha kṛtvā sarvi ta pūjitā maya narendrā||60||
+
+na ca meṣa dharmata vibuddhā gaganasamā svabhāvapariśuddhā| 
+
+yatra sthihitva vicareyaṃ cārika sarvakṣetraprasareṣu||61||
+
+tadanantaraṃ ca ramaṇīyaṃ gandhapradīpameghaśiri nāma| 
+
+kṣetraṃ kiliṣṭapariśuddhaṃ kalpu susaṃbhavastada babhūva||62||
+
+utpanna tatra jinakoṭistebhi viyūhitasta daśakalpaḥ| 
+
+te nāyakā bhaṇiya dharmā so maya dhārita smṛtibalena||63||
+
+prathamo jino vipulakīrti dharmasamudravegaśirirājaḥ| 
+
+dharmendrarāja guṇaghoṣa dharmaśiriśca devamakuṭaśca||64||
+
+jñānārcitejaśirināmā saptamu teṣa āsi dupadendraḥ| 
+
+jinu aṣṭamo gaganaghoṣo navamu samantasaṃbhavapradīpaḥ||65||
+
+teṣāṃ ca paścimaku buddho ūrṇaśiriprabhāsamatināmā| 
+
+te sarvi pūjita narendrā mārgu na caiṣa śodhitu asaṅgaḥ||66||
+
+tadanantaraṃ varaviyūhā ratnavicitrasaṃsthitaśarīrāḥ| 
+
+ratanadhvajāgramatināmā paścima lokadhātu suvibhaktā||67||
+
+sārocayaśca tada kalpastatra utpanna buddha śatapañca| 
+
+te sarvi satkṛta svayaṃbhū eta vimokṣa samabhilaṣatyā||68||
+
+guṇamaṇḍalaḥ prathamu nāmnā śāntanirghoṣa sāgaraśiriśca| 
+
+ādityateja girirājo lakṣaṇameru megharutaghoṣaḥ||69||
+
+dharmendrarāja guṇarājaḥ puṇyasumeru śāntaprabharājaḥ| 
+
+etān daśa pramukha kṛtvā sarvi ti pūjitā maya narendrāḥ||70||
+
+mārgu viśodhitu jinānāṃ yatra samosarī jina aśeṣā| 
+
+na ca tāva labdha maya kṣāntiryā imamotare nayu jinānām||71||
+
+tadanantaraṃ surucirābhaḥ śāntanirghoṣahāramatināmā| 
+
+atra lokadhātu pariśuddho alpakileśasattvaadhivāsaḥ||72||
+
+kalpaḥ sukhābhiratināmā yatra aśīti buddhanayutāsan| 
+
+te sarvi pūjitā maya narendrā mārgu viśodhito jinavarāṇām||73||
+
+prathamo jinaḥ kusumarāśiḥ sāgaragarbha saṃbhavagiriśca| 
+
+devendracūḍa maṇigarbha kāñcanaparvato ratanarāśiḥ||74||
+
+dharmadhvajo'tha vacanaśrīḥ paścimu teṣu jñānamati buddhaḥ| 
+
+etān daśa pramukha kṛtvā pūjita te mayā suranarendrāḥ||75||
+
+arvāgabhūttadanu asti kṣetra sunirmitadhvajapradīpam| 
+
+kalpa sahasraśirināmā tatra ya buddhakoṭinayutāni||76||
+
+śāntadhvajaḥ śamathaketuḥ śāntapradīpa meghaśirirājaḥ| 
+
+obhāsayantaprabharājā meghavilambitaḥ suriyatejā||77||
+
+dharmapradīpaśiri meruarciśiriśca devaśirigarbhaḥ| 
+
+teṣāṃ ca paścimaku āsīt siṃhavinardito vidupradīpaḥ||78||
+
+etān daśa pramukha kṛtvā pūjita te mayā sugatacandrā| 
+
+na ca tāva labdha maya kṣāntiryā imamotare nayasamudram||79||
+
+arvāgatastadanu asti kṣetra samantaābhaśirināmni| 
+
+kalpo anālayaviyūhastatra ṣaḍaviṃśadbuddhanayutāni||80||
+
+prathamaḥ samantaguṇameghastatsamanantaraṃ gaganacittaḥ| 
+
+buddhaḥ susaṃbhavaviyūho garjitadharmasāgaranirghoṣaḥ||81||
+
+jinu dharmadhātusvaraghoṣo nirmitameghasusvaraśiriśca| 
+
+buddhaḥ samantadiśatejā dharmasamudrasaṃbhavarutaśca||82||
+
+guṇasāgaro giripradīpo navamu abhūdathātra jinasūryaḥ| 
+
+ārāgitaścaramu teṣāṃ ratanaśirīpradīpaguṇaketuḥ||83||
+
+yada niṣkramī sa dupadendro ratanaśiripradīpaguṇaketuḥ| 
+
+śaśivakradevi ahamāsī niṣkramamāṇu pūjiya narendram||84||
+
+so me anālayaviyūha praṇidhisamudrasaṃbhavaviyūham| 
+
+sūtraṃ nigarjasu narendraḥ śrutva mi dhāritaṃ smṛtibalena||85||
+
+labdhā mayā vipulacakṣuḥśāntasamādhi dhāraṇibalaṃ ca| 
+
+paśyāmyahaṃ jinasamudrān kṣetraparaṃparā kṣaṇakṣaṇena||86||
+
+jātaṃ hi me karuṇagarbhā maitrinayaṃ samantaprabhamegham| 
+
+bodhāya cittu nabhatulya buddhabalāpramāṇavipulābham||87||
+
+dṛṣṭvā jagadvipariyastaṃ nityasukhaprabhāsabhiniviṣṭam| 
+
+mohārthavidyatamachannaṃ kleśasamākula vitathasaṃjñi||88||
+
+dṛṣṭīgatā gahanacāriṃ tṛṣṇavaśānugaṃ viṣamakarma| 
+
+gatiṣū anekavidharūpāṃ karmavicitritāṃ samudayantam||89||
+
+sarvagaticyutimukhebhirye upapattibhiḥ samupapannāḥ| 
+
+jātījarāmaraṇapīḍāṃ kāyikacaitasikāmanubhavanti||90||
+
+teṣāṃ tadā hitasukhārthaṃ cittamanuttaraṃ samupapannam| 
+
+yatra saṃbhavo daśabalānāṃ yāttuka sarvakṣetraprasareṣu||91||
+
+tataḥ saṃbhutaḥ praṇidhimeghaḥ sarvajagatsukhapravaṇagarbhaḥ| 
+
+saṃbhārasaṃbhava anantā mārgasamudranayaanugataśca||92||
+
+prasthānameghavipulābhaḥ sarvapathaprasannamukhavegaḥ| 
+
+vipulāṃśca pāramitameghān muñciṣu dharmadhātuprasareṣu||93||
+
+bhūmyākramo vipulavegaḥ sarvatriyadhvasāgaranayeṣu| 
+
+bhūmiṣvasaṅgaticārī ekakṣaṇena sarvajinagāmī||94||
+
+api cāpyahaṃ sugataputra carya samantabhadra avakrāntā| 
+
+daśa dharmadhātutalabhedāsteṣa samudranayamavatarāmi||95||
+
+tatkiṃ manyase kulaputra anyaḥ sa tena kālena tena samayena viśāṃpatirnāma rājābhūccakravartī buddhavaṃśānupacchedāya sthitaḥ? na khalu punaste kulaputra evaṃ draṣṭavyam| mañjuśrīḥ kumārabhūtaḥ tena kālena tena samayena viśāṃpatirnāma rājā abhūccakravartī buddhavaṃśānupacchedāya pratipannaḥ| yayā cāhaṃ rātridevatayā prabodhitā, sā samantabhadreṇa bodhisattvena nirmitā| tatkiṃ manyase kulaputra anyā sā tena kālena tena samayena bhadramatirnāma cakravartibhāryā abhūt strīratnam? na khalvevaṃ draṣṭavyam| ahaṃ sā tena kālena tena samayena bhadramatirnāma cakravartibhāryā abhūvaṃ strīratnam| sāhaṃ tayā rātridevatayā pratibodhyaṃ buddhadarśane samādāpitā| iyaccirotpāditaṃ me kulaputra anuttarāyāṃ samyaksaṃbodhau cittam| sāhaṃ tena cittotpādena buddhakṣetraparamāṇurajaḥsamān kalpān na jātu durgativinipāteṣu upapannā| satatasamitaṃ devamanuṣyagatiparāyaṇā| sarvatra ca avirahitā tathāgatadarśanenābhūvam| yāvanme bhagavato ratnaśrīpradīpaguṇaketostathāgatasyārhataḥ samyaksaṃbuddhasya sahadarśanādayaṃ samantabhadraprītivipulavimalavegadhvajo bodhisattvavimokṣaḥ pratilabdhaḥ, yasya pratilābhādahamevaṃrūpeṇa sarvasattvaparipākavinayārthena pratyupasthitā||
+
+etamahaṃ kulaputra samantabhadraprītivipulavimalavegadhvajaṃ bodhisattvavimokṣaṃ jānāmi| kiṃ mayā śakyaṃ sarvatathāgatapādamūleṣu pratikṣaṇaṃ sarvajñatāprasthānamahāvegasāgarapratilabdhānāṃ bodhisattvānāṃ sarvaprasthānamukheṣu pratikṣaṇaṃ mahāpraṇidhānasāgarāvatārāpratiprasrabdhānāṃ praticittakṣaṇaṃ sarvapraṇidhānasāgaranayeṣu aparāntakalpacaryāmaṇḍalābhinirhārakuśalānām, ekaikasyāṃ ca caryāyāṃ sarvabuddhakṣetraparamāṇurajaḥsamakāyābhinirhārakuśalānām, ekaikena ca kāyena sarvadharmadhātunayasāgaraspharaṇanām, ekaikasmiṃśca dharmadhātunayasāgare sarvabuddhakṣetreṣu yathāśayasattvakāyavijñapticaryāsaṃdarśanakuśalānām, ekaikasmiṃśca kṣetraparamāṇurajasyanantamadhyatathāgatasamudrāvataraṇakuśalānām, ekaikasya ca tathāgatasya dharmadhātuspharaṇaparamatathāgatavikurvitāvataraṇakuśalānām, ekaikasya ca tathāgatasya dharmadhātuspharaṇaparamatathāgatavikurvitāvataraṇakuśalānām, ekaikasya ca tathāgatasya pūrvāntakalpabodhisattvacaryāsaṃbhārasaṃbhavasamudāgamāvatārakuśalānām, ekaikasya ca tathāgatasya vimaladharmacakrasaṃpratyeṣaṇasaṃdhāraṇakuśalānāṃ sarvatryadhvatathāgatavikurvitanayasāgarāvataraṇakuśalānāṃ caryāṃ jñātuṃ guṇān vā vaktum||
+
+gaccha kulaputra, iyamihaiva tathāgataparṣanmaṇḍalasamanantaraṃ samantasattvatrāṇojaḥśrī nāma rātridevatā prativasati| tāmupasaṃkramya paripṛccha-kathaṃ bodhisattvena bodhisattvacaryāmaṇḍalamavataritavyam, kathaṃ pariśodhayitavyam||
+
+atha khalu sudhanaḥ śreṣṭhidārakaḥ pramuditanayanajagadvirocanāyā rātridevatāyāḥ pādau śirasābhivandya pramuditanayanajagadvirocanāṃ rātridevatāmanekaśatasahasrakṛtvaḥ pradakṣiṇīkṛtya punaḥ punaravalokya pramuditanayanajagadvirocanāyā rātridevatāyā antikāt prakrāntaḥ||34||
+
+The rights of the materials herein are as indicated by the source(s)
+                                cited.
+                                Rights in the compilation, indexing, and transliteration are held by 
+ University
+                                    of the West 
+ where permitted by law. See 
+ Usage Policy 
+ for details.
+
+Our Address
+
+ 1409 N.Walnut Grove Avenue 
+
+                                        Rosemead, California 91770, U.S.A
+
+(626) 571-8811 ext.321
+
+[email protected]
+
+Newsletter
+
+Subscribe to our newsletter for latest updates about the canon text of
+                                our
+                                project
+
+SUBSCRIBE
+
+©COPYRIGHT 2016, DIGITAL SANSKRIT BUDDHIST CANON
+
+POWERED BY: 
+PEACENEPAL DOT COM
+
+Choose Your Search Item
+
+Books
+
+BookLinks
+
+Choose Your Match Type
+
+Match multiple fields
+
+Match partial fields
+
+                            Title
+
+                            Author
+
+                            Text Language
+
+                            Publisher
+
+                            Published Date
+
+                            Category
+
+Select Cateogry
+
+ Romanized
+
+ देवनागरी
+
+Submit
+
+×
+
+            $(document).foundation();
+
+            $(document).ready(function() {
+                $('#bookLinks').on('change', function() {
+                    if ($(this).is(':checked')) {
+                        $('#author').hide();
+                        $('#publisher').hide();
+                    }
+                });
+
+                $('#books').on('change', function() {
+                    if ($(this).is(':checked')) {
+                        $('#author').show();
+                        $('#publisher').show();
+                    }
+                });
+
+                $("#openModalButton").click(function() {
+                    $("#myModal").foundation("open");
+                    $("#mostSearchedSection").show();
+                });
+
+                // $("#book-search-form").validate({
+                //     rules: {
+                //         'book-title': {
+                //             required: true,
+                //             minlength: 3,
+                //         },
+                //     },
+                //     messages: {
+                //         'book-title': {
+                //             required: "Please enter the title",
+                //             minlength: "Title must be at least 3 characters long",
+                //         },
+                //     },
+                // });
+
+                $("#news-search-form").validate({
+                    rules: {
+                        'news-title': {
+                            required: true,
+                            minlength: 3,
+                        },
+                    },
+                    messages: {
+                        'news-title': {
+                            required: "Please enter the title",
+                            minlength: "Title must be at least 3 characters long",
+                        },
+                    },
+                });
+
+                $("#booklink-search-form").validate({
+                    rules: {
+                        'booklink-title': {
+                            required: true,
+                            minlength: 3,
+                        },
+                    },
+                    messages: {
+                        'booklink-title': {
+                            required: "Please enter the title",
+                            minlength: "Title must be at least 3 characters long",
+                        },
+                    },
+                });
+            });
+
+            $("#cloudslider-mobile").cloudSlider({
+                width: 242,
+                height: 497,
+                navType: 'none',
+                progressBarPosition: 'hide',
+                autoplaySpeed: 1000,
+
+                arrow: {
+                    visibility: 'hide'
+                }
+            });
+
+            $(document).ready(function() {
+                $(document).on('submit', '#reg-form', function(event) {
+                    event.preventDefault();
+                    var email = $("#email").val();
+                    $.ajax({
+                        type: 'POST',
+                        url: 'http://www.dsbcproject.org/newsletter/new-subscription',
+                        data: {
+                            email: email,
+                            _token: 'QY0IXa8spWyAQUkArmF7fwy0iBlyECWLVAqWXqk1'
+                        },
+                        success: function(response) {
+                            $("#status").html(response.message);
+                        },
+                        error: function(response) {
+                            $("#status").html(response.message);
+                        },
+                    });
+                });
+            });
+
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function() {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-82920011-1', 'auto');
+            ga('send', 'pageview');
+
+            // jQuery(document).ready(function ($) {
+            //     $('a').not('[href*="mailto:"]').each(function () {
+            //         var isInternalLink = new RegExp('/' + window.location.host + '/');
+            //         if (!isInternalLink.test(this.href)) {
+            //             $(this).attr('target', '_blank');
+            //         }
+            //     });
+            // });
+
+            var sc_project = 11046282;
+            var sc_invisible = 1;
+            var sc_security = "fd71717e";
+            var scJsHost = (("https:" == document.location.protocol) ?
+                "https://secure." : "http://www.");
+            document.write("
+
+");
+
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebSite",
+          "name": "Digital Sanakrit Buddhist Canon",
+          "url": "http://dsbcproject.org",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "http://dsbcproject.org/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+
+            {
+              "@context": "https://schema.org",
+              "@type": "LibrarySystem",
+              "name": "Digital Sanakrit Buddhist Canon",
+              "url": "http://dsbcproject.org/",
+              "logo": "http://www.dsbcproject.org/images/logo.png",
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "(626) 571-8811 ext.321",
+                "contactType": "customer service",
+                "contactOption": "TollFree",
+                "areaServed": ["US","NP"],
+                "availableLanguage": "en"
+              },
+              "sameAs": "http://dsbcproject.org/"
+            }
+
+                {
+                  "@context": "https://schema.org/",
+                  "@type": "BreadcrumbList",
+                  "itemListElement": [{
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Canon texts",
+                    "item": "http://dsbcproject.org/canon-text/browse-by-category"
+                  },{
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "News",
+                    "item": "http://dsbcproject.org/news"
+                  },{
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Contact Us",
+                    "item": "http://dsbcproject.org/pages/contact-us"
+                  },{
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Bibliography",
+                    "item": "http://dsbcproject.org/canon-text/bibliography"
+                  },{
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Gallery",
+                    "item": "http://www.dsbcproject.org/gallery"
+                  }]
+                }

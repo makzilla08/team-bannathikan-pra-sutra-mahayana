@@ -1,0 +1,24 @@
+{
+  "sutra_id": "35",
+  "title": "Āryavimalakīrtinirdeśo nāma mahāyānasūtram",
+  "title_thai": "วิมลกีรตินิเทศสูตร",
+  "description": "สนทนาธรรมระหว่างพระพุทธเจ้ากับคฤหัสถ์ผู้ปฏิบัติดี",
+  "priority": 4,
+  "created_at": "2026-03-18T07:44:14.508613",
+  "status": "in_progress",
+  "current_chapter": 1,
+  "total_chapters": 12,
+  "chapters_completed": [1],
+  "translators": ["ทีมแปล"],
+  "proofreaders": [],
+  "start_date": "2026-03-18",
+  "last_updated": "2026-03-18T08:00:00",
+  "source": "https://www.dsbcproject.org/canon-text/book/35",
+  "bibliography": {
+    "title": "Vimalakīrtinirdeśa sūtram",
+    "editor": "Joshi, Lal Mani & Bhiksu Pasadika",
+    "publisher": "Central Institute of Higher Tibetan Studies",
+    "place": "Sarnath",
+    "year": "1981"
+  }
+}

@@ -1,0 +1,444 @@
+/* โทนสี: ดำ-ทอง สำหรับสำนักพิมพ์พระสูตร */
+:root {
+    --black: #0a0a0a;
+    --dark: #1a1a1a;
+    --dark-secondary: #2a2a2a;
+    --gold: #c9a227;
+    --gold-light: #d4af37;
+    --gold-dark: #8b7355;
+    --cream: #f5f5dc;
+    --text: #e8e8e8;
+    --text-muted: #a0a0a0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Noto Serif Thai', 'Noto Sans Thai', 'Sarabun', serif;
+    background-color: var(--black);
+    color: var(--text);
+    line-height: 1.8;
+    min-height: 100vh;
+}
+
+/* Header */
+header {
+    background: linear-gradient(180deg, var(--dark) 0%, var(--black) 100%);
+    border-bottom: 2px solid var(--gold);
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.logo {
+    font-size: 2.5rem;
+    color: var(--gold);
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.logo span {
+    color: var(--gold-light);
+}
+
+.subtitle {
+    color: var(--text-muted);
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    font-style: italic;
+}
+
+/* Navigation */
+nav {
+    background: var(--dark);
+    border-bottom: 1px solid var(--gold-dark);
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    list-style: none;
+}
+
+nav a {
+    color: var(--gold);
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.3s;
+    padding: 0.5rem 1rem;
+}
+
+nav a:hover {
+    color: var(--gold-light);
+}
+
+/* Main Content */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 3rem 2rem;
+    background: radial-gradient(ellipse at center, var(--dark-secondary) 0%, var(--black) 70%);
+    border: 1px solid var(--gold-dark);
+    border-radius: 10px;
+    margin-bottom: 3rem;
+}
+
+.hero h2 {
+    color: var(--gold);
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    color: var(--text-muted);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Sutra List */
+.sutra-section {
+    margin-bottom: 3rem;
+}
+
+.section-title {
+    color: var(--gold);
+    font-size: 1.5rem;
+    border-bottom: 2px solid var(--gold-dark);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.sutra-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 1.5rem;
+}
+
+.sutra-card {
+    background: var(--dark);
+    border: 1px solid var(--gold-dark);
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.sutra-card:hover {
+    border-color: var(--gold);
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(201, 162, 39, 0.1);
+}
+
+.sutra-card.priority-high {
+    border-left: 4px solid var(--gold);
+}
+
+.sutra-card.priority-medium {
+    border-left: 4px solid var(--gold-dark);
+}
+
+.sutra-number {
+    color: var(--gold);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+}
+
+.sutra-title-thai {
+    color: var(--cream);
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.sutra-title-sanskrit {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    font-style: italic;
+    margin-bottom: 0.75rem;
+}
+
+.sutra-description {
+    color: var(--text);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.sutra-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+    border-top: 1px solid var(--dark-secondary);
+}
+
+.sutra-chapters {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+}
+
+.read-btn {
+    background: linear-gradient(135deg, var(--gold-dark) 0%, var(--gold) 100%);
+    color: var(--black);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.read-btn:hover {
+    background: linear-gradient(135deg, var(--gold) 0%, var(--gold-light) 100%);
+    transform: scale(1.05);
+}
+
+/* Progress */
+.progress-bar {
+    height: 4px;
+    background: var(--dark-secondary);
+    border-radius: 2px;
+    margin-top: 1rem;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--gold-dark), var(--gold));
+    width: 0%;
+    transition: width 0.3s;
+}
+
+/* Stats */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.stat-card {
+    background: var(--dark);
+    border: 1px solid var(--gold-dark);
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.stat-number {
+    color: var(--gold);
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.stat-label {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+/* Footer */
+footer {
+    background: var(--dark);
+    border-top: 2px solid var(--gold-dark);
+    padding: 2rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+footer p {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: var(--gold);
+    text-decoration: none;
+}
+
+/* Decorative Elements */
+.divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+    margin: 2rem 0;
+}
+
+.ornament {
+    color: var(--gold);
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 1rem 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .logo {
+        font-size: 1.8rem;
+    }
+    
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    
+    .sutra-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Reader Page Styles */
+.reader-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.reader-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--gold-dark);
+}
+
+.reader-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.reader-nav button {
+    background: var(--dark);
+    border: 1px solid var(--gold-dark);
+    color: var(--gold);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.reader-nav button:hover {
+    background: var(--gold-dark);
+    color: var(--black);
+}
+
+.reader-nav button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.chapter-selector {
+    background: var(--dark);
+    border: 1px solid var(--gold-dark);
+    color: var(--gold);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.reader-content {
+    background: var(--dark);
+    border: 1px solid var(--gold-dark);
+    border-radius: 8px;
+    padding: 2rem;
+    line-height: 2;
+    font-size: 1.1rem;
+}
+
+.reader-content h2 {
+    color: var(--gold);
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.reader-content .verse {
+    margin-bottom: 1.5rem;
+    text-indent: 2rem;
+}
+
+.reader-content .verse-number {
+    color: var(--gold);
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+
+.reader-content .sanskrit {
+    font-style: italic;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+    display: block;
+}
+
+.reader-content .thai {
+    color: var(--text);
+}
+
+.reader-content .commentary {
+    background: var(--black);
+    border-left: 3px solid var(--gold-dark);
+    padding: 1rem;
+    margin: 1rem 0;
+    font-size: 0.95rem;
+    color: var(--text-muted);
+}
+
+/* Back button */
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--gold);
+    text-decoration: none;
+    margin-bottom: 1rem;
+    transition: color 0.3s;
+}
+
+.back-link:hover {
+    color: var(--gold-light);
+}
+
+/* Loading */
+.loading {
+    text-align: center;
+    padding: 3rem;
+    color: var(--gold);
+}
+
+.loading::after {
+    content: '...';
+    animation: dots 1.5s infinite;
+}
+
+@keyframes dots {
+    0%, 20% { content: '.'; }
+    40% { content: '..'; }
+    60%, 100% { content: '...'; }
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>คลังพระสูตรมหายาน | Mahayana Sutra Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@400;600;700&family=Sarabun:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📜</text></svg>">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1 class="logo">คลัง<span>พระสูตรมหายาน</span></h1>
+            <p class="subtitle">มหาสูตรภาษาสันสกฤต • แปลเป็นภาษาไทย</p>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">หน้าหลัก</a></li>
+            <li><a href="#sutras">พระสูตร</a></li>
+            <li><a href="#about">เกี่ยวกับ</a></li>
+            <li><a href="https://www.dsbcproject.org" target="_blank">DSBC Project</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero" id="home">
+            <h2>พระสูตรมหายาน แปลจากภาษาสันสกฤต</h2>
+            <p>
+                โครงการแปลพระสูตรมหายานจาก Digital Sanskrit Buddhist Canon (DSBC) 
+                โดยเลือกพระสูตรที่นิยมแพร่หลายในหลักฐานโบราณมาแปลก่อน
+            </p>
+            <div class="ornament">❧ ❧ ❧</div>
+        </section>
+
+        <!-- Statistics -->
+        <section class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number" id="total-sutras">10</div>
+                <div class="stat-label">พระสูตรที่เลือก</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="total-chapters">39</div>
+                <div class="stat-label">จำนวนบท</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="completed">2</div>
+                <div class="stat-label">แปลแล้ว</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="in-progress">0</div>
+                <div class="stat-label">กำลังแปล</div>
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- Priority Sutras -->
+        <section class="sutra-section" id="sutras">
+            <h2 class="section-title">พระสูตรมหายานที่สำคัญ</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                พระสูตรที่เลือกแปลก่อน เรียงตามความสำคัญในหลักฐานโบราณ
+            </p>
+            
+            <div class="sutra-grid" id="sutra-list">
+                <!-- Sutra cards will be loaded here -->
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- About Section -->
+        <section class="sutra-section" id="about">
+            <h2 class="section-title">เกี่ยวกับโครงการ</h2>
+            <div style="background: var(--dark); padding: 2rem; border-radius: 8px; border: 1px solid var(--gold-dark);">
+                <p style="margin-bottom: 1rem;">
+                    <strong style="color: var(--gold);">ที่มา:</strong> 
+                    โครงการนี้ใช้ข้อมูลจาก Digital Sanskrit Buddhist Canon (DSBC) Project 
+                    ของ University of the West ซึ่งรวบรวมต้นฉบับพระสูตรภาษาสันสกฤต
+                </p>
+                <p style="margin-bottom: 1rem;">
+                    <strong style="color: var(--gold);">พระสูตรที่เลือกแปล:</strong>
+                    เลือกพระสูตรมหายานที่มีความสำคัญและนิยมแพร่หลายในหลักฐานโบราณ เช่น
+                    พระสูตรปรมิตา สัทธรรมปุณฑรีกสูตร ลลิตวิสตระสูตร เป็นต้น
+                </p>
+                <p>
+                    <strong style="color: var(--gold);">แหล่งข้อมูล:</strong>
+                    <a href="https://www.dsbcproject.org/canon-text/book/35" target="_blank" style="color: var(--gold);">
+                        DSBC - Vimalakīrtinirdeśa
+                    </a>
+                </p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="ornament">☸</div>
+        <p>โครงการแปลพระสูตรมหายาน • ข้อมูลจาก DSBC Project</p>
+        <p style="margin-top: 0.5rem;">
+            <a href="https://www.dsbcproject.org" target="_blank">Digital Sanskrit Buddhist Canon</a> • 
+            University of the West
+        </p>
+        <p style="margin-top: 1rem; font-size: 0.8rem;">
+            "สัพเพ สังขารา อนิจจา" - สังขารทั้งหลายไม่เที่ยง
+        </p>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
