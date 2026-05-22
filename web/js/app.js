@@ -29,10 +29,12 @@ function getSutrasData() {
     : LOCAL_SUTRAS_FALLBACK;
 }
 
-function loadSutraList() {
+function loadSutraList(filter = 'all') {
   const container = document.getElementById('sutra-list');
   if (!container) return;
-  const sorted = [...getSutrasData()].sort((a, b) => a.priority - b.priority);
+  const sorted = [...getSutrasData()]
+    .filter(s => filter === 'all' || s.status === filter)
+    .sort((a, b) => a.priority - b.priority);
   container.innerHTML = sorted.map(s => createSutraCard(s)).join('');
   container.querySelectorAll('.sutra-card').forEach(card => {
     card.addEventListener('click', () => openSutraReader(card.dataset.sutraId));
@@ -76,6 +78,16 @@ function setupNavigation() {
     a.addEventListener('click', e => {
       const t = document.querySelector(a.getAttribute('href'));
       if (t) t.scrollIntoView({ behavior: 'smooth' });
+    });
+  });
+}
+
+function setupFilters() {
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      loadSutraList(btn.dataset.filter);
     });
   });
 }
@@ -299,5 +311,6 @@ document.addEventListener('DOMContentLoaded', () => {
     loadSutraList();
     updateStats();
     setupNavigation();
+    setupFilters();
   }
 });
