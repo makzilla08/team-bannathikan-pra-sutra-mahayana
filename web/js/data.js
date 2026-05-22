@@ -741,11 +741,11 @@ const SUTRAS_DATA = [
         title_sanskrit: "Madhyamaka-śālistambasūtram",
         title_english: "Middle Way Rice Seedling Sutra",
         priority: 11,
-        status: "pending",
-        description: "พระสูตรว่าด้วยต้นข้าวสาลีตามแนวคิดมัธยมก (ทางสายกลาง)",
+        status: "completed",
+        description: "พระสูตรว่าด้วยปฏิจจสมุปบาท พระสูตรว่าด้วยต้นข้าวสาลีตามแนวคิดมัธยมก",
         chapters_count: 1,
         chapters: [
-            { id: 1, title_thai: "เนื้อหา", status: "pending" }
+            { id: 1, title_thai: "ปฏิจจสมุปบาท", status: "completed" }
         ],
         source_url: "https://www.dsbcproject.org/canon-text/book/46"
     },
