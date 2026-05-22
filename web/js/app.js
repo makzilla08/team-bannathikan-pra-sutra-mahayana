@@ -35,20 +35,20 @@ function loadSutraList(filter = 'all') {
   const sorted = [...getSutrasData()]
     .filter(s => filter === 'all' || s.status === filter)
     .sort((a, b) => a.priority - b.priority);
-  container.innerHTML = sorted.map(s => createSutraCard(s)).join('');
+  container.innerHTML = sorted.map((s, i) => createSutraCard(s, i + 1)).join('');
   container.querySelectorAll('.sutra-card').forEach(card => {
     card.addEventListener('click', () => openSutraReader(card.dataset.sutraId));
   });
 }
 
-function createSutraCard(s) {
+function createSutraCard(s, index) {
   const st = { completed: 'แปลแล้ว', in_progress: 'กำลังแปล', pending: 'รอดำเนินการ' };
   const pct = s.chapters_count > 0
     ? Math.round(s.chapters.filter(c => c.status === 'completed').length / s.chapters_count * 100) : 0;
   return `
     <div class="sutra-card ${s.priority <= 3 ? 'priority-high' : 'priority-medium'}"
          data-sutra-id="${s.id}">
-      <div class="sutra-number">พระสูตรที่ ${s.priority}</div>
+      <div class="sutra-number">พระสูตรที่ ${index}</div>
       <h3 class="sutra-title-thai">${s.title_thai}</h3>
       <p class="sutra-title-sanskrit">${s.title_sanskrit}</p>
       <p class="sutra-description">${s.description}</p>
