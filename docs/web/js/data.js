@@ -167,15 +167,16 @@ const SUTRAS_DATA = [
     {
         id: 19,
         dsbc_book_id: 19,
-        title_thai: "พรหมชาลสูตร",
+        title_thai: "พรหมณชาลสูตร",
         title_sanskrit: "Brahmajālasūtram",
-        title_english: "Brahmajala Sutra",
+        title_english: "Brahmajala Sutra (T1484)",
         priority: 9,
-        status: "in_progress",
-        description: "พระสูตรเกี่ยวกับศีลธรรมของโพธิสัตว์ และการแสดงธรรมอย่างลึกซึ้ง",
-        chapters_count: 1,
+        status: "completed",
+        description: "พระสูตรว่าด้วยศีลโพธิสัตว์ — แสดงโดยพระไวโรจนพุทธเจ้า ประกอบด้วย 40 ระดับจิต (มัด 1) และศีล 10 หนัก 48 เบา (มัด 2) แปลจากภาษาจีนโดยพระกุมารชีวะ ค.ศ. 406",
+        chapters_count: 2,
         chapters: [
-            { id: 1, title_thai: "โพธิสัตว์ในหัวใจ", title_sanskrit: "Bodhisattvabhūmi", status: "in_progress" }
+            { id: 1, title_thai: "มัดที่ ๑ — ๔๐ ระดับจิต (十發趣心·十長養心·十金剛心·十地)", title_sanskrit: "catvāriṃśaccittabhūmayaḥ", status: "completed" },
+            { id: 2, title_thai: "มัดที่ ๒ — ศีล ๑๐ หนัก ๔๘ เบา (十重四十八輕戒)", title_sanskrit: "daśa-caturāśīti-śīlāni", status: "completed" }
         ],
         source_url: "https://www.dsbcproject.org/canon-text/book/19"
     },

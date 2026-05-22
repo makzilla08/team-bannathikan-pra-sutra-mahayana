@@ -19,7 +19,7 @@
 | 13 | 17_surangama | ศูรังคมสูตร (Great Buddha's Summit) | ⏳ Pending |
 | 14 | 16_sarvatathagatatattvasangraha | สรวะตถาคตทัตวาสังคหะ (Yoga Tantra) | ⏳ Pending |
 | 15 | 18_mahavairocana | มหาไวโรจนสูตร (Mahavairocana Sutra) | ⏳ Pending |
-| 16 | 19_brahmajala | พรหมชาลสูตร (Brahmajala Sutra) | ⏳ กำลังแปล |
+| 16 | 19_brahmajala | พรหมณชาลสูตร (Brahmajala Sutra) | ✅ แปลเสร็จสมบูรณ์ |
 
 ## โครงสร้างโฟลเดอร์แต่ละพระสูตร
 
@@ -85,6 +85,7 @@
 - สถานะ: เตรียมต้นฉบับแล้ว
 - หมายเหตุ: ดึงต้นฉบับภาษาจีน (Taisho T0848) ครบ 7 บรรพจาก Wikisource แล้ว
 
-### พรหมชาลสูตร (19_brahmajala)
-- สถานะ: กำลังแปล
-- หมายเหตุ: สร้าง glossary.md, translation.md และ notes.md แล้ว กำลังแปลส่วนที่สิบในหัวใจของโพธิสัตว์
+### พรหมณชาลสูตร (19_brahmajala)
+- สถานะ: แปลเสร็จสมบูรณ์
+- โครงสร้าง: 2 มัด (40 ระดับจิต + ศีล 10 หนัก 48 เบา)
+- แปลจาก: CBETA T1484 จีน + BTTS English อ้างอิง

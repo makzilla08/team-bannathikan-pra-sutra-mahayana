@@ -171,11 +171,15 @@ function getScriptChapterData(sutra, chapterId) {
 }
 
 function getTranslationMarkdownUrl(sutra, chapterId) {
-  if (String(sutra.id) !== '40') return '';
   const padded = String(chapterId).padStart(3, '0');
-  // Handle both web server and local file system paths
   const basePath = window.location.pathname.includes('/web/') ? '../' : '';
-  return `${basePath}translations/10_gandavyuha/chapter_${padded}/translation.md`;
+  if (String(sutra.id) === '40') {
+    return `${basePath}translations/10_gandavyuha/chapter_${padded}/translation.md`;
+  }
+  if (String(sutra.id) === '19') {
+    return `${basePath}translations/19_brahmajala/chapter_${padded}/translation.md`;
+  }
+  return '';
 }
 
 function parseTranslationMarkdown(markdown, chapterId) {
@@ -183,14 +187,20 @@ function parseTranslationMarkdown(markdown, chapterId) {
   let title = `บทที่ ${chapterId}`;
   let inContent = false;
 
-  markdown.split(/\r?\n/).forEach(raw => {
+  const lines = markdown.split(/\r?\n/);
+  // Auto-detect: if no Gandavyuha-style chapter heading, assume direct content (Brahmajala style)
+  const hasChapterHeading = lines.some(l => /^##\s+บทที่\s+\d+\s*:/.test(l.trim()));
+  if (!hasChapterHeading) inContent = true;
+
+  lines.forEach(raw => {
     const line = raw.trim();
     if (!line) return;
     
-    // Skip internal metadata and comments
+    // Skip comments and metadata lines
     if (line.startsWith('<!--') || /^-\s+\*\*/.test(line) || /^##\s+(ข้อมูลการแปล|การแปล)$/.test(line)) return;
-    if (/^#\s+คัณฑวยูหะ/.test(line) || /^#\s+การแปล:/.test(line) || /^#\s+บทที่\s+\d+:/.test(line)) return;
+    if (/^#\s+คัณฑวยูหะ/.test(line)) return;
     if (/^[-*_]{3,}$/.test(line) || /^\*\*(จบ|หมายเหตุ)/.test(line)) return;
+    if (/^#\s+การแปล:/.test(line) || /^#\s+บทที่\s+\d+:/.test(line) || /^#\s+พรหมณ/.test(line)) return;
 
     // Detect Chapter Title
     const chapterHeading = line.match(/^##\s+บทที่\s+\d+\s*:\s*(.+)$/);
@@ -200,9 +210,9 @@ function parseTranslationMarkdown(markdown, chapterId) {
       return;
     }
 
-    // Detect Sections
-    if (line.startsWith('###')) {
-      verses.push({ thai: cleanMarkdownText(line.replace(/^###\s*/, '')), sanskrit: '', is_heading: true });
+    // Detect Sections (H2, H3)
+    if (/^#{2,3}\s/.test(line)) {
+      verses.push({ thai: cleanMarkdownText(line.replace(/^#{2,3}\s*/, '')), sanskrit: '', is_heading: true });
       inContent = true;
       return;
     }
