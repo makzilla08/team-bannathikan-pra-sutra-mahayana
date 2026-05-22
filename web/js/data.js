@@ -940,11 +940,11 @@ const SUTRAS_DATA = [
         title_sanskrit: "Sukhāvatīvyūhaḥ (vistaramātṛkā)",
         title_english: "Sukhavati Array (Long Version)",
         priority: 11,
-        status: "pending",
+        status: "completed",
         description: "พระสูตรอธิบายดินแดนสุขาวดีแบบละเอียด (มหาสุขาวดีวยูหสูตร)",
         chapters_count: 1,
         chapters: [
-            { id: 1, title_thai: "เนื้อหา", status: "pending" }
+            { id: 1, title_thai: "เนื้อหา", status: "completed" }
         ],
         source_url: "https://www.dsbcproject.org/canon-text/book/59"
     },
