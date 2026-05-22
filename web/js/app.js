@@ -136,17 +136,11 @@ async function loadChapter(sutra, chapterId) {
     return;
   }
 
-  try {
-    const mdUrl = getTranslationMarkdownUrl(sutra, chapterId);
-    if (mdUrl) {
-      const res = await fetch(mdUrl + '?t=' + Date.now());
-      if (res.ok) {
-        const markdown = await res.text();
-        renderChapter(parseTranslationMarkdown(markdown, chapterId), el);
-        return;
-      }
-    }
-  } catch (e) { /* fall through */ }
+  const markdown = await fetchChapterContent(sutra, chapterId);
+  if (markdown) {
+    renderChapter(parseTranslationMarkdown(markdown, chapterId), el);
+    return;
+  }
 
   try {
     if (typeof CHAPTER_INDEX !== 'undefined' && CHAPTER_INDEX[chapterId]) {
@@ -184,14 +178,30 @@ function getScriptChapterData(sutra, chapterId) {
   }
 }
 
-function getTranslationMarkdownUrl(sutra, chapterId) {
+function getTranslationMarkdownUrl(sutra, chapterId, file = 'translation.md') {
   const padded = String(chapterId).padStart(3, '0');
   const basePath = window.location.pathname.includes('/web/') ? '../' : '';
   const folder = sutra.folder || '';
   if (folder) {
-    return `${basePath}translations/${folder}/chapter_${padded}/original.txt`;
+    return `${basePath}translations/${folder}/chapter_${padded}/${file}`;
   }
   return '';
+}
+
+async function fetchChapterContent(sutra, chapterId) {
+  // Try translation.md first, fall back to original.txt
+  for (const file of ['translation.md', 'original.txt']) {
+    try {
+      const url = getTranslationMarkdownUrl(sutra, chapterId, file);
+      if (!url) continue;
+      const res = await fetch(url + '?t=' + Date.now());
+      if (res.ok) {
+        const markdown = await res.text();
+        return markdown;
+      }
+    } catch (e) { /* continue */ }
+  }
+  return null;
 }
 
 function parseTranslationMarkdown(markdown, chapterId) {

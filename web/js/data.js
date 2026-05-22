@@ -450,14 +450,14 @@ const SUTRAS_DATA = [
         dsbc_book_id: 26,
         folder: "21_maitreyavyakarana",
         title_thai: "อารยะไมเตรยพยากรณสูตร",
-        title_sanskrit: "Ārya ṃaitreya-vyākaraṇaṃ",
+        title_sanskrit: "Ārya maitreya-vyākaraṇaṃ",
         title_english: "Noble Prophecy of Maitreya",
         priority: 11,
-        status: "pending",
-        description: "พระสูตรเกี่ยวกับการทำนายการตรัสรู้ของพระศรีอาริย์ (ไมเตรยะ)",
+        status: "completed",
+        description: "พระสูตรเกี่ยวกับคำทำนายของพระไมเตรยะ (พระศรีอาริย์) จักรพรรดิศังขะ และนครเกตุวดี",
         chapters_count: 1,
         chapters: [
-            { id: 1, title_thai: "เนื้อหา", status: "pending" }
+            { id: 1, title_thai: "ไมเตรยพยากรณ์", status: "completed" }
         ],
         source_url: "https://www.dsbcproject.org/canon-text/book/26"
     },
