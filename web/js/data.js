@@ -665,7 +665,7 @@ const SUTRAS_DATA = [
         title_sanskrit: "Kāraṇḍavyūhaḥ",
         title_english: "Kāraṇḍavyūha (on Avalokiteśvara)",
         priority: 11,
-        status: "in_progress",
+        status: "completed",
         description: "พระสูตรสรรเสริญพระอวโลกิเตศวรโพธิสัตว์ ว่าด้วยการบำเพ็ญบารมีและพระกรุณาของพระองค์",
         chapters_count: 24,
         chapters: [
@@ -686,13 +686,13 @@ const SUTRAS_DATA = [
             { id: 15, title_thai: "เที่ยวพาราณสี", status: "completed" },
             { id: 16, title_thai: "เที่ยวมคธ", status: "completed" },
             { id: 17, title_thai: "พรรณนาพระอัศวราช", status: "completed" },
-            { id: 18, title_thai: "พรรณนารูขุมชน", status: "pending" },
-            { id: 19, title_thai: "มหาวิทยา ๖ อักษร", status: "pending" },
-            { id: 20, title_thai: "มณฑลมหาวิทยา", status: "pending" },
-            { id: 21, title_thai: "โอวาทมหาวิทยา", status: "pending" },
-            { id: 22, title_thai: "มณฑลมหาวิทยา ๒", status: "pending" },
-            { id: 23, title_thai: "พยากรณ์แก่พระอิศวร", status: "pending" },
-            { id: 24, title_thai: "บทสรุป", status: "pending" }
+            { id: 18, title_thai: "พรรณนารูขุมชน", status: "completed" },
+            { id: 19, title_thai: "มหาวิทยา ๖ อักษร", status: "completed" },
+            { id: 20, title_thai: "มณฑลมหาวิทยา", status: "completed" },
+            { id: 21, title_thai: "โอวาทมหาวิทยา", status: "completed" },
+            { id: 22, title_thai: "มณฑลมหาวิทยา ๒", status: "completed" },
+            { id: 23, title_thai: "พยากรณ์แก่พระอิศวร", status: "completed" },
+            { id: 24, title_thai: "บทสรุป", status: "completed" }
         ],
         source_url: "https://www.dsbcproject.org/canon-text/book/42"
     },
