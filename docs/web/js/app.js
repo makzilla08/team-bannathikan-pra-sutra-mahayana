@@ -179,6 +179,9 @@ function getTranslationMarkdownUrl(sutra, chapterId) {
   if (String(sutra.id) === '19') {
     return `${basePath}translations/19_brahmajala/chapter_${padded}/translation.md`;
   }
+  if (String(sutra.id) === '18') {
+    return `${basePath}translations/18_mahavairocana/chapter_${padded}/translation.md`;
+  }
   return '';
 }
 

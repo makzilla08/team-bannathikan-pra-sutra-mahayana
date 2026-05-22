@@ -165,6 +165,27 @@ const SUTRAS_DATA = [
         source_url: "https://www.dsbcproject.org/canon-text/book/53"
     },
     {
+        id: 18,
+        dsbc_book_id: 0,
+        title_thai: "มหาไวโรจนสูตร",
+        title_sanskrit: "Mahāvairocanābhisaṃbodhi-vikurvitādhiṣṭhāna-sūtram",
+        title_english: "Mahavairocana Sutra (T848)",
+        priority: 8,
+        status: "in_progress",
+        description: "พระสูตรว่าด้วยมหาไวโรจนพุทธเจ้าตรัสรู้ — คัมภีร์หลักของวัชรยานจีน ว่าด้วยโพธิจิต กรุณา อุบาย มณฑล มนตร์ และมุทรา 7 มัด 31 บท",
+        chapters_count: 7,
+        chapters: [
+            { id: 1, title_thai: "มัดที่ ๑ — เข้าสู่ประตูมนตร์ + มณฑลปัจจัย", title_sanskrit: "mantra-mukha-maṇḍala", status: "completed" },
+            { id: 2, title_thai: "มัดที่ ๒ — มณฑลปัจจัยต่อ + ระงับอุปสรรค + มนตร์สากล", title_sanskrit: "maṇḍala-śeṣa", status: "pending" },
+            { id: 3, title_thai: "มัดที่ ๓ — ความสำเร็จในโลก + สิทธิปรากฏ", title_sanskrit: "siddhi-lābha", status: "pending" },
+            { id: 4, title_thai: "มัดที่ ๔ — มุทราลับ (密印品)", title_sanskrit: "mudrā-adhigama", status: "pending" },
+            { id: 5, title_thai: "มัดที่ ๕ — มณฑลลับ + ตำแหน่งอาจารย์", title_sanskrit: "guhya-maṇḍala", status: "pending" },
+            { id: 6, title_thai: "มัดที่ ๖ — ร้อยอักขระ + ข้อปฏิบัติ", title_sanskrit: "śata-akṣara-śīla", status: "pending" },
+            { id: 7, title_thai: "มัดที่ ๗ — หอมะ + มอบหมาย", title_sanskrit: "homa-parīndanā", status: "pending" }
+        ],
+        source_url: ""
+    },
+    {
         id: 19,
         dsbc_book_id: 19,
         title_thai: "พรหมณชาลสูตร",

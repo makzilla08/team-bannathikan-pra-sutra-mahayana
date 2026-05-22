@@ -18,7 +18,7 @@
 | 12 | 12_usnisavijaya | อุษณีษวิชยาธารณีสูตร (อุณหิสสวิชัย) | ⏳ Pending |
 | 13 | 17_surangama | ศูรังคมสูตร (Great Buddha's Summit) | ⏳ Pending |
 | 14 | 16_sarvatathagatatattvasangraha | สรวะตถาคตทัตวาสังคหะ (Yoga Tantra) | ⏳ Pending |
-| 15 | 18_mahavairocana | มหาไวโรจนสูตร (Mahavairocana Sutra) | ⏳ Pending |
+| 15 | 18_mahavairocana | มหาไวโรจนสูตร (Mahavairocana Sutra) | ⏳ กำลังแปล (มัด 1/7) |
 | 16 | 19_brahmajala | พรหมณชาลสูตร (Brahmajala Sutra) | ✅ แปลเสร็จสมบูรณ์ |
 
 ## โครงสร้างโฟลเดอร์แต่ละพระสูตร
