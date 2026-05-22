@@ -37,6 +37,14 @@
 - `translations/README.md` - อัปเดตสถานะรวม
 - `docs/translation_progress.md` - อัปเดตความคืบหน้า
 
+### 6. ทำให้แสดงผลบน GitHub Pages (สำคัญ!)
+- แยก `translation.md` → `chapter_XXX/translation.md` (บทละไฟล์, รูปแบบไฟล์ละ 1 บท)
+- คัดลอก chapter folders ไปที่ `docs/translations/XX_sutra_name/chapter_XXX/translation.md` (ให้ GitHub Pages serve ได้)
+- อัปเดต `docs/web/js/app.js` → เพิ่ม `sutra.id` ใน `getTranslationMarkdownUrl()` ถ้ายังไม่มี
+- ทดสอบเปิด reader ที่ `reader.html?sutra=XX&chapter=1` ใน local ก่อน push
+- คำสั่ง push: `git add -A && git commit -m "..." && git push`
+- GitHub Pages auto-deploy ภายใน 1-2 นาที ที่ https://makzilla08.github.io/team-bannathikan-pra-sutra-mahayana/
+
 ## โครงสร้างไฟล์สำคัญ
 
 ```
@@ -85,6 +93,12 @@ project/
 3. **คาถา** - จัดรูปแบบด้วย > blockquote
 4. **หมายเหตุ** - ใช้ *ตัวเอียง* สำหรับหมายเหตุ
 
+## เป้าหมายของโปรเจ็ค
+
+งานแปลแต่ละส่วนจะถือว่า "เสร็จสมบูรณ์" เมื่อเนื้อหาขึ้นแสดงบน **GitHub Pages** แล้วเท่านั้น ขั้นตอนสุดท้ายของทุกพระสูตรคือ **commit + push** ไปที่ `master` branch (GitHub Pages auto-deploy จาก `docs/` folder)
+
+URL: https://makzilla08.github.io/team-bannathikan-pra-sutra-mahayana/
+
 ## เมื่อโมเดลอื่นมาทำงานต่อ
 
 1. อ่านไฟล์นี้ก่อน (AGENTS.md)
@@ -93,3 +107,4 @@ project/
 4. อ่าน `translations/04_vimalakirti/glossary.md` เพื่อใช้ศัพท์ให้ถูกต้อง
 5. แปลบทถัดไปที่ยังไม่แปล
 6. **อย่าลืมอัปเดต web/js/data.js ด้วย**
+7. **อย่าลืม push ขึ้น GitHub เพื่อให้ขึ้นหน้าเว็บ**
