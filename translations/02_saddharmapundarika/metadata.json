@@ -3,5 +3,146 @@
   "title": "สัทธรรมปุณฑรีกสูตร (พระสูตรดอกบัวขาว)",
   "created_at": "2026-03-18T07:38:19.186868",
   "status": "pending",
-  "contributors": []
+  "contributors": [],
+  "dsbc_book_id": 54,
+  "source_url": "https://www.dsbcproject.org/canon-text/book/54",
+  "downloaded_at": "2026-05-22 14:52:42",
+  "chapters_found": 27,
+  "chapters": [
+    {
+      "id": 458,
+      "title": "1 nidānaparivartaḥ",
+      "number": 1
+    },
+    {
+      "id": 459,
+      "title": "2 upāyakauśalyaparivartaḥ",
+      "number": 2
+    },
+    {
+      "id": 460,
+      "title": "3 aupamyaparivartaḥ",
+      "number": 3
+    },
+    {
+      "id": 461,
+      "title": "4 adhimuktiparivartaḥ",
+      "number": 4
+    },
+    {
+      "id": 462,
+      "title": "5 oṣadhīparivartaḥ",
+      "number": 5
+    },
+    {
+      "id": 463,
+      "title": "6 vyākaraṇaparivartaḥ",
+      "number": 6
+    },
+    {
+      "id": 464,
+      "title": "7 pūrvayogaparivartaḥ",
+      "number": 7
+    },
+    {
+      "id": 465,
+      "title": "8 pañcabhikṣuśatavyākaraṇaparivartaḥ",
+      "number": 8
+    },
+    {
+      "id": 466,
+      "title": "9 ānandādivyākaraṇaparivartaḥ",
+      "number": 9
+    },
+    {
+      "id": 467,
+      "title": "10 dharmabhāṇakaparivartaḥ",
+      "number": 10
+    },
+    {
+      "id": 468,
+      "title": "11 stūpasaṁdarśanaparivartaḥ",
+      "number": 11
+    },
+    {
+      "id": 469,
+      "title": "12 utsāhaparivartaḥ",
+      "number": 12
+    },
+    {
+      "id": 470,
+      "title": "13 sukhavihāraparivartaḥ",
+      "number": 13
+    },
+    {
+      "id": 471,
+      "title": "14 bodhisattvapṛthivīvirasamudgamaparivartaḥ",
+      "number": 14
+    },
+    {
+      "id": 472,
+      "title": "15 tathāgatāyuṣpramāṇaparivartaḥ",
+      "number": 15
+    },
+    {
+      "id": 473,
+      "title": "16 puṇyaparyāyaparivartaḥ",
+      "number": 16
+    },
+    {
+      "id": 474,
+      "title": "17 anumodanāpuṇyanirdeśaparivartaḥ",
+      "number": 17
+    },
+    {
+      "id": 475,
+      "title": "18 dharmabhāṇakānuśaṁsāparivartaḥ",
+      "number": 18
+    },
+    {
+      "id": 476,
+      "title": "19 sadāparibhūtaparivartaḥ",
+      "number": 19
+    },
+    {
+      "id": 477,
+      "title": "20 tathāgataddharyabhisaṁskāraparivartaḥ",
+      "number": 20
+    },
+    {
+      "id": 478,
+      "title": "21 dhāraṇīparivartaḥ",
+      "number": 21
+    },
+    {
+      "id": 479,
+      "title": "22 bhaiṣajyarājapūrvayogaparivartaḥ",
+      "number": 22
+    },
+    {
+      "id": 480,
+      "title": "23 gadgadasvaraparivartaḥ",
+      "number": 23
+    },
+    {
+      "id": 481,
+      "title": "24 samantamukhaparivartaḥ",
+      "number": 24
+    },
+    {
+      "id": 482,
+      "title": "25 śubhavyūharājapūrvayogaparivartaḥ",
+      "number": 25
+    },
+    {
+      "id": 483,
+      "title": "26 samantabhadrotsāhanaparivartaḥ",
+      "number": 26
+    },
+    {
+      "id": 484,
+      "title": "27 anuparīndanāparivartaḥ",
+      "number": 27
+    }
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "dsbc_book_id": 43,
+  "source_url": "https://www.dsbcproject.org/canon-text/book/43",
+  "downloaded_at": "2026-05-22 14:56:43",
+  "chapters_found": 6,
+  "chapters": [
+    {
+      "id": 408,
+      "title": "Dharma-cakra-pravartano nāma prathamaḥ parivartaḥ",
+      "number": 1
+    },
+    {
+      "id": 409,
+      "title": "Dvitīyo dhāraṇī-mukha-parivartaḥ",
+      "number": 2
+    },
+    {
+      "id": 410,
+      "title": "Dāna-visargas tṛtīyaḥ",
+      "number": 3
+    },
+    {
+      "id": 411,
+      "title": "Bodhisattva-vyākaraṇa-parivartaścaturthaḥ",
+      "number": 4
+    },
+    {
+      "id": 412,
+      "title": "Dāna-parivarto nāma pañcamaḥ",
+      "number": 5
+    },
+    {
+      "id": 413,
+      "title": "Epilogue",
+      "number": 6
+    }
+  ]
+}

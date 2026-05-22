@@ -1,0 +1,128 @@
+{
+  "sutra_id": "39",
+  "title": "Daśabhūmikasūtram",
+  "title_thai": "ทศภูมิกสูตร",
+  "description": "การปฏิบัติของพระโพธิสัตว์ 10 ขั้น",
+  "priority": 5,
+  "created_at": "2026-03-18T07:44:14.509109",
+  "status": "pending",
+  "translators": [],
+  "proofreaders": [],
+  "last_updated": "2026-03-18T07:44:14.509114",
+  "dsbc_book_id": 39,
+  "source_url": "https://www.dsbcproject.org/canon-text/book/39",
+  "downloaded_at": "2026-05-22 14:52:38",
+  "chapters_found": 22,
+  "chapters": [
+    {
+      "id": 286,
+      "title": "1 pramuditā nāma prathamā bhūmiḥ",
+      "number": 1
+    },
+    {
+      "id": 287,
+      "title": "2 vimalā nāma dvitīyā bhūmiḥ",
+      "number": 2
+    },
+    {
+      "id": 288,
+      "title": "3 prabhākarī nāma tṛtīyā bhūmiḥ",
+      "number": 3
+    },
+    {
+      "id": 289,
+      "title": "4 arciṣmatī nāma caturthī bhūmiḥ",
+      "number": 4
+    },
+    {
+      "id": 290,
+      "title": "5 sudurjayā nāma pañcamī bhūmiḥ",
+      "number": 5
+    },
+    {
+      "id": 291,
+      "title": "6 abhimukhī nāma ṣaṣṭhī bhūmiḥ",
+      "number": 6
+    },
+    {
+      "id": 292,
+      "title": "7 duraṁgamā nāma saptamī bhūmiḥ",
+      "number": 7
+    },
+    {
+      "id": 293,
+      "title": "8 acalā nāma aṣṭamī bhūmiḥ",
+      "number": 8
+    },
+    {
+      "id": 294,
+      "title": "9 sādhumatī nāma navamī bhūmiḥ",
+      "number": 9
+    },
+    {
+      "id": 295,
+      "title": "10 dharmameghā nāma daśamī bhūmiḥ",
+      "number": 10
+    },
+    {
+      "id": 296,
+      "title": "11 parīndanāparivartaḥ",
+      "number": 11
+    },
+    {
+      "id": 297,
+      "title": "Daśabhūmikasūtre gāthāvibhāgaḥ -1 pramuditā nāma prathamā bhūmiḥ",
+      "number": 12
+    },
+    {
+      "id": 298,
+      "title": "2 vimalā nāma dvitīyā bhūmiḥ",
+      "number": 13
+    },
+    {
+      "id": 299,
+      "title": "3 prabhākarī nāma tṛtīyā bhūmiḥ",
+      "number": 14
+    },
+    {
+      "id": 300,
+      "title": "4 arciṣmatī nāma caturthī bhūmiḥ",
+      "number": 15
+    },
+    {
+      "id": 301,
+      "title": "5 sudurjayā nāma pañcamī bhūmiḥ",
+      "number": 16
+    },
+    {
+      "id": 302,
+      "title": "6 abhimukhī nāma ṣaṣṭhī bhūmiḥ",
+      "number": 17
+    },
+    {
+      "id": 303,
+      "title": "7 dūraṁgamā nāma saptamī bhūmiḥ",
+      "number": 18
+    },
+    {
+      "id": 304,
+      "title": "8 acalā nāma aṣṭamī bhūmiḥ",
+      "number": 19
+    },
+    {
+      "id": 305,
+      "title": "9 sādhumatī nāma navamī bhūmiḥ",
+      "number": 20
+    },
+    {
+      "id": 306,
+      "title": "10 dharmameghā nāma daśamī bhūmiḥ",
+      "number": 21
+    },
+    {
+      "id": 307,
+      "title": "11 parīndanāparivartaḥ",
+      "number": 22
+    }
+  ]
+}

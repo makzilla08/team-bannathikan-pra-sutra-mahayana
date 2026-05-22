@@ -1,0 +1,18 @@
+{
+  "dsbc_book_id": 29,
+  "source_url": "https://www.dsbcproject.org/canon-text/book/29",
+  "downloaded_at": "2026-05-22 14:55:39",
+  "chapters_found": 2,
+  "chapters": [
+    {
+      "id": 264,
+      "title": "Nidānaparivartaḥ prathamaḥ",
+      "number": 1
+    },
+    {
+      "id": 265,
+      "title": "Dvitīyaḥ parivartaḥ",
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>คลังคัมภีร์สรวาสติวาท | Sarvāstivāda Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@400;600;700&family=Sarabun:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📜</text></svg>">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1 class="logo">คลัง<span>คัมภีร์สรวาสติวาท</span></h1>
+            <p class="subtitle">ภาษาสันสกฤต • แปลเป็นภาษาไทย</p>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">← กลับหน้าหลัก มหายาน</a></li>
+            <li><a href="#texts">คัมภีร์</a></li>
+            <li><a href="#about">เกี่ยวกับ</a></li>
+            <li><a href="https://www.dsbcproject.org" target="_blank">DSBC Project</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="hero" id="home">
+            <h2>คัมภีร์นิกายสรวาสติวาท แปลจากภาษาสันสกฤต</h2>
+            <p>
+                โครงการแปลคัมภีร์ของนิกายสรวาสติวาท (Sarvāstivāda) 
+                — นิกายที่รุ่งเรืองในอินเดียเหนือและเอเชียกลางตั้งแต่พุทธศตวรรษที่ 3-10 
+                โดยใช้ต้นฉบับจาก Digital Sanskrit Buddhist Canon (DSBC)
+            </p>
+            <div class="ornament">❧ ❧ ❧</div>
+        </section>
+
+        <section class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number" id="total-texts">9</div>
+                <div class="stat-label">คัมภีร์ที่เลือก</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="total-chapters">36</div>
+                <div class="stat-label">จำนวนบท</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="completed">0</div>
+                <div class="stat-label">แปลแล้ว</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="in-progress">0</div>
+                <div class="stat-label">กำลังแปล</div>
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- Category: Abhidharma -->
+        <section class="sutra-section" id="abhidharma">
+            <h2 class="section-title">📘 อภิธรรม</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                คัมภีร์อภิธรรม — ระบบปรัชญาและจิตวิทยาพุทธ
+            </p>
+            <div class="sutra-grid" id="abhidharma-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- Category: Vinaya -->
+        <section class="sutra-section" id="vinaya">
+            <h2 class="section-title">📕 วินัย</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                คัมภีร์วินัย — ข้อปฏิบัติและกฎสงฆ์
+            </p>
+            <div class="sutra-grid" id="vinaya-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- Category: Āgama -->
+        <section class="sutra-section" id="agama">
+            <h2 class="section-title">📗 อาคม (พระสูตร)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                พระสูตรในนิกายสรวาสติวาท
+            </p>
+            <div class="sutra-grid" id="agama-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <section class="sutra-section" id="about">
+            <h2 class="section-title">เกี่ยวกับโครงการสรวาสติวาท</h2>
+            <div style="background: var(--dark); padding: 2rem; border-radius: 8px; border: 1px solid var(--gold-dark);">
+                <p style="margin-bottom: 1rem;">
+                    <strong style="color: var(--gold);">สรวาสติวาทคืออะไร?</strong>
+                    Sarvāstivāda (สัพพัตถิกวาท) แปลว่า "วาทะว่าสรรพสิ่งมีอยู่" 
+                    เป็นหนึ่งในนิกายพุทธที่เก่าแก่และมีอิทธิพลมากที่สุดในอินเดีย 
+                    มีระบบอภิธรรมที่ละเอียดที่สุดในบรรดาพุทธศาสนาทั้งปวง 
+                    คัมภีร์ของนิกายนี้เป็นรากฐานสำคัญของพุทธปรัชญาโดยเฉพาะในด้าน 
+                    กาล 3, กรรม, ปรมัตถธรรม และมรรค
+                </p>
+                <p style="margin-bottom: 1rem;">
+                    <strong style="color: var(--gold);">ขอบเขตโครงการ:</strong>
+                    แปลคัมภีร์สำคัญของสรวาสติวาทเป็นภาษาไทยจากต้นฉบับสันสกฤต 
+                    โดยเน้นคัมภีร์ที่ยังหลงเหลือเป็นสันสกฤตสมบูรณ์และมีอยู่ใน DSBC Project
+                </p>
+                <p style="margin-bottom: 1rem;">
+                    <strong style="color: var(--gold);">คัมภีร์ที่วางแผน:</strong>
+                </p>
+                <ul style="color: var(--text-muted); line-height: 2; padding-left: 1.5rem;">
+                    <li><strong>อภิธรรม:</strong> Abhidharmakośa, Jñānaprasthāna, Abhidharmadīpa</li>
+                    <li><strong>วินัย:</strong> Mūlasarvāstivāda-vinayavastu (17 วัตถุ), Prātimokṣa ฯลฯ</li>
+                    <li><strong>อาคม:</strong> Mahāprātihāryasūtra และพระสูตรอิสระอื่นๆ</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="ornament">☸</div>
+        <p>โครงการแปลคัมภีร์สรวาสติวาท • ข้อมูลจาก DSBC Project</p>
+        <p style="margin-top: 0.5rem;">
+            <a href="https://www.dsbcproject.org" target="_blank">Digital Sanskrit Buddhist Canon</a> • 
+            University of the West
+        </p>
+        <p style="margin-top: 1rem;">
+            <a href="index.html">← กลับหน้าหลักคลังพระสูตรมหายาน</a>
+        </p>
+        <p style="margin-top: 1rem; font-size: 0.8rem;">
+            "สัพเพ ธัมมา อนัตตา" - ธรรมทั้งหลายไม่ใช่ตน
+        </p>
+    </footer>
+
+    <script src="js/sarvastivada_data.js"></script>
+    <script src="js/sarvastivada_app.js"></script>
+</body>
+</html>

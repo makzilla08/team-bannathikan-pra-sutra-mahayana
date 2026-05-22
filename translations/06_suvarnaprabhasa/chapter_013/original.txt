@@ -1,0 +1,452 @@
+Chapter 13: Devendrasamayarājaśāstraparivartaḥ
+Source: https://www.dsbcproject.org/canon-text/book/60
+
+Digital Sanskrit Buddhist Canon - Books
+
+Digital Sanskrit Buddhist Canon
+
+×
+
+Home
+
+Canon Texts
+
+Main Introduction
+
+Browse By List
+
+Romanized
+
+देवनागरी
+
+Bibliography
+
+Manuscripts
+
+Introduction
+
+Short History
+
+Contributors
+
+People
+
+Browse Gallery
+
+Resources
+
+Links
+
+Catalog
+
+About Us
+
+Donations
+
+People
+
+Usage Policy
+
+News
+
+Contact Us
+
+(626) 571-8811 ext.321
+
+[email protected]
+
+Home
+
+Canon Texts
+
+Main Introduction
+
+Browse By
+Category
+
+Browse By List
+
+Romanized
+
+देवनागरी
+
+Bibliography
+
+Manuscripts
+
+Introduction
+
+Short History
+
+Contributors
+
+People
+
+Browse Gallery
+
+Resources
+
+Links
+
+Catalog
+
+About Us
+
+Donations
+
+People
+
+Usage Policy
+
+News
+
+Contact Us
+
+Home
+
+Canon Text
+
+Romanized
+
+sūtrapiṭaka
+
+mahāyānasūtra
+
+Devendrasamayarājaśāstraparivartaḥ
+
+Devendrasamayarājaśāstraparivartaḥ
+
+Technical Details
+
+Text Version:
+
+Romanized
+
+Input Personnel:
+
+DSBC Staff
+
+Input Date:
+
+2004
+
+Proof Reader:
+
+Miroj Shakya
+
+Supplier:
+
+Nagarjuna Institute of Exact Methods
+
+Sponsor:
+
+University of the West
+
+Parallel
+Devanāgarī version
+
+देवेन्द्रसमयराजशास्त्रपरिवर्तः
+
+|| devendrasamayarājaśāstraparivartaḥ ||
+
+namastasya bhagavato ratnakusumaguṇasāgaravaiḍūryakanakagirisuvarṇakāñcanaprabhāsaśriyastathāgatasyārhataḥ samyaksaṃbuddhasya | namasyasyānekaguṇakoṭīniyutaśatasahasrasamalaṃkṛtaśarīrasya śākyamunestathāgatasya yasyeyaṃ dharmolkā jvalati | namastasyā aparimitapuṇyadhānyamāṅgalyasampannāyāḥ śriyo mahādevyāḥ | namastasyā aparimitaguṇaprajñāsamuditāyāḥ sarasvatyā devyāḥ ||
+
+tena khalu punaḥ kālena tena samayena rājā baladaketuḥ putrasya ruciraketoracirābhiṣiktasya ca rājyapratiṣṭhitasyaitadavocat | asti putra devendrasamayaṃ nāma rājaśāstram | yanmayā pūrvamacirābhiṣiktena ca rājyapratiṣṭhitena pitū rājño balendraketoḥ sakāśādudgṛhītam | tena mayā devendrasamayena rājaśāstreṇa viṃśativarṣasahasrāṇi rājatvaṃ kāritaṃ babhūva | nābhijānāmyahamantaśa ekacittakṣaṇapramāṇamātreṇāpi kasyacidadharmasthitapūrvam | katamattatra devendrasamayaṃ nāma rājaśāstram ||
+
+atha khalu kuladevate rājā baladaketustena kālena tena samayena putrasya rājño ruciraketorimābhirgāthābhirdevendrasamayaṃ nāma rājaśāstraṃ vistareṇa saṃprakāśayati sma ||
+
+rājaśāstraṃ pravakṣyāmi sarvasattvahitaṃ karam |
+
+sarvasaṃśayacchettāraṃ sarvaduṣkṛtanāśanam || 1 ||
+
+hṛṣṭacittā bhavitveha sarve nṛpatayaḥ pṛthak |
+
+sarvadevendrasamayaṃ śṛṇudhvaṃ prāñjalikṛtāḥ || 2 ||
+
+vajraprākāragirīndre'smindevendrāṇāṃ samāgamaiṃ |
+
+utthitairlokapālebhirbrahmendraḥ paripṛcchitaḥ || 3 ||
+
+tvaṃ naḥ suragururbrahmā devatānāṃ tvamīśvaraḥ |
+
+chettā tvaṃ saṃśayānāṃ ca cchindayāsmākaṃ saṃśayam || 4 ||
+
+kathaṃ manuṣyasaṃbhūto rājā devaḥ sa procyate |
+
+yadiha mānuṣe loke jāyate ca bhavannṛpaḥ || 5 ||
+
+kathaṃ devamanuṣyeṣu rājatvaṃ ca kariṣyate |
+
+evaṃ hi lokapālibhirbrahmemdraḥ paripṛcchataḥ || 6 ||
+
+sarvā suragururbrahmā lokapālānihābravīt |
+
+yadiha lokapālebhiretarhi mama pṛcchitaḥ |
+
+sarvasattvahitārthāya vakṣye'haṃ śāstramuttamam || 7 ||
+
+nārāṇāṃ saṃbhavaṃ vakṣye yuktvāhaṃ manujālaye |
+
+hetunā yena rājāno bhavanti viṣayeṣu ca || 8 ||
+
+devendrāṇāmadhiṣṭhāne mātuḥ kukṣau pravekṣyati |
+
+pūrvamadhiṣṭhito devaiḥ paścād garbhe prapadyate || 9 ||
+
+kiṃ cāpi mānuṣe loke jāyate śrīyate nṛpaḥ |
+
+api vai devasaṃbhūto devaputraḥ sa ucyate || 10 ||
+
+trāyastriṃśairdevarājendrairbhāgo datto nṛpasya hi |
+
+putrastvaṃ saha devānāṃ nirmito manujeśvaraḥ || 11 ||
+
+adharmaśamanārthāya duṣkṛtānāṃ nivārakaḥ |
+
+sukṛtau sthāpayetsattvānpreṣaṇārthaṃ surālaye || 12 ||
+
+manuṣyo vātha devo vā gandharvo vā narādhipaḥ |
+
+rākṣaso vātha caṇḍālo duṣkṛtānāṃ nivārakaḥ || 13 ||
+
+mātā pitā vā nṛpatiḥ sukṛtau karmakāriṇām |
+
+vipākaphaladarśī tvaṃ devarājairadhiṣṭhitaḥ || 14 ||
+
+sukṛtaduṣkṛtānāṃ ca karmaṇāṃ dṛṣṭadhārmikaḥ |
+
+vipākaphaladarśī tvaṃ devarājairadhiṣṭhitaṃ || 15 ||
+
+yadā hyupekṣate rājā duṣkṛtaṃ viṣaye sthitam |
+
+nānārūpaṃ na kurvīta daṇḍaṃ pāpajanasya ca |
+
+duṣkṛtānāmupekṣāyāmadharmo vardhate bhṛśam || 16 ||
+
+śāṭhyāni kalahāścaiva bhūyo rāṣṭre bhavanti ca |
+
+prakupyanti ca devendrāstrāyatriṃśadbhavaneṣu ca ||  17 ||
+
+yadā hyupekṣate rājā duṣkṛtaṃ viṣaye sthiram |
+
+hanyate viṣayo ghoraiḥ śaṭhyairapi sudāruṇaiḥ || 18 ||
+
+vinaśyati ca tadrāṣṭraṃ paracakrasya cākrame |
+
+bhogāni ca balānyeva dhanaṃ yasyāsti saṃcitam || 19 ||
+
+vividhāni ca śāṭhyāni haranti ca parasparam |
+
+yena kāryeṇa rājatvaṃ naitatkāryaṃ kariṣyati |
+
+vilopayati svaṃ rāṣṭraṃ gajendra iva padminīm || 20 ||
+
+viṣamā vāyavo vānti viṣamā jalavṛṣṭayaḥ |
+
+viṣamā grahanakṣatrāścandrasūryau tathaiva ca || 21 ||
+
+sasyaṃ puṣpaṃ phalaṃ bījaṃ va samyakparipacyate |
+
+durbhikṣaṃ bhavate tatra yatra rājā hyupekṣakaḥ |
+
+anāttamānaso devā bhavanti bhavaneṣu ca || 22 ||
+
+yadā hyupekṣate rājā duṣkṛtaṃ vicaretparam |
+
+te sarve devarājāśca vakṣyanti ca parasparam || 23 ||
+
+adhārmiko hyayaṃ rājā hyadharmapakṣamāśritaḥ |
+
+na cireṇa hyayaṃ rājā devatāṃ kopayiṣyati || 24 ||
+
+devatānāṃ parikopādviṣayo'sya vinakṣyati |
+
+śasrāṇi ca adharmaśca viṣaye'tra bhaviṣyanti || 25 ||
+
+śāṭhyānāṃ kalahānāṃ ca rogāṇāṃ ca samudbhavaḥ |
+
+prakupyati ca devendra upekṣyanti ca devatāḥ || 26 ||
+
+pralupyate ca yadrāṣṭraṃ sa nṛpaḥ śokamṛcchati |
+
+iṣṭaviyogaṃ prāpnoti bhrātrā vātha sutena vā || 27 ||
+
+priyabhāryāviyogo vā prāpyate duhitātha vā |
+
+ulkāpātā bhaviṣyanti pratisūryāstathaiva ca || 28 ||
+
+paracakrabhayaṃ vāpi durbhikṣaṃ vardhati bhṛśam |
+
+priyāmātyaśca mriyate'priyastu garjate vacaḥ || 29 ||
+
+sutābhīṣṭaṃ priyāśvāsaṃ bālābhāryāvirodhinaḥ |
+
+parasparaṃ hariṣyanti kulabhogaṃ dhanāni ca || 30 ||
+
+deśe deśe haniṣyanti śastreṇa ca parasparam |
+
+vivādāḥ kalahāḥ śāṭhyā bhavanti viṣayeṣu ca || 31 ||
+
+grahaḥ praviśate rāṣṭre vyādhirbhavati dāruṇaḥ |
+
+adhārmikā bhaviṣyanti dikṣaṇīyāstadantaram || 32 ||
+
+amātyāḥ pariṣadyāśca bhavantyasyāpyadhārmikāḥ |
+
+adhārmikajane pūjā bhaviṣyanti tadantaram || 33 ||
+
+dhārmikānāṃ ca sattvānāṃ nigraho bhavati dhruvam |
+
+adhārmikajane mānaṃ dhārmikānāṃ ca  nigraham |
+
+trayastatra  prakupyante nakṣatrajalavāyavaḥ || 34 ||
+
+trayo bhāvā vinaśyanti adhārmikajano grahe |
+
+saddharmarasanojaśca sattvojaḥ pṛthivīrasaḥ || 35 ||
+
+asatyajanasaṃmānaṃ satyajanavimānatā |
+
+trayastatra  bhaviṣyanti durbhikṣamatha nirbharam |
+
+phalasasyarasaujaśca na bhavati tadantare || 36 ||
+
+glānena bahulāḥ sattvā bhavanti viṣayeṣu ca |
+
+madhurāṇi mahānti ca phalāni viṣaye'pi  hi |
+
+parītā ca bhaviṣyanti tiktaḥ kaṭuka eva ca || 37 ||
+
+pūrvā ramyāṇi bhāvāni krīḍāhāsyaratīni ca |
+
+sabhā ramyā bhaviṣyanti āyāsaśatavyākulāḥ || 38 ||
+
+dhānyānāṃ ca phalānāṃ ca snigghabhāvo rasaḥ kṣayet |
+
+na  tathā prīṇayiṣyanti  śarīrendriyadhātavaḥ || 39 ||
+
+durvarṇāḥ sattvā bhaviṣyanti svalpasthāmāḥ sudurbalāḥ |
+
+bahu ca bhojanaṃ bhuktvā tṛptiṃ nāsādayanti te || 40 ||
+
+balaṃ ca sthāma vīryaṃ ca na labhanti tadantare |
+
+hīnavīryāṇi sattvāni bhavanti viṣayeṣu ca || 41 ||
+
+sattvā bhaviṣyanti rogārtā nānāvyādhiprapīḍitāḥ |
+
+grahā bhaviṣyanti nakṣatrā nānārākṣasasaṃbhavāḥ || 42 ||
+
+adhārmiko bhavedrājā adharmapakṣasaṃsthitaḥ |
+
+traidhātuke viruddho'sti sarvatrailokyamaṇḍalam |
+
+aneke īdṛśā doṣā bhavanti viṣayeṣu ca || 43 ||
+
+yadā pakṣasthito rājā duṣkṛtaṃ samupekṣate |
+
+yena kāryeṇa rājā vai devendrebhiradhiṣṭhitaḥ |
+
+na tatkaroti rājatvaṃ duṣkṛtaṃ samupekṣataḥ || 44 ||
+
+sukṛtenopapadyante sarvadevasurālaye |
+
+duṣkṛtena ca gacchanti pretatiryagnarakeṣu ca |
+
+trāyastriṃśaddevasthāne pratāpayanti duṣkṛtāt || 45 ||
+
+yadā hyupakṣate rājā duṣkṛtaṃ viṣaye sthitam |
+
+pitṝṇāṃ devarājānāṃ bhavena sāparādhikaḥ |
+
+na tadbhavati putratvaṃ na rajatvaṃ kṛtaṃ bhavet || 46 ||
+
+yadāpi naśyate kāryaṃ śāṭhyairapi sudāruṇaiḥ |
+
+tasmādadhiṣṭhito rājā devendrarmanujālaye || 47 ||
+
+duṣkṛtānāṃ  śamanārthāya sukṛtānāṃ pravartakaḥ |
+
+dṛṣṭadhārmikaḥ sattvānāṃ vipākajanako nṛpaḥ || 48 ||
+
+sukṛtaduṣkṛtānāṃ ca karmaṇāṃ yaḥ pṛthagvidhaḥ |
+
+vipākaphaladarśārthaṃ karttā rājā hi procyate |
+
+adhiṣṭhito devagaṇairdevendrairanumoditaḥ || 49 ||
+
+ātmano'rthaṃ parārthāya dharmārthaṃ viṣayasya ca |
+
+damanārthāya rāṣṭreṣu śaṭhapāpajanasya ca || 50 ||
+
+tyajecca jīvitaṃ rājyaṃ dharmārthaṃ viṣayasya ca |
+
+mā cādharmamapṛcchitvā jānantaṃ samupekṣata || 51 ||
+
+na cānyastādṛśo nāśo viṣaye'smin sudāruṇaḥ |
+
+yadā śāṭhyasamutpannaḥ śāṭhyakāntāranigrahaḥ || 52 ||
+
+bhūyo bhavanti śāṭhyāni viṣaye'smin sudāruṇā |
+
+vilupyate ca tadrāṣṭraṃ gajairiva mahāsaraḥ || 53 ||
+
+prakupyanti ca devendrā vilumpate surālayam |
+
+viṣamāḥ sarvabhāvāśca bhavanti viṣayasya hi || 54 ||
+
+tasmāddoṣānurūpaṃ syāddamanaṃ pāpakāriṇām |
+
+dharmeṇa pālayedrāṣṭaṃ mā cādharmaṃ samācaret || 55 ||
+
+jīvitaṃ ca parityajya mā pāpe patito bhavet |
+
+bandhujane parajane sarvarāṣṭrajaneṣu ca |
+
+ekāpekṣo bhavedrājā mā pakṣe patito bhavet || 56 ||
+
+trailokyamāpūrayate yaśasā dhārmiko nṛpaḥ |
+
+harṣayiṣyanti devendrāstrāyastriṃśadbhaveṣu ca || 57 ||
+
+jambūdvīpe tathāsmākaṃ putro dharmātmako nṛpaḥ |
+
+dharmeṇa śāsyate rāṣṭraṃ sukṛte sthāpyate janam || 58 ||
+
+sukṛtena ca rājā taṃ iha preṣayate janam |
+
+devairdevasutaiḥ pūrṇaṃ karoti ca surālayam || 59 ||
+
+dharmeṇa śāsyate rāṣṭraṃ rājā naḥ supraharṣitāḥ |
+
+prasannā bhonti devendrā rakṣante tānnarādhipān || 60 ||
+
+samyagvahanti nakṣatrā candrasūryau tathaiva ca |
+
+kālena vāyavo vānti kāle caivaṃ pravarṣati || 61||
+
+subhikṣaṃ kurvate rāṣṭre tathā devasurālaye |
+
+amarāmaraputreṇa pūrṇaṃ bhoti surālayam || 62 ||
+
+tasmāttyajyennarapatiḥ priyaṃ jīvitamātmanaḥ |
+
+āvartayeddharmaratnaṃ yena lokaḥ sukhī bhavet | 63 ||
+
+dhārmikīṃ ca nayet sevāṃ yo guṇaiḥ samalaṃkṛtaḥ |
+
+sa nityaṃ sevate tuṣṭaṃ sadā pāpavivarjitaḥ || 64 ||
+
+dharmeṇa pālayedrāṣṭraṃ  dharme samanuśāsayet |
+
+sukṛte sthāpayet sattvānduṣkṛte ca vivārayet || 65 ||
+
+subhikṣaṃ bhavate rāṣṭre tejasvī bhavate nṛpaḥ |
+
+yathānurūpaṃ kurute damanaṃ pāpakāriṇām |
+
+yaśasvī bhavate rājā sukhaṃ pālayate prajāmiti || 66 ||
+
+iti śrīsuvarṇaprabhāsoottamasūtrendrarāje devendrasamayaṃ nāma
+
+rājaśāstraparivartastrayodaśamaḥ ||

@@ -8,5 +8,16 @@
   "status": "pending",
   "translators": [],
   "proofreaders": [],
-  "last_updated": "2026-03-18T07:44:14.510508"
+  "last_updated": "2026-03-18T07:44:14.510508",
+  "dsbc_book_id": 58,
+  "source_url": "https://www.dsbcproject.org/canon-text/book/58",
+  "downloaded_at": "2026-05-22 14:53:15",
+  "chapters_found": 1,
+  "chapters": [
+    {
+      "id": 527,
+      "title": "Sukhāvatīvyūhaḥ (saṁkṣiptamātṛkā)",
+      "number": 1
+    }
+  ]
 }
