@@ -1,212 +1,115 @@
-Chapter 21: 21 dhāraṇīparivartaḥ
-Source: https://www.dsbcproject.org/canon-text/book/54
-
-Digital Sanskrit Buddhist Canon - Books
-
-Digital Sanskrit Buddhist Canon
-
-×
-
-Home
-
-Canon Texts
-
-Main Introduction
-
-Browse By List
-
-Romanized
-
-देवनागरी
-
-Bibliography
-
-Manuscripts
-
-Introduction
-
-Short History
-
-Contributors
-
-People
-
-Browse Gallery
-
-Resources
-
-Links
-
-Catalog
-
-About Us
-
-Donations
-
-People
-
-Usage Policy
-
-News
-
-Contact Us
-
-(626) 571-8811 ext.321
-
-[email protected]
-
-Home
-
-Canon Texts
-
-Main Introduction
-
-Browse By
-Category
-
-Browse By List
-
-Romanized
-
-देवनागरी
-
-Bibliography
-
-Manuscripts
-
-Introduction
-
-Short History
-
-Contributors
-
-People
-
-Browse Gallery
-
-Resources
-
-Links
-
-Catalog
-
-About Us
-
-Donations
-
-People
-
-Usage Policy
-
-News
-
-Contact Us
-
-Home
-
-Canon Text
-
-Romanized
-
-sūtrapiṭaka
-
-mahāyānasūtra
-
-21 dhāraṇīparivartaḥ
-
-21 dhāraṇīparivartaḥ
-
-Technical Details
-
-Text Version:
-
-Romanized
-
-Input Personnel:
-
-DSBC Staff
-
-Input Date:
-
-2005
-
-Proof Reader:
-
-Miroj Shakya
-
-Supplier:
-
-Nagarjuna Institute of Exact Methods
-
-Sponsor:
-
-University of the West
-
-Parallel
-Devanāgarī version
-
-२१ धारणीपरिवर्तः
-
 21 dhāraṇīparivartaḥ|
+
+
 
 atha khalu bhaiṣajyarājo bodhisattvo mahāsattva utthāyāsanādekāṃsamuttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānumaṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya yena bhagavāṃstenāñjaliṃ praṇamya bhagavantametadavocat kiyad bhagavan sa kulaputro vā kuladuhitā vā puṇyaṃ prasavet, ya imaṃ saddharmapuṇḍarīkaṃ dharmaparyāyaṃ dhārayet, kāyagataṃ vā pustakagataṃ vā kṛtvā? evamukte bhagavān bhaiṣajyarājaṃ bodhisattvaṃ mahāsattvametadavocat-yaḥ kaścid bhaiṣajyarāja kulaputro vā kuladuhitā vā aśītigaṅgānadīvālikāsamāni tathāgatakoṭīnayutaśatasahasrāṇi satkuryād gurukuryānmānayet pūjayet, takiṃ manyase bhaiṣajyarāja kiyatkulaputro vā kuladuhitā vā tatonidānaṃ bahu puṇyaṃ prasavet? bhaiṣajyarājo bodhisattvo mahāsattva āha-bahu bhagavan, bahu sugata| bhagavānāha-ārocayāmi te bhaiṣajyarāja, prativedayāmi| yaḥ kaścid bhaiṣajyarāja kulaputro vā kuladuhitā vā asmāt saddharmapuṇḍarīkāddharmaparyāyādantaśa ekāmapi catuṣpadīgāthāṃ dhārayet, vācayet, paryavāpnuyāt, pratipattyā ca saṃpādayet, ataḥ sa bhaiṣajyarāja kulaputro vā kuladuhitā vā tatonidānaṃ bahutaraṃ puṇyaṃ prasavet||
 
+
+
 atha khalu bhaiṣajyarājo bodhisattvo mahāsattvastasyāṃ velāyāṃ bhagavantametadavocat-dāsyāmo vayaṃ bhagavaṃsteṣāṃ kulaputrāṇāṃ kuladuhitṛṇāṃ vā yeṣāmayaṃ saddharmapuṇḍarīko dharmaparyāyaḥ kāyagato vā syāt, pustakagato vā, rakṣāvaraṇaguptaye dhāraṇīmantrapadāni| tadyathā—
+
+
 
 anye manye mane mamane citte carite same samitā viśānte mukte muktatame same aviṣame samasame jaye kṣaye akṣaye akṣiṇe śānte samite dhāraṇi ālokabhāṣe pratyavekṣaṇi nidhiru abhyantaraniviṣṭe abhyantarapāriśuddhimutkule araḍe paraḍe sukāṅkṣi asamasame buddhavilokite dharmaparīkṣite saṃghanirghoṣaṇi nirghoṇi bhayābhayaviśodhani mantre mantrākṣayate rute rutakauśalye akṣaye akṣayavanatāye vakkule valoḍra amanyanatāye svāhā||
 
+
+
 imāni bhagavan mantradhāraṇīpadāni dvāṣaṣṭibhirgaṅgānadīvālikāsamairbuddhairbhagavadbhirbhāṣitāni| te sarve buddhā bhagavantastena drugdhāḥ syuḥ, ya evaṃrupān dharmabhāṇakānevaṃrūpān sūtrāntadhārakānatikrāmet||
+
+
 
 atha khalu bhagavān bhaiṣajyarājāya bodhisattvāya mahāsattvāya sādhukāramadāt sādhu sādhu bhaiṣajyarāja, sattvānāmarthaḥ kṛtaḥ| dhāraṇīpadāni bhāṣitāni sattvānāmanukampāmupādaya| rakṣāvaraṇaguptiḥ kṛtā||
 
+
+
 atha khalu pradānaśūro bodhisattvo mahāsattvo bhagavantametadavocat-ahamapi bhagavan evaṃrūpāṇāṃ dharmabhāṇakānāmarthāya dhāraṇīpadāni dāsyāmi, yatteṣāmevaṃrūpāṇāṃ dharmabhāṇakānāṃ na kaścidavatāraprekṣī avatāragaveṣī avatāraṃ lapsyate| tadyathā yakṣo vā rākṣaso vā pūtano vā kṛtyo vā kumbhāṇḍo vā preto vā avatāraprekṣī avatāragaveṣī avatāraṃ na lapsyata iti||
+
+
 
 atha khalu pradānaśūro bodhisattvo mahāsattvastasyāṃ velāyāmimāni dhāraṇīmantrapadāni bhāṣate sma| tadyathā—
 
+
+
 jvale mahājvale ukke tukke mukke aḍe aḍāvati nṛtye nṛtyāvati iṭṭini viṭṭini ciṭṭini nṛtyani nṛtyāvati svāhā||
+
+
 
 imāni bhagavan dhāraṇīpadāni gaṅgānadīvālikāsamaistathāgatairarhadbhiḥ samyaksaṃbuddhairbhāṣitāni, anumoditāni ca| te sarve tathāgatāstena drugdhāḥ syuḥ, yastānevaṃrūpān dharmabhāṇakānatikrameta||
 
+
+
 atha khalu vaiśravaṇo mahārājo bhagavantametadavocat-ahamapi bhagavan dhāraṇīpadāni bhāṣiṣye teṣāṃ dharmabhāṇakānāṃ hitāya sukhāya anukampāyai rakṣāvaraṇaguptaye|| tadyathā—
+
+
 
 aṭṭe taṭṭe naṭṭe vanaṭṭe anaḍe nāḍi kunaḍi svāhā||
 
+
+
 ebhirbhagavan dhāraṇīpadaisteṣāṃ dharmabhāṇakānāṃ pudgalānāṃ rakṣāṃ karomi, yojanaśatāccāhaṃ teṣāṃ kulaputrāṇāṃ kuladuhitṛṇāṃ ca evaṃrūpāṇāṃ sūtrāntadhārakāṇāṃ rakṣā kṛtā bhaviṣyati, svastyayanaṃ kṛtaṃ bhaviṣyati||
 
+
+
 atha khalu virūḍhako mahārājo tasyāmeva parṣadi saṃnipatito'bhūt saṃniṣaṇṇaśca kumbhāṇḍakoṭīnayutaśatasahasraiḥ parivṛtaḥ puraskṛtaḥ| sa utthāyāsanādekāṃsamuttarāsaṅgaṃ kṛtvā yena bhagavāṃstenāñjaliṃ praṇāmya bhagavantametadavocat-ahamapi bhagavan dhāraṇīpadāni bhāṣiṣye bahujanahitāya| teṣāṃ ca tathārūpāṇāṃ dharmabhāṇakānāmevaṃrūpāṇāṃ sūtrāntadhārakāṇāṃ rakṣāvaraṇaguptaye dhāraṇīmantrapadāni| tadyathā—
+
+
 
 agaṇe gaṇe gauri gandhāri caṇḍāli mātaṅgi pukkasi saṃkule vrūsali sisi svāhā||
 
 imāni tāni bhagavan dhāraṇīmantrapadāni, yāni dvācatvāriṃśadbhirbuddhakoṭībhirbhāṣitāni| te sarve tena drugdhāḥ syuḥ, yastānevaṃrūpān dharmabhāṇakānatikrameta||
 
+
+
 atha khalu lambā ca nāma rākṣasī vilambā ca nāma rākṣasī kūṭadantī ca nāma rākṣasī puṣpadantī ca nāma rākṣasī makuṭadantī ca nāma rākṣasī keśinī ca nāma rākṣasī acalā ca nāma rākṣasī mālādhārī ca nāma rākṣasī kuntī ca nāma rākṣasī sarvasattvojohārī ca nāma rākṣasī hārītī ca nāma rākṣasī saputraparivārā etāḥ sarvā rākṣasyo yena bhagavāṃstenopasaṃkrāntāḥ| upasaṃkramya sarvāstā rākṣasya ekasvareṇa bhagavantametadavocan-vayamapi bhagavaṃsteṣāmevaṃrūpāṇāṃ sūtrāntadhārakāṇāṃ dharmabhāṇakānāṃ rakṣāvaraṇaguptiṃ kariṣyāmaḥ, svastyayanaṃ ca kariṣyāmaḥ| yathā teṣāṃ dharmabhāṇakānāṃ na kaścidavatāraprekṣī avatāragaveṣī avatāraṃ lapsyatīti||
+
+
 
 atha khalu tāḥ sarvā rākṣasya ekasvareṇa samaṃ saṃgītyā bhagavata imāni dhāraṇīmantrapadāni prayacchanti sma| tadyathā—
 
+
+
 iti me iti me iti me iti me iti me| nime nime nime nime nime| ruhe ruhe ruhe ruhe ruhe| stuhe stuhe stuhe stuhe stuhe svāhā||
+
+
 
 imaṃ śīrṣaṃ samāruhya mā kaścid drohī bhavatu dharmabhāṇakānāṃ yakṣo vā rākṣaso vā preto vā piśāco vā pūtano vā kṛtyo va vetālo vā kumbhāṇḍo vā stabdho vā omārako vā ostārako vā apasmārako vā yakṣakṛtyo vā amanuṣyakṛtyo vā manuṣyakṛtyo vā ekāhiko vā dvaitīyako vā traitīyako vā caturthako vā nityajvaro vā viṣamajvaro vā| antaśaḥ svapnāntaragatasyāpi strīrūpāṇi vā puruṣarūpāṇi vā dārakarūpāṇi vā dārikārūpāṇi vā viheṭhāṃ kuryuḥ, nedaṃ sthānaṃ vidyate||
 
+
+
 atha khalu tā rākṣasya evasvareṇa samaṃ saṃgītyā bhagavantamābhirgāthābhiradhyabhāṣanta—
+
+
 
 saptadhāsya sphuṭenmūrdhā arjakasyeva mañjarī|
 
 ya imaṃ mantra śrutvā vai atikrameddharmabhāṇakam||1||
 
+
+
 yā gatirmātṛghātīnāṃ pitṛghātīna yā gatiḥ|
 
 tāṃ gatiṃ pratigacchedyo dharmabhāṇakamatikramet||2||
+
+
 
 yā gatistilapīḍānāṃ tilakūṭānāṃ ca yā gatiḥ|
 
 tāṃ gatiṃ pratigacchedyo dharmabhāṇakamatikramet||3||
 
+
+
 yā gatistulakūṭānāṃ kāṃsyakūṭāna yā gatiḥ|
 
 tāṃ gatiṃ pratigacchedyo dharmabhāṇakamatikramet||4||
 
+
+
 evamuktvā tāḥ kuntipramukhā rākṣasyo bhagavantametadūcuḥ-vayamapi bhagavaṃsteṣāmevaṃrūpāṇāṃ dharmabhāṇakānāṃ rakṣāṃ kariṣyāmaḥ, svastyayanaṃ daṇḍaparihāraṃ viṣadūṣaṇaṃ kariṣyāma iti| evamukte bhagavāṃstā rākṣasya etadavocat-sādhu sādhu bhaginyaḥ| yad yūyaṃ teṣāṃ dharmabhāṇakānāṃ rakṣāvaraṇaguptiṃ kariṣyadhve ye'sya dharmaparyāyasya antaśo nāmadheyamātramapi dhārayiṣyanti| kaḥ punarvādo ya imaṃ dharmaparyāyaṃ sakalasamāptaṃ dhārayiṣyanti, pustakagataṃ vā satkuryuḥ puṣpadhūpagandhamālyavilepanacūrṇacīvaracchatradhvajapatākāvaijayantībhistailapradīpairvā ghṛtapradīpairvā gandhatailapradīpairvā campakatailapradīpairvā vārṣikatailapradīpairvā utpalatailapradīpairvā sumanātailapradīpairvā īddaśairbahuvidhaiḥ pūjāvidhānaśatasahasraiḥ satkariṣyanti gurukariṣyanti, te tvayā kunti saparivārayā rakṣitavyāḥ||
 
+
+
 asmin khalu punardhāraṇīparivarte nirdiśyamāne aṣṭāṣaṣṭīnāṃ prāṇisahasrāṇāmanutpattikadharmakṣāntipratilābho'bhūt||
+
+
 
 iti śrīsaddharmapuṇḍarīke dharmaparyāye dhāraṇīparivarto nāmaikaviṃśatimaḥ||

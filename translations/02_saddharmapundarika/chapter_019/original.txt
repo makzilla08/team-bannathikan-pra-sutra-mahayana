@@ -1,171 +1,42 @@
-Chapter 19: 19 sadāparibhūtaparivartaḥ
-Source: https://www.dsbcproject.org/canon-text/book/54
-
-Digital Sanskrit Buddhist Canon - Books
-
-Digital Sanskrit Buddhist Canon
-
-×
-
-Home
-
-Canon Texts
-
-Main Introduction
-
-Browse By List
-
-Romanized
-
-देवनागरी
-
-Bibliography
-
-Manuscripts
-
-Introduction
-
-Short History
-
-Contributors
-
-People
-
-Browse Gallery
-
-Resources
-
-Links
-
-Catalog
-
-About Us
-
-Donations
-
-People
-
-Usage Policy
-
-News
-
-Contact Us
-
-(626) 571-8811 ext.321
-
-[email protected]
-
-Home
-
-Canon Texts
-
-Main Introduction
-
-Browse By
-Category
-
-Browse By List
-
-Romanized
-
-देवनागरी
-
-Bibliography
-
-Manuscripts
-
-Introduction
-
-Short History
-
-Contributors
-
-People
-
-Browse Gallery
-
-Resources
-
-Links
-
-Catalog
-
-About Us
-
-Donations
-
-People
-
-Usage Policy
-
-News
-
-Contact Us
-
-Home
-
-Canon Text
-
-Romanized
-
-sūtrapiṭaka
-
-mahāyānasūtra
-
-19 sadāparibhūtaparivartaḥ
-
-19 sadāparibhūtaparivartaḥ
-
-Technical Details
-
-Text Version:
-
-Romanized
-
-Input Personnel:
-
-DSBC Staff
-
-Input Date:
-
-2005
-
-Proof Reader:
-
-Miroj Shakya
-
-Supplier:
-
-Nagarjuna Institute of Exact Methods
-
-Sponsor:
-
-University of the West
-
-Parallel
-Devanāgarī version
-
-१९ सदापरिभूतपरिवर्तः
-
 19 sadāparibhūtaparivartaḥ|
+
+
 
 atha khalu bhagavān mahāsthāmaprāptaṃ bodhisattvaṃ mahāsattvamāmantrayate sma-anenāpi tāvanmahāsthāmaprāpta paryāyeṇa evaṃ veditavyam-yathā ya imamevaṃrūpaṃ dharmaparyāyaṃ pratikṣepsyanti, evaṃrūpāṃśca sūtrāntadhārakāṃśca bhikṣubhikṣuṇyupāsakopāsikā ākrośiṣyanti, paribhāṣiṣyanti, asatyayā paruṣayā vācā samudācariṣyanti, teṣāmevamaniṣṭo vipāko bhaviṣyati, yo na śakyaṃ vācā parikīrtayitum| ye ca imamaevaṃrūpaṃ sūtrāntaṃ dhārayiṣyanti vācayiṣyanti deśayiṣyanti paryavāpsyanti, parebhyaśca vistareṇa saṃprakāśayiṣyanti, teṣāmevamiṣṭo vipāko bhaviṣyati yādṛśo mayā pūrvaṃ parikīrtitaḥ| evaṃrūpāṃ ca cakṣuḥśrotraghrāṇajihvākāyamanaḥ-pariśuddhimadhigamiṣyanti||
 
+
+
 bhūtapūrvaṃ mahāsthāmaprāpta atīte'dhvanyasaṃkhyeyaiḥ kalpairasaṃkhyeyatarairvipulairaprameyairacintyaistebhyaḥ pareṇa paratareṇa yadāsīt-tena kālena samayena bhīṣmagarjitasvararājo nāma tathāgato'rhan samyaksaṃbuddho loka udapādi vidyācaraṇasaṃpannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān vinirbhoge kalpe mahāsaṃbhavāyāṃ lokadhātau| sa khalu punarmahāsthāmaprāpta bhagavān bhīṣmagarjitasvararājastathāgato'rhan samyaksaṃbuddhastasyāṃ mahāsaṃbhavāyāṃ lokadhātau sadevamānuṣāsurasya lokasya purato dharmaṃ deśayati sma| yadidaṃ śrāvakāṇāṃ caturāryasatyasaṃprayuktaṃ dharmaṃ deśayati sma jātijarāvyādhimaraṇaśokaparidevaduḥkhadaurmanasyopāyāsasamatikramāya nirvāṇaparyavasānaṃ pratītyasamutpādapravṛttim| bodhisattvānāṃ mahāsattvānāṃ ṣaṭpāramitāpratisaṃyuktānāmanuttarāṃ samyaksaṃbodhimārabhya tathāgatajñānadarśanaparyavasānaṃ dharmaṃ deśayati sma| tasya khalu punarmahāsthāmaprāpta bhagavato bhīṣmagarjitasvararājasya tathāgatasyārhataḥ samyaksaṃbuddhasya catvāriṃśadgaṅgānadīvālikāsamāni kalpakoṭīnayutaśatasahasrāṇyāyuṣpramāṇamabhūt| parinirvṛtasya jambudvīpaparamāṇurajaḥsamāni kalpakoṭīnayutaśatasahasrāṇi saddharmaḥ sthito'bhūt| caturdvīpaparamāṇurajaḥsamāni kalpakoṭīnayutasahasrāṇi saddharmapratirūpakaḥ sthito'bhūt|
+
+
 
 tasyāṃ khalu punarmahāsthāmaprāpta mahāsaṃbhavāyāṃ lokadhātau bhagavato bhīṣmagarjitasvararājasya tathāgatasyārhataḥ samyaksaṃbuddhasya parinirvṛtasya saddharmapratirūpake ca antarhite aparo'pi bhīṣmagarjitasvararāja eva tathāgato'rhan samyaksaṃbuddho loka udapādi vidyācaraṇasaṃpannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān| anayā mahāsthāmaprāpta paraṃparayā tasyāṃ mahāsaṃbhavāyāṃ lokadhātau bhīṣmagarjitasvararājanāmnāṃ tathāgatānāmarhatāṃ samyaksaṃbuddhānāṃ viṃśatikoṭīnayutaśatasahasrāṇyabhūvan| tatra mahāsthāmaprāpta yo'sau tathāgataḥ sarvapūrvako'bhūd bhīṣmagarjitasvararājo nāma tathāgato'rhan samyaksaṃbuddho vidyācaraṇasaṃpannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān, tasya bhagavataḥ parinirvṛtasya saddharme'ntarhite saddharmapratirūpake ca antardhīyamāne tasmin śāsane'dhimānikabhikṣvadhyākrānte sadāparibhūto nāma bodhisattvo bhikṣurabhūt| kena kāraṇena mahāsthāmaprāpta sa bodhisattvo mahāsattvaḥ sadāparibhūta ityucyate? sa khalu punarmahāsthāmaprāpta bodhisattvo mahāsattvo yaṃ yameva paśyati bhikṣuṃ vā bhikṣūṇīṃ vā upāsakaṃ vā upāsikāṃ vā, taṃ tamupasaṃkramya eva vadati-nāhamāyuṣmanto yuṣmākaṃ paribhavāmi|
 
+
+
 aparibhūtā yūyam| tatkasya hetoḥ? sarve hi bhavanto bodhisattvacaryāṃ carantu| bhaviṣyatha yūyaṃ tathāgatā arhantaḥ samyaksaṃbuddhā iti| anena mahāsthāmaprāpta paryāyeṇa sa bodhisattvo mahāsattvo bhikṣubhūto noddeśaṃ karoti, na svādhyāya karoti, anyatra yaṃ yameva paśyati dūragatamapi, sarvaṃ tamupaṃsakramya evaṃ saṃśrāvayati bhikṣuṃ vā bhikṣuṇīṃ vā upāsakaṃ vā upāsikāṃ vā, taṃ tamupasaṃkramyaivaṃ vadati-nāhaṃ bhaginyo yuṣmākaṃ paribhavāmi| aparibhūtā yūyam| tatkasya hetoḥ? sarvā yūyaṃ bodhisattvacaryāṃ caradhvam| bhaviṣyatha yūyaṃ tathāgatā arhantaḥ samyaksaṃbuddhāḥ| yaṃ yameva mahāsthāmaprāpta sa bodhisattvo mahāsattvastasmin samaye bhikṣuṃ vā bhikṣuṇīṃ vā upāsakaṃ vā upāsikāṃ vā evaṃ saṃśrāvayati, sarve'sya yadbhūyastvena krudhyanti, vyāpādanti aprasādamutpādayanti ākrośanti paribhāṣante-kuto'yamapṛṣṭo bhikṣuraparibhavacittamityasmākamupadarśayati? paribhūtamātmānaṃ karoti yadasmākaṃ vyākarotyanuttarāyāṃ samyaksaṃbodhau asantamanākāṅkṣitaṃ ca| atha khalu mahāsthāmaprāpta tasya bodhisattvasya mahāsattvasya bahūni varṣāṇi tathā ākruśyataḥ paribhāṣyamāṇasya gacchanti| na ca kasyacit krudhyati, na vyāpādacittamutpādayati| ye cāsya evaṃ saṃśrāvayato loṣṭaṃ vā daṇḍaṃ vā kṣipanti, sa teṣāṃ dūrata eva uccaiḥsvaraṃ kṛtvā saṃśrāvayati sma-nāhaṃ yuṣmākaṃ paribhavāmīti| tasya tābhirabhimānikabhikṣubhikṣuṇyupāsakopāsikābhiḥ satatasamitaṃ saṃśrāvyamāṇābhiḥ sadāparibhūta iti nāma kṛtamabhūt||
+
+
 
 tena khalu punarmahāsthāmaprāpta sadāparibhūtena bodhisattvena mahāsattvena kālakriyāyāṃ pratyupasthitāyāṃ maraṇakālasamaye pratyupasthite ayaṃ saddharmapuṇḍarīko dharmaparyāyaḥ śruto'bhūt| tena ca bhagavatā bhīṣmagarjitasvararājena tathāgatenārhatā samyaksaṃbuddhena ayaṃ dharmaparyāyo viṃśatibhirgāthāviṃśatikoṭīnayutaśatasahasrairbhāṣito'bhūt| sa ca sadāparibhūto bodhisattvo mahāsattvo maraṇakālasamaye pratyupasthite antarīkṣanirghoṣādimaṃ dharmaparyāyamaśrauṣīt| yena kenacid bhāṣitamantarīkṣānnirghoṣaṃ śrutvā imaṃ dharmaparyāyamudgṛhītavān, imāṃ caivaṃrūpāṃ cakṣurviśuddhiṃ śrotraviśuddhiṃ ghrāṇaviśuddhiṃ jihvāviśuddhiṃ kāyaviśuddhiṃ manoviśuddhiṃ ca pratilabdhavān| sahapratilabdhābhirviśuddhibhiḥ punaranyāni viṃśativarṣakoṭīnayutaśatasahasrāṇi ātmano jīvitasaṃskāramadhiṣṭhāya imaṃ saddharmapuṇḍarīkaṃ dharmaparyāyaṃ saṃprakāśitavān| ye ca te'bhimānikāḥ sattvā bhikṣubhikṣuṇyupāsakopāsikāḥ, ye pūrvaṃ nāhaṃ yuṣmākaṃ paribhavāmīti saṃśrāvitāḥ, yairasyedaṃ sadāparibhūta iti nāma kṛtamabhūt, tasyodārarddhibalasthāmaṃ pratijñāpratibhānabalasthāmaṃ prajñā balasthāmaṃ ca dṛṣṭvā sarve'nusahāyībhūtā abhūvan dharmaśravaṇāya| sarve tena anyāni ca bahūni prāṇikoṭīnayutaśatasahasrāṇi anuttarāyāṃ samyaksaṃbodhau samādāpitānyabhūvan||
 
+
+
 sa khalu punarmahāsthāmaprāpta bodhisattvo mahāsattvastataścyavitvā candrasvararājasahanāmnāṃ tathāgatānāmarhatāṃ samyaksaṃbuddhānāṃ viṃśatikoṭīśatānyārāgitavān, sarveṣu ca imaṃ dharmaparyāyaṃ saṃprakāśayāmāsa| so'nupūrveṇa tenaiva pūrvakeṇa kuśalamūlena punarapyanupūrveṇa dundubhisvararājasahanāmnāṃ tathāgatānāmarhatāṃ samyaksaṃbuddhānāṃ viṃśatimeva tathāgatakoṭīnayutaśatasahasrāṇyārāgitavān| sarveṣu ca imameva saddharmapuṇḍarīkaṃ dharmaparyāyamārāgitavān, saṃprakāśitavāṃścatasṛṇāṃ parṣadām| so'nenaiva pūrvakeṇa kuśalamūlena punarapyapūrveṇa meghasvararājasahanāmnāṃ tathāgatānāmarhatāṃ samyaksaṃbuddhānāṃ viṃśatimeva tathāgatakoṭīśatasahasrāṇyārāgitavān, sarveṣu ca imameva saddharmapuṇḍarīkaṃ dharmaparyāyamāragitavān, saṃprakāśitavāṃścatasṛṇāṃ parṣadām| sarveṣu ca evaṃrūpayā cakṣuḥpariśuddhayā samanvāgato'bhūt, śrotrapariśuddhyā ghrāṇapariśuddhayā jihvāpariśuddhayā kāyapariśuddhayā manaḥpariśuddhayā samanvāgato'bhūt||
+
+
 
 sa khalu punarmahāsthāmaprāpta sadāparibhūto bodhisattvo mahāsattva iyatāṃ tathāgata koṭīnayutaśatasahasrāṇāṃ satkāraṃ gurukāraṃ mānanāṃ pūjanāmarcanāmapacāyanāṃ kṛtvā anyeṣāṃ ca bahūnāṃ buddhakoṭīnayutaśatasahasrāṇāṃ satkāraṃ gurukāraṃ mānanāṃ pūjanāmarcanāmapacāyanāṃ kṛtvā, sarveṣu ca teṣu imameva saddharmapuṇḍarīkaṃ dharmaparyāyamārāgitavān, ārāgayitvā sa tenaiva pūrvakeṇa kuśalamūlena paripakvena anuttarāṃ samyaksaṃbodhimabhisaṃbuddhaḥ| syātkhalu punaste mahāsthāmaprāpta evaṃ kāṅkṣā vā vimatirvā vicikitsā vā-anyaḥ sa tena kālena tena samayena sadāparibhūto nāma bodhisattvo mahāsattvo'bhūt, yastasya bhagavato bhīṣmagarjitasvararājasya tathāgatasyārhataḥ samyaksaṃbuddhasya śāsane catasṛṇāṃ parṣadāṃ sadāparibhūtaḥ saṃmato'bhūt, yena te tāvantastathāgatā arhantaḥ samyaksaṃbuddhā ārāgitā abhūvan? na khalu punaste mahāsthāmaprāpta evaṃ draṣṭavyam| tatkasya hetoḥ? ahameva sa mahāsthāmaprāpta tena kālena tena samayena sadāparibhūto nāma bodhisattvo mahāsattvo'bhūvam| yadā mayā mahāsthāmaprāpta pūrvamayaṃ dharmaparyāyo nodgṛhīto'bhaviṣyat, na dhāritaḥ, nāhamevaṃ kṣipramanuttarāṃ samyaksaṃbodhimabhisaṃbuddho'bhaviṣyam| yataścāhaṃ mahāsthāmaprāpta paurvikāṇāṃ tathāgatānāmarhatāṃ samyaksaṃbuddhānāmantikādimaṃ dharmaparyāyaṃ dhāritavān vācitavān deśitavān, tato'hamevaṃ kṣipramanuttarāṃ samyaksaṃbodhimabhisaṃbuddhaḥ|
 
+
+
 yānyapi tāni mahāsthāmaprāpta tena sadāparibhūtena bodhisattvena mahāsattvena bhikṣuśatāni bhikṣuṇīśatāni ca upāsakaśatāni upāsikāśatāni ca tasya bhagavataḥ śāsane imaṃ dharmaparyāyaṃ saṃśrāvitānyabhūvan-nāhaṃ yuṣmākaṃ paribhavāmīti| sarve bhavanto bodhisattvacaryāṃ carantu| bhaviṣyatha yūyaṃ tathāgatā arhantaḥ samyaksaṃbuddhāḥ| yaistasya bodhisattvasyāntike vyāpādacittamutpāditamabhūt, tairviśatikalpakoṭīnayutaśatasahasrāṇi na jātu tathāgato dṛṣṭo'bhūt, nāpi dharmaśabdo na saṃghaśabdaḥ śruto'bhūt| daśa ca kalpasahasrāṇyavīcau mahānarake dāruṇāṃ vedanāṃ vedayāmāsuḥ| te ca sarve tasmāt karmāvaraṇāt parimuktāḥ| tenaiva bodhisattvena mahāsattvena paripācitā anuttarāyāṃ samyaksaṃbodhau| syātkhalu punaste mahāsthāmaprāpta kāṅkṣā vā vimatirvā vicikitsā vā-katame tena kālena tena samayena te sattvā abhūvan ye te taṃ bodhisattvaṃ ptahāsattvamullāpitavanta uccagghitavantaḥ? asyāmeva mahāsthāmaprāpta parṣadi bhadrapālapramukhāṇi pañca bodhisattvaśatāni siṃhacandrāpramukhāni pañcabhikṣuṇīśatāni sugatacetanāpramukhāni pañcopāsikāśatāni sarvāṇyavaivartikāni kṛtāni anuttarāyāṃ samyaksaṃbodhau| evamiyaṃ mahāsthāmaprāpta mahārthasya dharmaparyāyasya dhāraṇā vācanā deśanā bodhisattvānāṃ mahāsattvānāmanuttarāyāḥ samyaksaṃbodherāhārikā saṃvartate| tasmāttarhi mahāsthāmaprāpta ayaṃ dharmaparyāyo bodhisattvairmahāsattvaistathāgate parinirvṛte abhīkṣṇaṃ dhārayitavyo vācayitavyo deśayitavyaḥ saṃprakāśayitavya iti||
 
+
+
 atha khalu bhagavāṃstasyāṃ velāyāmimā gāthā abhāṣata—
+
+
 
 atītamadhvānamanusmarāmi
 
@@ -175,6 +46,8 @@ mahānubhāvo naradevapūjitaḥ
 
 praṇāyako naramaruyakṣarakṣasām||1||
 
+
+
 tasya jinasya parinirvṛtasya
 
 saddharma saṃkṣobha vrajanti paścime|
@@ -182,6 +55,8 @@ saddharma saṃkṣobha vrajanti paścime|
 bhikṣū abhūṣī tada bodhisattvo
 
 nāmena so sadaparibhūta ucyate||2||
+
+
 
 upasaṃkramitvā tada bhikṣu anyān
 
@@ -191,6 +66,8 @@ paribhāva mahyaṃ na kadācidasti
 
 yūyaṃ hi caryāṃ carathāgrabodhaye||3||
 
+
+
 evaṃ ca saṃśrāvayi nityakālaṃ
 
 ākrośa paribhāṣa sahantu teṣām|
@@ -198,6 +75,8 @@ evaṃ ca saṃśrāvayi nityakālaṃ
 kālakriyāyāṃ samupasthitāyāṃ
 
 śrutaṃ idaṃ sūtramabhūṣi tena||4||
+
+
 
 akṛtva kālaṃ tada paṇḍitena
 
@@ -207,6 +86,8 @@ prakāśitaṃ sūtramidaṃ tadāsīt
 
 tahi śāsane tasya vināyakasya||5||
 
+
+
 te cāpi sarve bahu opalambhikā
 
 bodhīya tena paripācitāsīt|
@@ -214,6 +95,8 @@ bodhīya tena paripācitāsīt|
 tataścyavitvāna sa bodhisattvo
 
 ārāgayī buddhasahasrakoṭyaḥ||6||
+
+
 
 anupūrva puṇyena kṛtena tena
 
@@ -223,6 +106,8 @@ bodhiṃ sa saṃprāpta jinasya putro
 
 ahameva so śākyamunistadāsīt||7||
 
+
+
 ye cāpi bhikṣū tada opalambhikā
 
 yā bhikṣuṇī ye ca upāsakā vā|
@@ -230,6 +115,8 @@ yā bhikṣuṇī ye ca upāsakā vā|
 upāsikāstatra ca yā tadāsīd
 
 ye bodhi saṃśrāvita paṇḍitena||8||
+
+
 
 te cāpi dṛṣṭvā bahubuddhakoṭya
 
@@ -239,6 +126,8 @@ tathaiva bhikṣūṇa ca bhikṣuṇī ca
 
 upāsikāścāpi mi mahya saṃmukham||9||
 
+
+
 sarve mayā śrāvita agradharmā
 
 te caiva sarve paripācitā me|
@@ -246,6 +135,8 @@ te caiva sarve paripācitā me|
 mayi nirvṛte cāpimi sarvi dhīrā
 
 imu dhārayiṣyanti ha sūtramagram||10||
+
+
 
 kalpāna koṭyo bahubhīracintyai-
 
@@ -255,6 +146,8 @@ buddhāna koṭīśata caiva bhonti
 
 na ca te pimaṃ sūtra prakāśayanti||11||
 
+
+
 tasmācchrūṇitvā idamevarūpaṃ
 
 parikīrtitaṃ dharmu svayaṃ svayaṃbhūvā|
@@ -262,5 +155,7 @@ parikīrtitaṃ dharmu svayaṃ svayaṃbhūvā|
 ārāgayitvā ca punaḥ punaścimaṃ
 
 prakāśayet sūtra mayīha nirvṛte||12||
+
+
 
 iti śrīsaddharmapuṇḍarīke dharmaparyāye sadāparibhūtaparivarto nāmaikonaviṃśatimaḥ||

@@ -1,157 +1,14 @@
-Chapter 6: 6 vyākaraṇaparivartaḥ
-Source: https://www.dsbcproject.org/canon-text/book/54
-
-Digital Sanskrit Buddhist Canon - Books
-
-Digital Sanskrit Buddhist Canon
-
-×
-
-Home
-
-Canon Texts
-
-Main Introduction
-
-Browse By List
-
-Romanized
-
-देवनागरी
-
-Bibliography
-
-Manuscripts
-
-Introduction
-
-Short History
-
-Contributors
-
-People
-
-Browse Gallery
-
-Resources
-
-Links
-
-Catalog
-
-About Us
-
-Donations
-
-People
-
-Usage Policy
-
-News
-
-Contact Us
-
-(626) 571-8811 ext.321
-
-[email protected]
-
-Home
-
-Canon Texts
-
-Main Introduction
-
-Browse By
-Category
-
-Browse By List
-
-Romanized
-
-देवनागरी
-
-Bibliography
-
-Manuscripts
-
-Introduction
-
-Short History
-
-Contributors
-
-People
-
-Browse Gallery
-
-Resources
-
-Links
-
-Catalog
-
-About Us
-
-Donations
-
-People
-
-Usage Policy
-
-News
-
-Contact Us
-
-Home
-
-Canon Text
-
-Romanized
-
-sūtrapiṭaka
-
-mahāyānasūtra
-
-6 vyākaraṇaparivartaḥ
-
-6 vyākaraṇaparivartaḥ
-
-Technical Details
-
-Text Version:
-
-Romanized
-
-Input Personnel:
-
-DSBC Staff
-
-Input Date:
-
-2005
-
-Proof Reader:
-
-Miroj Shakya
-
-Supplier:
-
-Nagarjuna Institute of Exact Methods
-
-Sponsor:
-
-University of the West
-
-Parallel
-Devanāgarī version
-
-६ व्याकरणपरिवर्तः
-
 6 vyākaraṇaparivartaḥ|
+
+
 
 atha khalu bhagavānimā gāthā bhāṣitvā sarvāvantaṃ bhikṣusaṃghamāmantrayate sma-ārocayāmi vo bhikṣavaḥ, prativedayāmi| ayaṃ mama śrāvakaḥ kāśyapo bhikṣustriṃśato buddhakoṭīsahasrāṇāmantike satkāraṃ kariṣyati, gurukāraṃ mānanāṃ pūjanāmarcanāmapacāyanāṃ kariṣyati, teṣāṃ ca buddhānāṃ bhagavatāṃ saddharmaṃ dhārayiṣyati| sa paścime samucchraye avabhāsaprāptāyāṃ lokadhātau mahāvyūhe kalpe raśmiprabhāso nāma tathāgato'rhan samyaksaṃbuddho loke bhaviṣyati vidyācaraṇasaṃpannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān| dvādaśa cāsyāntarakalpānāyuṣpramāṇaṃ bhaviṣyati| viṃśatiṃ cāsyāntarakalpān saddharmaḥ sthāsyati| viṃśatimevāntarakalpān saddharmapratirūpakaḥ sthāsyati| taccāsya buddhakṣetraṃ śuddhaṃ bhaviṣyati śuci apagatapāṣāṇaśarkarakaṭhalyamapagataśvabhraprapātamapagatasyandanikāgūtholigallaṃ samaṃ ramaṇīyaṃ prāsādikaṃ darśanīyaṃ vaiḍūryamayaṃ ratnavṛkṣapratimaṇḍitaṃ suvarṇasūtrāṣṭāpadanibaddhaṃ puṣpābhikīrṇam| bahūni ca tatra bodhisattvaśatasahasrāṇyutpatsyante| aprameyāṇi ca tatra śrāvakakoṭīnayutaśatasahasrāṇi bhaviṣyanti| na ca tatra māraḥ pāpīyānavatāraṃ lapsyate, na ca māraparṣat prajñāsyate| bhaviṣyanti tatra khalu punarmāraśca māraparṣadaśca| api tu khalu punastatra lokadhātau tasyaiva bhagavato raśmiprabhāsasya tathāgatasya śāsane saddharmaparigrahāyābhiyuktā bhaviṣyanti||
 
+
+
 atha khalu bhagavāṃstasyāṃ velāyāmimā gāthā abhāṣata—
+
+
 
 paśyāmyahaṃ bhikṣava buddhacakṣuṣā
 
@@ -161,6 +18,8 @@ anāgate'dhvāni asaṃkhyakalpe
 
 kṛtvāna pūjāṃ dvipadottamānām||1||
 
+
+
 triṃśatsahasrāḥ paripūrṇakoṭyo
 
 jinānayaṃ drakṣyati kāśyapo hyayam|
@@ -168,6 +27,8 @@ jinānayaṃ drakṣyati kāśyapo hyayam|
 cariṣyatī tatra ca brahmacaryaṃ
 
 bauddhasya jñānasya kṛtena bhikṣavaḥ||2||
+
+
 
 kṛtvāna pūjāṃ dvipadottamānāṃ
 
@@ -177,6 +38,8 @@ sa paścime cocchrayi lokanātho
 
 bhaviṣyate apratimo maharṣiḥ||3||
 
+
+
 kṣetraṃ ca tasya pravaraṃ bhaviṣyati
 
 vicitra śuddhaṃ śubha darśanīyam|
@@ -184,6 +47,8 @@ vicitra śuddhaṃ śubha darśanīyam|
 manojñarūpaṃ sada premaṇīyaṃ
 
 suvarṇasūtraiḥ samalaṃkṛtaṃ ca||4||
+
+
 
 ratnāmayā vṛkṣa tahiṃ vicitrā
 
@@ -193,6 +58,8 @@ manojñagandhaṃ ca vimuñcamānā
 
 bheṣyanti kṣetrasmi imasmi bhikṣo||5||
 
+
+
 puṣpaprakāraiḥ samalaṃkṛtaṃ ca
 
 vicitrapuṣpairupaśobhitaṃ ca|
@@ -200,6 +67,8 @@ vicitrapuṣpairupaśobhitaṃ ca|
 śvabhraprapātā na ca tatra santi
 
 samaṃ śivaṃ bheṣyati darśanīyam||6||
+
+
 
 tahi bodhisattvāna sahasrakoṭyaḥ
 
@@ -209,6 +78,8 @@ vaipulyasūtrāntadharāṇa tāyināṃ
 
 bahū bhaviṣyanti sahasra neke||7||
 
+
+
 anāsravā antimadehadhāriṇo
 
 bheṣyanti ye śrāvaka dharmarājñaḥ|
@@ -216,6 +87,8 @@ bheṣyanti ye śrāvaka dharmarājñaḥ|
 pramāṇu teṣāṃ na kadāci vidyate
 
 divyena jñānena gaṇitva kalpān||8||
+
+
 
 so dvādaśa antarakalpa sthāsyati
 
@@ -225,39 +98,61 @@ pratirūpakaścāntarakalpa viṃśatiṃ
 
 raśmiprabhāsasya viyūha bheṣyati||9||
 
+
+
 atha khalvāyuṣmān mahāmaudgalyāyanaḥ sthavira āyuṣmāṃśca subhūtirāyuṣmāṃśca mahākātyāyanaḥ pravepamānaiḥ kāyairbhagavantamanimiṣairnetrairvyavalokayanti sma| tasyāṃ ca velāyāṃ pṛthak pṛthaṅamanaḥsaṃgītyā imā gāthā abhāṣanta—
+
+
 
 arhanta he mahāvīra śākyasiṃha narottama|
 
 asmākamanukampāya buddhaśabdamudīraya||10||
 
+
+
 avaśyamavasaraṃ jñātvā asmākaṃ pi narottama|
 
 amṛteneva siñcitvā vyākuruṣva vibhojana||11||
+
+
 
 durbhikṣādāgataḥ kaścinnaro labdhvā subhojanam|
 
 pratīkṣa bhūya ucyeta hastaprāptasmi bhojane||12||
 
+
+
 evamevotsukā asmo hīnayānaṃ vicintaya|
 
 duṣkālabhuktasattvā vā buddhajñānaṃ labhāmahe||13||
+
+
 
 na tāvadasmān saṃbuddho vyākaroti mahāmuniḥ|
 
 yathā hastasmi prakṣiptaṃ na tadbhuñjīta bhojanam||14||
 
+
+
 evaṃ ca utsukā vīra śrutvā ghoṣamanuttaram|
 
 vyākṛtā yada bheṣyāmastadā bheṣyāma nirvṛtāḥ||15||
+
+
 
 vyākarohi mahāvīra hitaiṣī anukampakaḥ|
 
 api dāridryacittānāṃ bhavedanto mahāmune||16||
 
+
+
 atha khalu bhagavāṃsteṣā mahāśrāvakāṇāṃ sthavirāṇāmimamevaṃrūpaṃ cetasaiva cetaḥparivitarkamājñāya punarapi sarvāvantaṃ bhikṣusaṃghamāmantrayate sma-ayaṃ me bhikṣavo mahāśrāvakaḥ sthaviraḥ subhūtistriṃśata eva buddhakoṭīnayutaśatasahasrāṇāṃ satkāraṃ kariṣyati, gurukāraṃ mānanāṃ pūjanāmarcanāmapacāyanāṃ kariṣyati| tatra ca brahmacaryaṃ cariṣyati, bodhiṃ ca samudānayiṣyati| evaṃrūpāṃścādhikārān kṛtvā paścime samucchraye śaśiketurnāma tathāgato'rhan samyaksaṃbuddho loke bhaviṣyati vidyācaraṇasaṃpannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān| ratnasaṃbhavaṃ ca nāmāsya tad buddhakṣetraṃ bhaviṣyati| ratnāvabhāsaśca nāma sa kalpo bhaviṣyati| samaṃ ca tad buddhakṣetraṃ bhaviṣyati, ramaṇīyaṃ sphaṭikamayaṃ ratnavṛkṣavicitritamapagataśvabhraprapātamapagatagūtholigallaṃ manojñaṃ puṣpābhikīrṇam| kūṭāgāraparibhogeṣu cātra puruṣā vāsaṃ kalpayiṣyanti| bahavaścāsya śrāvakā bhaviṣyantyaparimāṇāḥ, yeṣāṃ na śakyaṃ gaṇanayā paryanto'dhigantum| bahūni cātra bodhisattvakoṭīnayutaśatasahasrāṇi bhaviṣyanti| tasya ca bhagavato dvādaśāntarakalpānāyuṣpramāṇaṃ bhaviṣyati| viṃśatiṃ cāntarakalpān saddharmaḥ sthāsyati| viṃśatimevāntarakalpān saddharmapratirūpakaḥ sthāsyati| sa ca bhagavān vaihāyasamantarīkṣe sthitvā abhīkṣṇaṃ dharmaṃ deśayiṣyati, bahūni ca bodhisattvaśatasahasrāṇi bahūni ca śrāvakaśatasahasrāṇi vineṣyati||
 
+
+
 atha khalu bhagavāṃstasyāṃ velāyāmimā gāthā abhāṣata—
+
+
 
 ārocayāmi ahamadya bhikṣavaḥ
 
@@ -267,6 +162,8 @@ sthaviraḥ subhūtirmama śrāvako'yaṃ
 
 bhaviṣyate buddha anāgate'dhvani||17||
 
+
+
 buddhāṃśca paśyitva mahānubhāvān
 
 triṃśacca pūrṇānayutāna koṭīḥ|
@@ -274,6 +171,8 @@ triṃśacca pūrṇānayutāna koṭīḥ|
 cariṣyate carya tadānulomikī-
 
 mimasya jñānasya kṛtena caiṣaḥ||18||
+
+
 
 sa paścime vīra samucchrayasmin
 
@@ -283,6 +182,8 @@ suvarṇayūpapratimo maharṣi-
 
 rbhaviṣyate lokahitānukampī||19||
 
+
+
 sudarśanīyaṃ ca sukṣetra bheṣyati
 
 iṣṭaṃ manojñaṃ ca mahājanasya|
@@ -290,6 +191,8 @@ iṣṭaṃ manojñaṃ ca mahājanasya|
 vihariṣyate yatra sa lokabandhu-
 
 stāritva prāṇīnayutāna koṭīḥ||20||
+
+
 
 bahubodhisattvātra mahānubhāvā
 
@@ -299,6 +202,8 @@ tīkṣṇendriyāstasya jinasya śāsane
 
 ye śobhayiṣyanti ta buddhakṣetram||21||
 
+
+
 bahuśrāvakāstasya na saṃkhya teṣāṃ
 
 pramāṇu naivāsti kadāci teṣām|
@@ -306,6 +211,8 @@ pramāṇu naivāsti kadāci teṣām|
 ṣaḍabhijña traividya maharddhikāśca
 
 aṣṭāvimokṣeṣu pratiṣṭhitāśca||22||
+
+
 
 acintiyaṃ ṛddhibalaṃ ca bheṣyati
 
@@ -315,6 +222,8 @@ devā manuṣyā yatha gaṅgavālikā
 
 bheṣyanti tasyo satataṃ kṛtāñjalī||23||
 
+
+
 so dvādaśo antarakalpa sthāsyapi
 
 saddharmu viṃśāntarakalpa sthāsyati|
@@ -323,9 +232,15 @@ pratirūpako viṃśatimeva sthāsyati|
 
 kalpāntarāṇi dvipadottamasya||24||
 
+
+
 atha khalu bhagavān punareva sarvāvantaṃ bhikṣusaṃghamāmantrayate sma-ārocayāmi vo bhikṣayaḥ, prativedayāmi| ayaṃ mama śrāvakaḥ sthaviro mahākātyāyano'ṣṭānāṃ buddhakoṭīśatasahasrāṇāmantike satkāraṃ kariṣyati, gurukāraṃ mānanāṃ pūjanāmarcanāmapacāyanāṃ kariṣyati| parinirvṛtānāṃ ca teṣāṃ tathāgatānāṃ stūpān kariṣyati yojanasahasraṃ samucchrayeṇa pañcāśad yojanāni pariṇāhena saptānāṃ ratnānām| tadyathā suvarṇasya rūpyasya vaiḍūryasya sphaṭikasya lohitamukteraśmargabhasya musāragalvasya saptamasya ratnasya| teṣāṃ ca stūpānāṃ pūjāṃ kariṣyati puṣpadhūpagandhamālyavilepanacūrṇacīvaracchatradhvajapatākāvaijayantībhiśca| tataśca bhūyaḥ pareṇa paratareṇa punarviśatīnāṃ buddhakoṭīnāmantike evarūpameva satkāraṃ kariṣyati, gurukāraṃ mānanāṃ pūjanāmarcanāmapacāyanāṃ kariṣyati| sa paścime samucchraye paścime ātmabhāvapratilambhe jāmbūnadaprabhāso nāma tathāgato'rhan samyaksaṃbuddho loke bhaviṣyati vidyācaraṇasaṃpannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavan| pariśuddhaṃ cāsya buddhakṣetraṃ bhaviṣyati samaṃ ramaṇīyaṃ prāsādikaṃ darśanīyaṃ sphaṭikamayaṃ ratnavṛkṣābhivicitritaṃ suvarṇasūtrācchoḍitaṃ puṣpasaṃstarasaṃstṛtamapagatanirayatiryagyoniyamalokāsurakāyaṃ bahunaradevapratipūrṇaṃ bahuśrāvakaśatasahasropaśobhitaṃ bahubodhisattvaśatasahasrālaṃkṛtam| dvādaśa cāsya antarakalpānāyuṣpramāṇaṃ bhaviṣyati| viṃśatiṃ cāsya antarakalpān saddharmaḥ sthāsyati| viṃśatimevāntarakalpān saddharmapratirūpakaḥ sthāsyati||
 
+
+
 atha khalu bhagavāṃstasyāṃ velāyāmimā gāthā abhāṣata—
+
+
 
 śṛṇotha me bhikṣava adya sarve
 
@@ -335,6 +250,8 @@ kātyāyanaḥ sthaviru ayaṃ mi śrāvakaḥ
 
 kariṣyate pūja vināyakānām||25||
 
+
+
 satkāru teṣāṃ ca bahuprakāraṃ
 
 bahūvidhaṃ lokavināyakānām|
@@ -342,6 +259,8 @@ bahūvidhaṃ lokavināyakānām|
 stūpāṃśca kārāpayi nirvṛtānāṃ
 
 puṣpehi gandhehi ca pūjayiṣyati||26||
+
+
 
 labhitva so paścimakaṃ samucchrayaṃ
 
@@ -351,6 +270,8 @@ paripūrayitvā imameva jñānaṃ
 
 deśeṣyate prāṇisahasrakoṭinām||27||
 
+
+
 sa satkṛto loki sadevakasmin
 
 prabhākaro buddha vibhurbhaviṣyati|
@@ -358,6 +279,8 @@ prabhākaro buddha vibhurbhaviṣyati|
 jāmbūnadābhāsu sa cāpi nāmnā
 
 saṃtārako devamanuṣyakoṭinām||28||
+
+
 
 bahubodhisattvāstatha śrāvakāśca
 
@@ -367,11 +290,19 @@ upaśobhayiṣyanti ti buddhaśāsanaṃ
 
 bhavaprahīṇā vibhavāśca sarve||29||
 
+
+
 atha khalu bhagavān punareva sarvāvantaṃ bhikṣusaṃghamāmantrayate sma-ārocayāmi vo bhikṣavaḥ, prativedayāmi| ayaṃ mama śrāvakaḥ sthaviro mahāmaudgalyāyano'ṣṭāviṃśatibuddhasahasrāṇyārāgayiṣyati, teṣāṃ ca buddhānāṃ bhagavatāṃ vividhaṃ satkāraṃ kariṣyati, gurukāraṃ mānanāṃ pūjanāmarcanāmapacāyanāṃ kariṣyati| parinirvṛtānāṃ ca teṣāṃ buddhānāṃ bhagavatāṃ stūpān kārayiṣyati saptaratnamayān| tadyathā suvarṇasya rūpyasya vaidūryasya sphaṭikasya lohitamukteraśmagarbhasya musāragalvasya| yojanasahasraṃ samucchrayeṇa pañcayojanaśatāni pariṇāhena| teṣāṃ ca stūpānāṃ vividhāṃ pūjāṃ kariṣyati puṣpadhūpagandhamālyavilepanacūrṇacīvaracchatradhvajapatākāvaijayantībhiḥ|
+
+
 
 tataśca bhūyaḥ pareṇa paratareṇa viṃśaterbuddhakoṭīśatasahasrāṇāmevaṃrūpameva satkāraṃ kariṣyati, gurukāraṃ mānanāṃ pūjanāmarcanāmapacāyanāṃ kariṣyati| paścime ca ātmabhāvapratilambhe tamālapatracandanagandho nāma tathāgato'rhan samyaksaṃbuddho loke bhaviṣyati vidyācaraṇasaṃpannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān| manobhirāmaṃ ca nāmāsya tadbuddhakṣetraṃ bhaviṣyati| ratiprapūrṇaśca nāma sa kalpo bhaviṣyati| pariśuddhaṃ cāsya tadbuddhakṣetraṃ bhaviṣyati, samaṃ ramaṇīyaṃ prāsādikaṃ sudarśanīyaṃ sphaṭikamayaṃ ratnavṛkṣābhivicitritaṃ muktakusumābhikīrṇaṃ bahunaradevapratipūrṇamṛṣiśatasahasraniṣevitaṃ yaduta śrāvakaiśca bodhisattvaiśca| caturviśatiṃ cāsya antarakalpānāyuṣpramāṇaṃ bhaviṣyati| catvāriṃśacca antarakalpān saddharmaḥ sthāsyati| catvāriṃśadeva antarakalpān saddharmapratirūpakaḥ sthāsyati||
 
+
+
 atha khalu bhagavāṃstasyāṃ velāyāmimā gāthā abhāṣata—
+
+
 
 maudgalyagotro mama śrāvako'yaṃ
 
@@ -381,6 +312,8 @@ viṃśatsahasrāṇi jināna tāyinā-
 
 manyāṃśca aṣṭau virajāna drakṣyati||30||
 
+
+
 cariṣyate tatra ca brahmacaryaṃ
 
 bauddhaṃ imaṃ jñāna gaveṣamāṇaḥ|
@@ -388,6 +321,8 @@ bauddhaṃ imaṃ jñāna gaveṣamāṇaḥ|
 satkāru teṣāṃ dvipadottamānāṃ
 
 vividhaṃ tadā kāhi vināyakānām||31||
+
+
 
 saddharmu teṣāṃ vipulaṃ praṇītaṃ
 
@@ -397,6 +332,8 @@ pūjāṃ ca stūpeṣu kariṣyate tadā
 
 parinirvṛtānāṃ sugatāna teṣām||32||
 
+
+
 ratnāmayān stūpa savaijayantān
 
 kariṣyate teṣa jinottamānām|
@@ -404,6 +341,8 @@ kariṣyate teṣa jinottamānām|
 puṣpehi gandhehi ca pūjayanto
 
 vādyehi vā lokahitānukampinām||33||
+
+
 
 tatpaścime caiva samucchrayasmin
 
@@ -413,6 +352,8 @@ bhaviṣyate lokahitānukampī
 
 tamālapatracandanagandha nāmnā||34||
 
+
+
 caturviśapūrṇāntarakalpa tasya
 
 āyuṣpramāṇaṃ sugatasya bheṣyati|
@@ -420,6 +361,8 @@ caturviśapūrṇāntarakalpa tasya
 prakāśayantasyima buddhanetrīṃ
 
 manujeṣu deveṣu ca nityakālam||35||
+
+
 
 bahuśrāvakātasya jinasya tatra
 
@@ -429,6 +372,8 @@ koṭī sahasrā yatha gaṅgavālikāḥ|
 
 abhijñaprāptāḥ sugatasya śāsane||36||
 
+
+
 avaivartikāśco bahubodhisattvā
 
 ārabdhavīryāḥ sada saṃprajānāḥ|
@@ -436,6 +381,8 @@ avaivartikāśco bahubodhisattvā
 abhiyuktarūpāḥ sugatasya śāsane
 
 teṣāṃ sahasrāṇi bahūni tatra||37||
+
+
 
 parinirvṛtasyāpi jinasya tasya
 
@@ -445,6 +392,8 @@ viṃśacca viṃśāntarakalpa pūrṇā
 
 etatpramāṇaṃ pratirūpakasya||38||
 
+
+
 maharddhikāḥ pañca mi śrāvakā ye
 
 nirdiṣṭa ye te maya agrabodhaye|
@@ -452,5 +401,7 @@ nirdiṣṭa ye te maya agrabodhaye|
 anāgate'dhvāni jināḥ svayaṃbhuva-
 
 steṣāṃ ca caryāṃ śṛṇuthā mamāntikāt||39||
+
+
 
 ityāryasaddharmapuṇḍarīke dharmaparyāye vyākaraṇaparivarto nāma ṣaṣṭhaḥ||
