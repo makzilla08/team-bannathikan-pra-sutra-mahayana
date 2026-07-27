@@ -23,16 +23,24 @@ const LOCAL_SUTRAS_FALLBACK = [
   }
 ];
 
-function getSutrasData() {
+function getMahayanaData() {
   return (typeof SUTRAS_DATA !== 'undefined' && Array.isArray(SUTRAS_DATA))
     ? SUTRAS_DATA
     : LOCAL_SUTRAS_FALLBACK;
 }
 
+function getAllData() {
+  let data = getMahayanaData();
+  if (typeof TANTRA_DATA !== 'undefined' && Array.isArray(TANTRA_DATA)) {
+    data = data.concat(TANTRA_DATA);
+  }
+  return data;
+}
+
 function loadSutraList(filter = 'all') {
   const container = document.getElementById('sutra-list');
   if (!container) return;
-  const sorted = [...getSutrasData()]
+  const sorted = [...getMahayanaData()]
     .filter(s => filter === 'all' || s.status === filter)
     .sort((a, b) => a.priority - b.priority);
   container.innerHTML = sorted.map((s, i) => createSutraCard(s, i + 1)).join('');
@@ -62,7 +70,7 @@ function createSutraCard(s, index) {
 
 function updateStats() {
   const el = id => document.getElementById(id);
-  const sutras = getSutrasData();
+  const sutras = getMahayanaData();
   const total = sutras.length;
   const tot = sutras.reduce((s, x) => s + x.chapters_count, 0);
   const done = sutras.filter(x => x.status === 'completed').length;
@@ -100,7 +108,7 @@ async function initReader() {
   const sutraId = params.get('sutra') || '40';
   const chapterId = params.get('chapter') || '1';
 
-  const sutra = getSutrasData().find(s => String(s.id) === String(sutraId));
+  const sutra = getAllData().find(s => String(s.id) === String(sutraId));
   if (!sutra) { showError('ไม่พบพระสูตรที่ต้องการ'); return; }
 
   // Header
@@ -295,7 +303,7 @@ function prevChapter() {
 
 function nextChapter() {
   const cur = parseInt(sessionStorage.getItem('currentChapter') || '1');
-  const sutra = getSutrasData().find(s => String(s.id) === String(sessionStorage.getItem('currentSutra')));
+  const sutra = getAllData().find(s => String(s.id) === String(sessionStorage.getItem('currentSutra')));
   if (sutra && cur < sutra.chapters.length) jumpChapter(cur + 1);
 }
 

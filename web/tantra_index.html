@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>คลังคัมภีร์ตันตระ | Tantra Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@400;600;700&family=Sarabun:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔱</text></svg>">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1 class="logo">คลัง<span>คัมภีร์ตันตระ</span></h1>
+            <p class="subtitle">ภาษาสันสกฤต • แปลเป็นภาษาไทย</p>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">← กลับหน้าหลัก มหายาน</a></li>
+            <li><a href="#texts">คัมภีร์</a></li>
+            <li><a href="#about">เกี่ยวกับ</a></li>
+            <li><a href="https://www.dsbcproject.org" target="_blank">DSBC Project</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="hero" id="home">
+            <h2>คัมภีร์ตันตระในพุทธศาสนา แปลจากภาษาสันสกฤต</h2>
+            <p>
+                โครงการแปลคัมภีร์ตันตระ (Tantra) จาก Digital Sanskrit Buddhist Canon (DSBC)
+                — ครอบคลุมทั้งกริยาตันตระ โยคตันตระ โยคินีตันตระ อนุตตรโยคตันตระ และอื่นๆ
+                โดยใช้ต้นฉบับจากมหาวิทยาลัย University of the West
+            </p>
+            <div class="ornament">🔱 ❧ 🔱</div>
+        </section>
+
+        <section class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number" id="total-texts">0</div>
+                <div class="stat-label">คัมภีร์ที่เลือก</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="total-chapters">0</div>
+                <div class="stat-label">จำนวนบท</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="completed">0</div>
+                <div class="stat-label">แปลแล้ว</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="in-progress">0</div>
+                <div class="stat-label">กำลังแปล</div>
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- 1. Kriyā Tantra -->
+        <section class="sutra-section" id="kriya">
+            <h2 class="section-title">🔱 กริยาตันตระ (Kriyā Tantra)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                ตันตระว่าด้วยพิธีกรรมเบื้องต้น — การชำระ บูชา สวดมนต์ และพิธีต่างๆ
+            </p>
+            <div class="sutra-grid" id="kriya-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- 2. Yoga Tantra -->
+        <section class="sutra-section" id="yoga">
+            <h2 class="section-title">☯️ โยคตันตระ (Yoga Tantra)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                ตันตระว่าด้วยโยคะและการทำสมาธิขั้นสูง — มณฑลและการประทับจิต
+            </p>
+            <div class="sutra-grid" id="yoga-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- 3. Yoginī Tantra -->
+        <section class="sutra-section" id="yogini">
+            <h2 class="section-title">🔮 โยคินีตันตระ (Yoginī Tantra)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                ตันตระที่เน้นการปฏิบัติของโยคินี — เทพีและพลังแห่งหญิง
+            </p>
+            <div class="sutra-grid" id="yogini-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- 4. Anuttarayoga Tantra -->
+        <section class="sutra-section" id="anuttara">
+            <h2 class="section-title">⚡ อนุตตรโยคตันตระ (Anuttarayoga Tantra)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                ตันตระระดับสูงสุด — การบรรลุพุทธภาวะในชาตินี้
+            </p>
+            <div class="sutra-grid" id="anuttara-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- 5. Tantra Darśana -->
+        <section class="sutra-section" id="darsana">
+            <h2 class="section-title">📖 ตันตระทรรศนะ (Tantra Darśana)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                รวมคัมภีร์ปรัชญาตันตระ — คำอธิบายและทรรศนะของอาจารย์ตันตระ
+            </p>
+            <div class="sutra-grid" id="darsana-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- 6. Sahajayāna -->
+        <section class="sutra-section" id="sahaja">
+            <h2 class="section-title">🌸 สหชายาน (Sahajayāna)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                หนทางแห่งการบรรลุโดยธรรมชาติ — คำสอนของสิทธาจารย์
+            </p>
+            <div class="sutra-grid" id="sahaja-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- 7. Yogottara Tantra -->
+        <section class="sutra-section" id="yogottara">
+            <h2 class="section-title">🌟 โยคุตตรตันตระ (Yogottara Tantra)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                ตันตระชั้นสูงกว่าของโยค — การบรรลุอทวยธรรม (ความเป็นหนึ่ง)
+            </p>
+            <div class="sutra-grid" id="yogottara-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- 8. Kriyātantraṭīkā -->
+        <section class="sutra-section" id="kriya_tika">
+            <h2 class="section-title">📝 กริยาตันตระฏีกา (Kriyātantraṭīkā)</h2>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                คัมภีร์อธิบายเพิ่มเติมของกริยาตันตระ — สาธนะและพิธีกรรม
+            </p>
+            <div class="sutra-grid" id="kriya_tika-list"></div>
+        </section>
+
+        <div class="divider"></div>
+
+        <section class="sutra-section" id="about">
+            <h2 class="section-title">เกี่ยวกับโครงการตันตระ</h2>
+            <div style="background: var(--dark); padding: 2rem; border-radius: 8px; border: 1px solid var(--gold-dark);">
+                <p style="margin-bottom: 1rem;">
+                    <strong style="color: var(--gold);">ตันตระคืออะไร?</strong>
+                    ตันตระ (Tantra) แปลว่า "เครื่องทอ" หรือ "ระบบ" — เป็นคัมภีร์ว่าด้วยพิธีกรรม 
+                    โยคะ การทำสมาธิ และการบรรลุพุทธภาวะโดยใช้วิธีลึกลับ 
+                    ในพุทธศาสนามหายาน ตันตระเป็นส่วนหนึ่งของวัชรยานที่เน้นการปฏิบัติเพื่อบรรลุผลเร็ว
+                </p>
+                <p style="margin-bottom: 1rem;">
+                    <strong style="color: var(--gold);">หมวดหมู่ใน DSBC:</strong>
+                    ทาง DSBC แบ่งตันตระเป็น 9 หมวดย่อย — Kriyā, Yoga, Yoginī, Anuttarayoga, 
+                    Tantra Darśana, Sahajayāna, Yogottara, Kriyātantraṭīkā, Mahāyogatantraṭīkā
+                </p>
+                <p>
+                    <strong style="color: var(--gold);">แหล่งข้อมูล:</strong>
+                    <a href="https://www.dsbcproject.org/canon-text/category/10" target="_blank" style="color: var(--gold);">
+                        DSBC — หมวด Tantra
+                    </a>
+                </p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="ornament">🔱</div>
+        <p>โครงการแปลคัมภีร์ตันตระ • ข้อมูลจาก DSBC Project</p>
+        <p style="margin-top: 0.5rem;">
+            <a href="https://www.dsbcproject.org" target="_blank">Digital Sanskrit Buddhist Canon</a> •
+            University of the West
+        </p>
+        <p style="margin-top: 1rem;">
+            <a href="index.html">← กลับหน้าหลักคลังพระสูตรมหายาน</a>
+        </p>
+        <p style="margin-top: 1rem; font-size: 0.8rem;">
+            "สัพเพ ธัมมา อนัตตา" - ธรรมทั้งหลายไม่ใช่ตน
+        </p>
+    </footer>
+
+    <script src="js/tantra_data.js"></script>
+    <script src="js/tantra_app.js"></script>
+</body>
+</html>

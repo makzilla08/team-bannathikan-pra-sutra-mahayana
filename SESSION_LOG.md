@@ -130,3 +130,25 @@
 3. เพิ่ม meta entry ใน `web/js/data.js` ให้แยกหมวด Tantra
 4. commit + push และทดสอบ GitHub Pages
 
+---
+
+## 2026-07-27 — Session 6: หมวดตันตระออนไลน์ครั้งแรก + เพิ่ม entries ใน data.js
+
+### Done
+- ตรวจสอบสถานะ: พบว่า 78 มี original.txt ครบ 55 บท, 84 มีครบ 26 บท + ch.1 แปลเสร็จ
+- แต่ทั้งคู่ไม่มี entries ใน web/js/data.js → เพิ่มแล้ว:
+  - id 142: มัญชุศรีมูลกัลป์ (78, Kriyā Tantra) — 55 chapters, status in_progress
+  - id 143: สรวะตถาคตทัตวาสังคหะ (84, Yoga Tantra) — 26 chapters, ch.1 completed
+- อัปเดต docs/translation_progress.md, translations/README.md, metadata/README ทุกตัว
+- **commit + push** → GH Pages auto-deploy ✅
+- URL: https://makzilla08.github.io/team-bannathikan-pra-sutra-mahayana/
+
+### Current State (Tantra)
+| ID | พระสูตร | Chapters | ต้นฉบับ | แปล |
+|----|---------|----------|---------|-----|
+| 78 | มัญชุศรีมูลกัลป์ | 55 | ✅ ครบ | ⏳ 0% |
+| 84 | สรวะตถาคตทัตวาสังคหะ | 26 | ✅ ครบ | 🟢 1/26 (4%) |
+
+### Next Steps
+- แปลบทต่อจากสรวะตถาคตทัตวาสังคหะ หรือเริ่มบทแรกของมัญชุศรีมูลกัลป์
+
