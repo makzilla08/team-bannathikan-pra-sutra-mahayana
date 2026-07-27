@@ -241,11 +241,11 @@ const SUTRAS_DATA = [
         title_sanskrit: "Mahāparinirvāṇa sūtram",
         title_english: "Mahaparinirvana Sutra",
         priority: 7,
-        status: "in_progress",
+        status: "completed",
         description: "การปรินิพพานและคำสอนสุดท้ายของพระพุทธเจ้า",
         chapters_count: 1,
         chapters: [
-            { id: 1, title_thai: "มหาปรินิพพานสูตร", title_sanskrit: "Mahāparinirvāṇa sūtram", status: "in_progress" },
+            { id: 1, title_thai: "มหาปรินิพพานสูตร", title_sanskrit: "Mahāparinirvāṇa sūtram", status: "completed" },
         ],
         source_url: "https://www.dsbcproject.org/canon-text/book/48"
     },
