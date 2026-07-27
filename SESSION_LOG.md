@@ -152,3 +152,39 @@
 ### Next Steps
 - แปลบทต่อจากสรวะตถาคตทัตวาสังคหะ หรือเริ่มบทแรกของมัญชุศรีมูลกัลป์
 
+---
+
+## 2026-07-27 — Session 7: สร้างหมวดตันตระเต็ม (18 คัมภีร์) + แก้ทับศัพท์ทุกรายการ + แปลไภษัชยคุรุสูตร
+
+### Done
+- **web/js/tantra_data.js** — สร้างใหม่ 18 คัมภีร์ตันตระ 8 หมวด (kriya, yoga, yogini, anuttara, darsana, sahaja, yogottara, kriya_tika)
+- **web/js/tantra_app.js** — สร้างใหม่ (buildTantraCard, loadTantraCategory, updateTantraStats)
+- **web/tantra_index.html** — หน้าแยกตันตระ หมวด + stats + about
+- **web/index.html** — เพิ่ม nav link + promo section
+- **web/reader.html** — โหลด tantra_data.js + nav links
+- **web/js/app.js** — split getSutrasData() → getMahayanaData() + getAllData()
+- **แก้ทับศัพท์ทุกรายการ** ตาม user review:
+  - ārya→อารย, mañju→มัญ, tattva→ทัตวา/ทัตวะ (ต้น/ท้าย), vajra→วัชร, saṅgraha→สังคระ/สังครหะ
+  - bhairava→ไภรวะ, roṣaṇa→โรษณะ, samāyoga→สมาโยค, jālasaṃvara→ชาลสังวร
+  - คงรูปสันสกฤตแท้ (สรวะ/สรว, สังคระ, สิทโธปเทศ)
+- **แปลไภษัชยคุรุสูตร** (#36) เสร็จสมบูรณ์ — 1 บท, แปลจาก DSBC Sanskrit ครบ 12 ปณิธาน + บทสนทนาพระอานนท์ + ตราณมุกตะ + ยักษเสนาบดี 12
+- **อัปเดต data.js** — chapters[] แบบเต็ม, status completed
+- **แปลมหาปรินิพพานสูตร** (#48) — เริ่มแล้ว: 3 ส่วนแรก (อปริหานิยธรรม 7, สังคารณียธรรม 6, อริยสัจจ์ 4)
+
+### Current Queue (user's order)
+1. ✅ ไภษัชยคุรุสูตร (#36) — เสร็จ
+2. 🟡 มหาปรินิพพานสูตร (#48) — แปลบางส่วน
+3. ⏳ อารยมัญชุศรีมูลกัลป (#78) — 55 บท
+4. ⏳ สรวะตถาคตทัตวาสังคหะ (#84) — 26 บท
+
+### Files Changed
+- `web/js/tantra_data.js` — **ใหม่** (18 texts)
+- `web/js/tantra_app.js` — **ใหม่**
+- `web/tantra_index.html` — **ใหม่**
+- `web/index.html` — +tantra link/promo
+- `web/reader.html` — +tantra_data.js + nav
+- `web/js/app.js` — split getSutrasData/getAllData
+- `web/js/data.js` — +chapter arrays, status updates
+- `translations/08_bhaishajyaguru/translation.md` — **แปลเสร็จ** ✅
+- `translations/07_parinirvana/translation.md` — **แปลบางส่วน** 🟡
+

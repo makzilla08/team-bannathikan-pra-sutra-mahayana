@@ -241,10 +241,30 @@ const SUTRAS_DATA = [
         title_sanskrit: "Mahāparinirvāṇa sūtram",
         title_english: "Mahaparinirvana Sutra",
         priority: 7,
-        status: "pending",
+        status: "in_progress",
         description: "การปรินิพพานและคำสอนสุดท้ายของพระพุทธเจ้า",
         chapters_count: 1,
-        chapters: [],
+        chapters: [
+            { id: 1, title_thai: "มหาปรินิพพานสูตร", title_sanskrit: "Mahāparinirvāṇa sūtram", status: "in_progress" },
+        ],
+        chapter_titles: [
+            "พระราชาอชาตศัตรูกับวัชชี",
+            "อปริหานิยธรรม ๗ แก่ภิกษุ",
+            "อริยสัจจ์ ๔",
+            "ไปสู่ปาฏลิคาม — โทษแห่งความประมาท ๕",
+            "ปาฏลิคาม — ความประมาทและความไม่ประมาท",
+            "ปาฏลิบุตร — คำพยากรณ์",
+            "วรษการถวายภัต — ข้ามแม่น้ำคงคา",
+            "กุฏิคาม — ศีล สมาธิ ปัญญา",
+            "นาทิกา — กรรมของอุบาสก",
+            "เมืองไพศาลี — พระนางอำรปาลี",
+            "พวกเจ้าลิจฉวี",
+            "อำรปาลีถวายภัต",
+            "เวณุคาม — การจำพรรษา",
+            "อาพาธของพระตถาคต — ปัจฉิมวาจา",
+        ],
+        total_sub_sections: 14,
+        translated_sub_sections: 14,
         source_url: "https://www.dsbcproject.org/canon-text/book/48"
     },
     {
@@ -255,10 +275,12 @@ const SUTRAS_DATA = [
         title_sanskrit: "Bhaiṣajyaguruvaidūryaprabharājasūtram",
         title_english: "Medicine Buddha Sutra",
         priority: 8,
-        status: "pending",
+        status: "completed",
         description: "พระหมอแสงแก้ว พระพุทธเจ้าผู้รักษาโรค",
         chapters_count: 1,
-        chapters: [],
+        chapters: [
+            { id: 1, title_thai: "ไภษัชยคุรุไวฑูรยประภาราชสูตร", title_sanskrit: "Bhaiṣajyaguruvaidūryaprabharājasūtram", status: "completed" },
+        ],
         source_url: "https://www.dsbcproject.org/canon-text/book/36"
     },
     {
