@@ -19,34 +19,34 @@
 ### โครงร่างพระสูตร
 | บท | ชื่อสันสกฤต | สถานะ |
 |----|-------------|--------|
-| 1 | Prathamaḥ | ✅ Completed |
-| 2 | Dvitīyaḥ | ✅ Downloaded |
-| 3 | Tṛtīyaḥ | ✅ Downloaded |
-| 4 | Caturthaḥ | ✅ Downloaded |
-| 5 | Pañcamaḥ | ✅ Downloaded |
-| 6 | Ṣaṣṭhamaḥ | ✅ Downloaded |
-| 7 | Saptamaḥ | ✅ Downloaded |
-| 8 | Aṣṭamaḥ | ✅ Downloaded |
-| 9 | Navamaḥ | ✅ Downloaded |
-| 10 | Daśamaḥ | ✅ Downloaded |
-| 11 | Ekādaśamaḥ | ✅ Downloaded |
-| 12 | Dvādaśamaḥ | ✅ Downloaded |
-| 13 | Trayodaśamaḥ | ✅ Downloaded |
-| 14 | Caturdaśamaḥ | ✅ Downloaded |
-| 15 | Pañcadaśamaḥ | ✅ Downloaded |
-| 16 | Ṣoḍaśamaḥ | ✅ Downloaded |
-| 17 | Saptadaśamaḥ | ✅ Downloaded |
-| 18 | Aṣṭādaśamaḥ | ✅ Downloaded |
-| 19 | Ekānnaviṁśatimaḥ | ✅ Downloaded |
-| 20 | Viṁśatitamaḥ | ✅ Downloaded |
-| 21 | Ekaviṁśatitamaḥ | ✅ Downloaded |
-| 22 | Dvāviṁśatitamaḥ | ✅ Downloaded |
-| 23 | Trayoviṁśatitamaḥ | ✅ Downloaded |
-| 24 | Caturviṁśatitamaḥ | ✅ Downloaded |
-| 25 | Pañcaviṁśatimaḥ | ✅ Downloaded |
-| 26 | Ṣaḍviṁśatimaḥ | ✅ Downloaded |
+| 1 | Prathamaḥ | ✅ แปลเสร็จ |
+| 2 | Dvitīyaḥ | ✅ มีต้นฉบับ |
+| 3 | Tṛtīyaḥ | ✅ มีต้นฉบับ |
+| 4 | Caturthaḥ | ✅ มีต้นฉบับ |
+| 5 | Pañcamaḥ | ✅ มีต้นฉบับ |
+| 6 | Ṣaṣṭhamaḥ | ✅ มีต้นฉบับ |
+| 7 | Saptamaḥ | ✅ มีต้นฉบับ |
+| 8 | Aṣṭamaḥ | ✅ มีต้นฉบับ |
+| 9 | Navamaḥ | ✅ มีต้นฉบับ |
+| 10 | Daśamaḥ | ✅ มีต้นฉบับ |
+| 11 | Ekādaśamaḥ | ✅ มีต้นฉบับ |
+| 12 | Dvādaśamaḥ | ✅ มีต้นฉบับ |
+| 13 | Trayodaśamaḥ | ✅ มีต้นฉบับ |
+| 14 | Caturdaśamaḥ | ✅ มีต้นฉบับ |
+| 15 | Pañcadaśamaḥ | ✅ มีต้นฉบับ |
+| 16 | Ṣoḍaśamaḥ | ✅ มีต้นฉบับ |
+| 17 | Saptadaśamaḥ | ✅ มีต้นฉบับ |
+| 18 | Aṣṭādaśamaḥ | ✅ มีต้นฉบับ |
+| 19 | Ekānnaviṁśatimaḥ | ✅ มีต้นฉบับ |
+| 20 | Viṁśatitamaḥ | ✅ มีต้นฉบับ |
+| 21 | Ekaviṁśatitamaḥ | ✅ มีต้นฉบับ |
+| 22 | Dvāviṁśatitamaḥ | ✅ มีต้นฉบับ |
+| 23 | Trayoviṁśatitamaḥ | ✅ มีต้นฉบับ |
+| 24 | Caturviṁśatitamaḥ | ✅ มีต้นฉบับ |
+| 25 | Pañcaviṁśatimaḥ | ✅ มีต้นฉบับ |
+| 26 | Ṣaḍviṁśatimaḥ | ✅ มีต้นฉบับ |
 
 ### สถานะ
 - **สถานะ**: in_progress
-- **บทที่ดาวน์โหลดแล้ว**: 26/26 (100%)
-- **บทที่แปลแล้ว**: 1/26 (4%) — บทที่ 1 เสร็จสมบูรณ์
+- **เนื้อหาต้นฉบับ**: 26/26 (100%)
+- **แปลแล้ว**: 1/26 (4%) — บทที่ 1 เสร็จสมบูรณ์
