@@ -75,8 +75,58 @@
 - `web/js/data.js` — อัปเดต status/chapter titles
 
 ### Next Steps (Session 4)
-1. **22_karandavyuha** — บท 5-24 (ยังเหลืออีก 20 บท)
-2. **24_sukhavativyuha_vistara** — สุขาวดีวยูหสูตรฉบับขยาย (799 บรรทัด, 1 บท)
-3. **25_vajrasattva** — วัชรสัตตวนิษปาทนสูตร (900 บรรทัด, 1 บท)
-4. **26_maitreyavyakarana** — ไมเตรยพยากรณสูตร (1548 บรรทัด, 1 บท)
+1. **22_karandavyuha** ✅ เสร็จ 24/24 บท (อัปเดตแล้ว!)
+2. **24_sukhavativyuha_vistara** ✅ เสร็จ (data.js แสดง completed)
+3. **25_vajrasattva** ✅ เสร็จ (data.js แสดง completed)
+4. **26_maitreyavyakarana** — ไมเตรยพยากรณสูตร (ยัง pending)
 5. ลบไฟล์ legacy: `chapter_index.js`, `generated_content.js`
+
+---
+
+## 2026-06-05 — Session 4: Morning Brief Protocol Recorded
+
+### Done
+- **บันทึกรูปแบบ Morning Brief** ลงระบบความจำ 3 ชั้น:
+  - `~/.config/opencode/SESSION_LOG.md` (global session log)
+  - `~/.config/opencode/memory.md` (permanent memory)
+  - `~/.config/opencode/AGENTS.md` (protocols)
+- **Morning Brief Protocol** เพิ่มเข้า Conversation Start Protocol:
+  1. Parallel fetch: Gmail + Calendar + Time + WebSearch×8-10
+  2. 6 หมวด: ข่าวไทย/ตปท, AI Agent, Local AI, ตลาด BTC/XAU/Forex, Social TH/CN/KR/JP
+  3. Template: 📅 Calendar, 📧 Gmail, 🇹🇭🌍 ข่าว, 🤖💻 AI, 💰 ตลาด, 📱 Social
+  4. **ห้ามอักษรจีน — ต้องแปลไทยหมด**
+  5. One-liner summary + ถาม user "บันทึกลง logs ไหม"
+
+### Files Changed
+- `~/.config/opencode/SESSION_LOG.md` — append morning brief record
+- `~/.config/opencode/memory.md` — add morning brief format spec
+- `~/.config/opencode/AGENTS.md` — add Morning Brief Protocol section
+
+---
+
+## 2026-07-27 — Session 5: เตรียม 구조 หมวดตันตระ + ดึงเนื้อหาจาก DSBC
+
+### Done
+- สร้าง `docs/Tantra/Tantra_category_list.md` — 9 หมวดตันตระจาก DSBC category/10
+- สร้าง `docs/Tantra/Tantra_target.txt` — เป้าหมายเริ่มต้น Kriyā + Yoga
+- อัปเดต `docs/translation_progress.md` — เพิ่มรายการพระสูตรตันตระ:
+  - 78 Āryamañjuśrīmūlakalpam (Kriyā Tantra) pending
+  - 84 Sarva tathāgata tattva saṅgrahaḥ (Yoga Tantra) pending
+- ตรวจสอบหน้า DSBC book/78 และ book/84:
+  - ท่านี้มีโครงสร้าง chapter links ในหน้าเว็บ
+  - เริ่มทดลอง scrape chapter links ผ่าน requests แต่พบ encoding/redirect issues
+  - fallback เป็น browser console extract hrefs สำเร็จ: ได้รูปแบบ `https://www.dsbcproject.org/canon-text/content/78/635...`
+  - บางเส้นทาง `/canon-text/chapter/78/1` ไม่ใช้แล้ว (404)
+
+### Blocked / Notes
+- **fetch เนื้อหา**: ขั่ว DSBC มีข้อจำกัด scraping จนต้องใช้ browser จริง
+- ** Herman** folder convention: `translations/<id>_<abbr>/chapter_<3>/`
+- รายการ 78/84 ใช้ extract ช่องว่ามีจำนวน chapter กี่บท แล้วค่อย mirror ลง local
+- ยังไม่ push ใดๆ จนกว่าจะเพิ่มโครงสร้างไฟล์มือถือจริง
+
+### Next Steps
+1. ดาวน์โหลด chapter ทั้งหมดของ 78, 84 ผ่าน browser automation/console extract
+2. สร้างโฟลเดอร์ + ไฟล์ stub ตาม convention
+3. เพิ่ม meta entry ใน `web/js/data.js` ให้แยกหมวด Tantra
+4. commit + push และทดสอบ GitHub Pages
+

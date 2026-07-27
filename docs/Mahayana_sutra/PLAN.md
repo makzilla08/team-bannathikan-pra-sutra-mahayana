@@ -20,7 +20,7 @@
 | 3 | 42 | Kāraṇḍavyūhaḥ | 22_karandavyuha | pending |
 | 4 | 46 | Madhyamaka-śālistambasūtram | 23_madhyamakasalistamba | pending |
 | 5 | 59 | Sukhāvatīvyūhaḥ (vistaramātṛkā) | 24_sukhavativyuha_vistara | ✅ completed (1/1) |
-| 6 | 818 | Vajrasattvaniṣpādana Sūtra | 25_vajrasattva | pending |
+| 6 | 818 | Vajrasattvaniṣpādana Sūtra | 25_vajrasattva | ✅ completed (1/1) |
 | 7 | 850 | Maitreyavyākaraṇa | 26_maitreyavyakarana | pending |
 
 ### Tier 2: Already have original texts — need translation

@@ -186,3 +186,10 @@
 3. **อัปเดต web/js/data.js** - เปลี่ยน status, title_thai/sanskrit
 4. อัปเดต web/js/gandavyuha_content.js - เพิ่มเนื้อหา
 5. อัปเดต docs/translation_progress.md
+
+## พระสูตรตันตระ (Tantra) - เพิ่มใหม่
+
+| ลำดับ | ชื่อไทย | ชื่อสันสกฤต | ประเภท | สถานะ |
+|-------|---------|-------------|--------|-------|
+| 78 | มัญชุศรีมูลกัลป์ | Āryamañjuśrīmūlakalpam | Kriyā Tantra | pending |
+| 84 | สรวะตถาคตทัตวาสังคหะ | Sarva tathāgata tattva saṅgrahaḥ | Yoga Tantra | pending |
