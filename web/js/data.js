@@ -246,7 +246,7 @@ const SUTRAS_DATA = [
         chapters_count: 46,
         chapters: [
             { id: 1, title_thai: "บทที่ 1 - บทนำ (Introductory)", status: "completed" },
-            { id: 2, title_thai: "บทที่ 2 - ว่าด้วยจุนท (On Cunda)", status: "pending" },
+            { id: 2, title_thai: "บทที่ 2 - ว่าด้วยจุนท (On Cunda)", status: "completed" },
             { id: 3, title_thai: "บทที่ 3 - ว่าด้วยความโศก (On Grief)", status: "pending" },
             { id: 4, title_thai: "บทที่ 4 - ว่าด้วยอายุยืน (On Long Life)", status: "pending" },
             { id: 5, title_thai: "บทที่ 5 - ว่าด้วยพระวชิรกาย (On the Adamantine Body)", status: "pending" },
