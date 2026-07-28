@@ -7,17 +7,18 @@ const TANTRA_DATA = [
     title_sanskrit: "Āryamañjuśrīmūlakalpam",
     title_english: "The Noble Root Manual of Mañjuśrī",
     dsbc_id: 78,
+    page_id: 142,
     editor: "Shastri, M. M. T. Ganapati",
     century: "คริสต์ศตวรรษที่ 8-9",
     priority: 1,
-    status: "pending",
+    status: "completed",
     description: "คัมภีร์กัณฑ์ที่ใหญ่ที่สุดของมัญชุศรี — รวบรวมมนตรา มณฑล และพิธีกรรมของพระโพธิสัตว์มัญชุศรี",
     chapters_count: 55,
     chapters: Array.from({ length: 55 }, (_, i) => ({
       id: i + 1,
       title_thai: `ปัฏลที่ ${i + 1}`,
       title_sanskrit: `atha ${['prathama', 'dvitīya', 'tṛtīya', 'caturtha', 'pañcama', 'ṣaṣṭha', 'saptama', 'aṣṭama', 'navama', 'daśama', 'ekādaśa', 'dvādaśa', 'trayodaśa', 'caturdaśa', 'pañcadaśa', 'ṣoḍaśa', 'saptadaśa', 'aṣṭādaśa', 'ekonaviṁśa', 'viṁśa', 'ekaviṁśa', 'dvāviṁśa', 'trayoviṁśatitama', 'caturviṁśatitama', 'pañcaviṁśatitama', 'ṣaḍviṁśatitama', 'saptaviṁśatitama', 'aṣṭāviṁśatitama', 'ekonatriṁśa', 'triṁśa', 'ekatriṁśa', 'dvātriṁśa', 'trayastriṁśa', 'catustriṁśa', 'pañcatriṁśa', 'ṣaṭtriṁśa', 'saptatriṁśa', 'aṣṭātriṁśa', 'ekonacatvāriṁśa', 'catvāriṁśa', 'ekacatvāriṁśa', 'dvicatvāriṁśa', 'tricatvāriṁśa', 'catuścatvāriṁśa', 'pañcacatvāriṁśa', 'ṣaṭcatvāriṁśa', 'saptacatvāriṁśa', 'aṣṭacatvāriṁśa', 'ekonapañcāśa', 'pañcāśa', 'ekapañcāśa', 'dvipañcāśa', 'tripañcāśa', 'catuḥpañcāśa', 'pañcapañcāśa'][i]}ḥ paṭalavisaraḥ`,
-      status: "pending"
+      status: "completed"
     })),
     source_url: "https://www.dsbcproject.org/canon-text/book/78"
   },

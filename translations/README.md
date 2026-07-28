@@ -14,7 +14,7 @@
 | 8 | 08_bhaishajyaguru | ไภษัชยคุรุสูตร (พระหมอ) | - |
 | 9 | 09_lankavatara | ลังกาวตารสูตร | ✅ แปลเสร็จสมบูรณ์ |
 | 10 | 10_gandavyuha | คัณฑวยูหะสูตร (สุธนกุมาร) | **แปลเสร็จ (56/56)** |
-| 11 | 15_manjusrimumlakalpa | มัญชุศรีมูลกัลป์ (Kriyā Tantra) | 🟡 ดาวน์โหลดครบ 55 บท |
+| 11 | 15_manjusrimumlakalpa | มัญชุศรีมูลกัลป์ (Kriyā Tantra) | ✅ แปลเสร็จสมบูรณ์ (55/55) 🎉 |
 | 12 | 16_sarvatathagatatattvasangraha | สรวะตถาคตทัตวาสังคหะ (Yoga Tantra) | 🟢 แปลแล้ว 1/26 |
 | 13 | 17_surangama | ศูรังคมสูตร (Great Buddha's Summit) | ⏳ Pending |
 | 14 | 18_mahavairocana | มหาไวโรจนสูตร (Mahavairocana Sutra) | ✅ แปลเสร็จสมบูรณ์ |
