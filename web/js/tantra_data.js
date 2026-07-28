@@ -56,6 +56,7 @@ const TANTRA_DATA = [
   {
     id: "tn_yoga_1",
     category: "yoga",
+    page_id: 143,
     title_thai: "สรวะตถาคตทัตวาสังคหะ",
     title_sanskrit: "Sarva tathāgata tattva saṅgrahaḥ",
     title_english: "The Compendium of the Reality of All Tathāgatas",
@@ -63,14 +64,14 @@ const TANTRA_DATA = [
     editor: "Chandra, Lokesh",
     century: "คริสต์ศตวรรษที่ 7-8",
     priority: 4,
-    status: "pending",
+    status: "completed",
     description: "ตันตระหลักของโยคตันตระ — อธิบายมณฑลของพระธยานิพุทธ 5 พระองค์ และพิธีกรรมการประทับจิต",
     chapters_count: 26,
     chapters: Array.from({ length: 26 }, (_, i) => ({
       id: i + 1,
-      title_thai: `บทที่ ${i + 1}`,
-      title_sanskrit: `${['prathama', 'dvitīya', 'tṛtīya', 'caturtha', 'pañcama', 'ṣaṣṭhama', 'saptama', 'aṣṭama', 'navama', 'daśama', 'ekādaśama', 'dvādaśama', 'trayodaśama', 'caturdaśama', 'pañcadaśama', 'ṣoḍaśama', 'saptadaśama', 'aṣṭādaśama', 'ekānnaviṁśatima', 'viṁśatitama', 'ekaviṁśatitama', 'dvāviṁśatitama', 'trayoviṁśatitama', 'caturviṁśatitama', 'pañcaviṁśatima', 'ṣaḍviṁśatima'][i]}ḥ`,
-      status: "pending"
+      title_thai: `${['ปฐมาธิยาย', 'ทุติยาธยาย', 'ตติยาธยาย', 'จตุรฺถาธยาย', 'ปัญจมธยาย', 'ษัษฐมธยาย', 'สัปตมธยาย', 'อัษฏมธยาย', 'นวมธยาย', 'ทศมธยาย', 'เอกาทศมธยาย', 'ทวาทศมธยาย', 'ตรโยทศมธยาย', 'จตุรฺทศมธยาย', 'ปัญจทศมธยาย', 'โษฑศมธยาย', 'สัปตทศมธยาย', 'อัษฎาทศมธยาย', 'เอกานนวินศติมธยาย', 'วินศติตมธยาย', 'เอกวินศติตมธยาย', 'ทวาวินศติตมธยาย', 'ตรโยวินศติตมธยาย', 'จตุรวินศติตมธยาย', 'ปัญจวินศติตมธยาย', 'ษัฑวินศติตมธยาย'][i]}`,
+      title_sanskrit: `${['Prathamaḥ', 'Dvitīyaḥ', 'Tṛtīyaḥ', 'Caturthaḥ', 'Pañcamaḥ', 'Ṣaṣṭhamaḥ', 'Saptamaḥ', 'Aṣṭamaḥ', 'Navamaḥ', 'Daśamaḥ', 'Ekādaśamaḥ', 'Dvādaśamaḥ', 'Trayodaśamaḥ', 'Caturdaśamaḥ', 'Pañcadaśamaḥ', 'Ṣoḍaśamaḥ', 'Saptadaśamaḥ', 'Aṣṭādaśamaḥ', 'Ekānnaviṁśatimaḥ', 'Viṁśatitamaḥ', 'Ekaviṁśatitamaḥ', 'Dvāviṁśatitamaḥ', 'Trayoviṁśatitamaḥ', 'Caturviṁśatitamaḥ', 'Pañcaviṁśatimaḥ', 'Ṣaḍviṁśatimaḥ'][i]}`,
+      status: "completed"
     })),
     source_url: "https://www.dsbcproject.org/canon-text/book/84"
   },

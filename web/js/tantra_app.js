@@ -28,8 +28,9 @@ function buildTantraCard(text) {
     : 0;
   const statusLabel = { pending: '⏳ รอแปล', in_progress: '🔄 กำลังแปล', completed: '✅ แปลแล้ว' };
   const statusColor = { pending: 'var(--text-muted)', in_progress: 'var(--gold)', completed: '#4caf50' };
-  return `
-    <div class="sutra-card">
+  const sutraId = text.page_id || text.dsbc_id || '';
+    return `
+    <div class="sutra-card" onclick="location.href='reader.html?sutra=${sutraId}'" style="cursor:pointer">
       <div class="sutra-card-header">
         <div class="sutra-number">${CATEGORY_ICONS[text.category] || '📜'} ${CATEGORY_LABELS[text.category]?.split(' ')[0] || text.category}</div>
         <div class="sutra-status" style="color:${statusColor[text.status]}">${statusLabel[text.status] || text.status}</div>
