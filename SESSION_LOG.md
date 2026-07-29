@@ -45,3 +45,24 @@
 
 ### Chapters Status
 - ✅ ทั้ง 46 บท แปลเสร็จสมบูรณ์
+
+## 2026-07-28 — Session 8: มัญชุศรีมูลกัลป์ 55 ปัฏล แปลเสร็จสมบูรณ์
+
+### Critical Context
+- **มัญชุศรีมูลกัลป์ (Āryamañjuśrīmūlakalpam)** = Kriyā Tantra, DSBC id 78, 55 ปัฏล
+- เป็นส่วนหนี่งของหมวดตันตระในโปรเจค — หน้า tantra_index.html แสดงผลเฉพาะที่สถานะเป็น completed
+- หน้า reader.html ใช้ page_id (142) เชื่อม tantra_data.js กับ data.js
+
+### Done
+- แปลครบ 55/55 ปัฏล (~13,500 บรรทัดแปล)
+- QC ลบอักษรจีน/รัสเซียจาก 6 บท (ch002, 005, 006, 007, 014, 025)
+- อัปเดต `web/js/data.js` → id:142 chapters 1–55 → completed
+- อัปเดต `web/js/tantra_data.js` → tn_kriya_1: completed + page_id: 142
+- อัปเดต `translations/15_manjusrimumlakalpa/metadata.json` → completed
+- อัปเดต `translations/15_manjusrimumlakalpa/README.md`
+- อัปเดต `translations/README.md` + `docs/translation_progress.md`
+- Commit + Push: `509ba0a`
+
+### Next (พรุ่งนี้)
+- **สุญตวาทกับมัทธมกะและโยคาจาร** (Śūnyatāvāda — Mādhyamaka & Yogācāra)
+- น่าจะต้องสร้างหมวดใหม่ในโครงสร้างโปรเจค

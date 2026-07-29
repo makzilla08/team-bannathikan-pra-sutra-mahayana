@@ -34,6 +34,9 @@ function getAllData() {
   if (typeof TANTRA_DATA !== 'undefined' && Array.isArray(TANTRA_DATA)) {
     data = data.concat(TANTRA_DATA);
   }
+  if (typeof YOGACARA_DATA !== 'undefined' && Array.isArray(YOGACARA_DATA)) {
+    data = data.concat(YOGACARA_DATA);
+  }
   return data;
 }
 
