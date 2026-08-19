@@ -37,6 +37,9 @@ function getAllData() {
   if (typeof YOGACARA_DATA !== 'undefined' && Array.isArray(YOGACARA_DATA)) {
     data = data.concat(YOGACARA_DATA);
   }
+  if (typeof MADHYAMAKA_DATA !== 'undefined' && Array.isArray(MADHYAMAKA_DATA)) {
+    data = data.concat(MADHYAMAKA_DATA);
+  }
   return data;
 }
 

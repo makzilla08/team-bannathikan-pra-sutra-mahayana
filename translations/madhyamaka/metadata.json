@@ -1,0 +1,11 @@
+{
+  "category": "madhyamaka",
+  "name_thai": "มัธยมกะ",
+  "name_sanskrit": "Mādhyamaka",
+  "source_lists": [
+    { "list": 64, "name": "madhyamaka", "url": "https://www.dsbcproject.org/canon-text/list/64" },
+    { "list": 65, "name": "madhyamaka-yogācāra", "url": "https://www.dsbcproject.org/canon-text/list/65" }
+  ],
+  "status": "structure_created",
+  "created_at": "2026-08-19"
+}

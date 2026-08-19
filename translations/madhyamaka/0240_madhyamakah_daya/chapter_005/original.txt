@@ -1,0 +1,616 @@
+Chapter 5: pañcamaḥ paricchedaḥ
+Source: https://www.dsbcproject.org/canon-text/book/240
+
+Digital Sanskrit Buddhist Canon - Books
+
+Digital Sanskrit Buddhist Canon
+
+×
+
+Home
+
+Canon Texts
+
+Main Introduction
+
+Browse By List
+
+Romanized
+
+देवनागरी
+
+Bibliography
+
+Manuscripts
+
+Introduction
+
+Short History
+
+Contributors
+
+People
+
+Browse Gallery
+
+Resources
+
+Links
+
+Catalog
+
+About Us
+
+Donations
+
+People
+
+Usage Policy
+
+News
+
+Contact Us
+
+(626) 571-8811 ext.321
+
+[email protected]
+
+Home
+
+Canon Texts
+
+Main Introduction
+
+Browse By
+Category
+
+Browse By List
+
+Romanized
+
+देवनागरी
+
+Bibliography
+
+Manuscripts
+
+Introduction
+
+Short History
+
+Contributors
+
+People
+
+Browse Gallery
+
+Resources
+
+Links
+
+Catalog
+
+About Us
+
+Donations
+
+People
+
+Usage Policy
+
+News
+
+Contact Us
+
+Home
+
+Canon Text
+
+Romanized
+
+śāstrapiṭaka
+
+madhyamaka
+
+pañcamaḥ paricchedaḥ
+
+pañcamaḥ paricchedaḥ
+
+Technical Details
+
+Text Version:
+
+Input Personnel:
+
+Input Date:
+
+Proof Reader:
+
+Supplier:
+
+Sponsor:
+
+Parallel
+version
+
+पञ्चमः परिच्छेदः
+
+	pañcamaḥ paricchedaḥ
+
+	yogācāratattvaviniścayāvatāraḥ
+
+	anye pracakṣate dhīrāḥ svanītāvabhimāninaḥ |
+
+	tattvāmṛtāvatāro hi yogācāraiḥ sudeśitaḥ ||1||
+
+	dvayābhāvasya sadbhāvādabhāvād vā dvayasya ca |
+
+	sadādibuddhiviṣayaḥ paramārtho mataḥ kila ||2||
+
+	abhāvabhāvo nairātmyaṃ tathatā ca tathāsthitiḥ |
+
+	nirvikalpamatigrāhyaṃ tasyaivādhigamaḥpunaḥ ||3||
+
+	upalabdhiṃ samāśritya nopalabdhiḥ prajāyate |
+
+	nopalabdhiṃ samāśritya nopalabdhiḥ prajāyate ||4||
+
+	kalpitānupalabdheśca paratantrasya cāgrahāt |
+
+	svabhāvaṃ pariniṣpannamīkṣante tattvadarśinaḥ ||5||
+
+	prajñapteḥ sanimittatvādanyathā dvayanāśataḥ |
+
+	saṃkleśasyopalabdheśca paratantrāstitā matā ||6||
+
+	prajñāpāramitānītiriyaṃ sarvajñatāptaye |
+
+	na tūtpādanirodhādipratiṣedhaparāyaṇā ||7||
+
+	atrocyate pramāṇaṃ naḥ sarvaṃ tathāgataṃ vacaḥ |
+
+	āptopadeśaprāmāṇyād bhadro hi pratipadyate ||8||
+
+	nāgamāntarasaṃdigdhaviparyastamatiḥ paraḥ |
+
+	tasmāt tatpratipattyarthaṃ tanmṛgyo yuktimannayaḥ ||9||
+
+	dvayābhāvasya bhāvo hi virodhitvānna yujyate |
+
+	khapuṣpābhāvasattā vā na vā tadbhāvakalpanā ||10||
+
+	tattvataḥ kalpitābhāvāt tadabhedo mato yadi |
+
+	lakṣyalakṣavyavasthāyāṃ tattulyatvādanuttaram ||11||
+
+	svarūpātyāgitā yāsya sā cet tadbhāva iṣyate |
+
+	tacca bhāvo'ta evāsau svarūpaṃ na jahāti cet ||12||
+
+	abhāvālambanaṃ jñānamevaṃ syāt tattvadarśinām |
+
+	na cāsau dharmanairātmyamasadbuddhernimittataḥ ||13||
+
+	abhāvālambanā buddhiravikalpā yadīṣyate |
+
+	nanvevamavikalpāpi rūpabuddhiḥ satī bhavet ||14||
+
+	grāhyābhāsatayā caiṣā yadi bhūtā na rūpadhīḥ |
+
+	hetuḥ syād vyabhicāryaivaṃ pratijñā cāvahīyate ||15||
+
+	savikalpā ca bodhiḥ syācchāstuḥ sālambanāpi vā |
+
+	nirvikalpāpi dhīrna syāt svabhāvālambikā satī ||16||
+
+	cittamātropalambhena rūpādyagrahaṇaṃ na ca |
+
+	abhyupetapratītibhyāṃ pratijñā bādhyate yataḥ ||17||
+
+	nāpi rūpādivijñānaṃ vinārtheneti yujyate |
+
+	tathābhāsodayād yadvat svapne rūpādibuddhayaḥ ||18||
+
+	yasmāt svapnādivijñānaṃ dharmālambanamiṣyate |
+
+	dṛṣṭāntanyūnatā hyevaṃ vastuno'pyapavāditā ||19||
+
+	viṣayābhāsatā cet syāccittasyālambanaṃ matā |
+
+	viṣayābhāsatāṃ projjhya cittātmānyo'sti kīdṛśaḥ ||20||
+
+	neṣṭā sphaṭikavat tasya dvayābhātānyanibhodayāt |
+
+	upādānāt tatra jāto yato na sphaṭikakṣaṇaḥ ||21||
+
+	tadapāye'nyathotpatterbhrāntatā tanmatermatā |
+
+	śaktyabhedānna dvayābhatā viṣayābhāvatātmavat ||22||
+
+	svaparābhāsatā neṣṭā cetasaḥ pratibimbavat |
+
+	sahakārānukāritvāt tasmād dvyābhāsatāsatī ||23||
+
+	pramāṇaphalatābhāvādiṣṭā dvyābhāsateti cet |
+
+	anyathāpi hi tatsiddhestatklṛptirapi neṣyate ||24||
+
+	bibhratā jāyamānena jñānena viṣayābhatām |
+
+	pramīyate prameyaṃ yat pramāṇaṃ tena tanmatam ||25||
+
+	tannirvṛttau ca dṛṣṭatvāt tannirvṛttiḥ phalaṃ matam |
+
+	anirdeśyasvarūpasya tathaivādhigamo yataḥ ||26||
+
+	cittasvabhāvo bāhyo'rtho yadi sādhyo vivakṣitaḥ |
+
+	vijñānaviṣayatvena tadyathā samanantaraḥ ||27||
+
+	pratyekaṃ caitasairhetoḥ syādevaṃ vyabhicāritā |
+
+	sūtreṣu cittamātroktiḥ kartṛbhoktṛniṣedhataḥ ||28||
+
+	vikalpitārthaśūnyaṃ ca vijñānaṃ yadi sādhyate |
+
+	akalpitārthasadbhāvānna syādarthanirākriyā ||29||
+
+	svapnabuddhisvabhāvenākalpitābhāvasaṃśayaḥ |
+
+	na nirālambanāpīṣṭā dṛṣṭāntasyāprasiddhitaḥ ||30||
+
+	atha syād viṣayo hyekaḥ samūho vā bhaved dhiyaḥ |
+
+	yuktyā parīkṣyamāṇastu sa dvidhāpi na yujyate ||31||
+
+	tatrānurūpamekaṃ tu rūpabuddherna gocaraḥ |
+
+	atadābhatayā yadvadakṣarūpaṃ na gocaraḥ ||32||
+
+	anekamapi cittasya naiva tadgocaraṃ matam |
+
+	rūpaṃ hi paramāṇūnāmadravyatvād dvicandravat ||33||
+
+	tatrāsaṃcitarūupasya cittagocaratā yadi |
+
+	 prasādhyate pareṇāpi siddhireva prasādhyate ||34||
+
+	atha saṃcitarūpasya hetorevamasiddhatā |
+
+	rūpāntarairupakṛtaistannirbhāsodayād dhiyaḥ ||35||
+
+	tasyālambanatā ceṣṭā tadābhamatihetutaḥ |
+
+	rāgavad bādhyate tasmāt pratijñā te'numānataḥ ||36||
+
+	yadyanālambanā sādhyā svabījādudayād dhiyaḥ |
+
+	manodhīvadakalpatvāt syāt te sālambanā nanu ||37||
+
+	anālambānumānād vā na dhītvādinirākriyā |
+
+	samūhasyāpratijñānāt tanniṣedho na bādhakaḥ ||38||
+
+	asatyapi ca bāhye'rthe dvayamanyonyahetukam |
+
+	śaktirviṣayarūpaṃ ca tannivṛttiḥ kuto matā ||39||
+
+	āryatvādavikalpatvādaheyā nirvikalpadhīḥ |
+
+	tadutpādāt kuto mokṣastadbījānupaghātataḥ ||40||
+
+	dvayapravṛttau saṃjñāyā viśvābhāsaṃ prajāyate |
+
+	viśvaṃ tadābhatā yāsya tadutpādaḥ svabījataḥ ||41||
+
+	layaḥ śaktyarpaṇāt tasya svātmanyevānyato'pi vā |
+
+	nanu vijñānaparyāyādātmaivāyaṃ nirūpitaḥ ||42||
+
+	dvaitaṃ māyopamaṃ matvā kṣuṇṇaṃ cāśāntyanātma tad |
+
+	advaitaṃ cākṣayaṃ bhūtamamṛtaṃ paramaṃ padam ||43||
+
+	sāmānyābhāvatastatra kalpanāvinivṛttitaḥ |
+
+	nirvikalpadhiyālambya muktyabhedo'pi vidyate ||44||
+
+	cittamātraprasiddhyarthaṃ na cittād vyatirekiṇaḥ |
+
+	caittā vābhyupagantavyā na vā vijñaptimātratā ||45||
+
+	vedanādisamūhe vā cittaprajñaptiriṣyatām |
+
+	tathā parāṇuvādaḥ syād svanītityāgitāpi ca ||46||
+
+	saṃkleśavyavadānācced dravyasaccittamiṣyate |
+
+	vedanāditathotpādāt tatprasiddhe na bādhakam ||47||
+
+	yathā parṇādisaṃtānaḥ śālūkabahuśaktitaḥ |
+
+	tathādravyasataścittāccitrāḥ saṃtativṛttayaḥ ||48||
+
+	pratipakṣādanutpattirutpattiḥ kāraṇe sati |
+
+	adravyatvānna cātreṣṭā citrotpādādikalpanā ||49||
+
+	na tadālambya nirmokṣo nāpi noparatirdhiyaḥ |
+
+	saṃvṛtyā tattvato vāpi nātmavittulyatāstyataḥ ||50||
+
+	svabhāvato'pyajātatvādadravyatvād vināśataḥ |
+
+	rūpādiśūnyaṃ māyāvadityabhyāsādasaṅgitā ||51||
+
+	sadbhāve'pi ca rūpāderyathābhūtāvabodhataḥ |
+
+	vyāvartate hyasadgrāhastadabhāve na kiṃ tadā ||52||
+
+	naiva dravyavikalpaśca cittacaitasagocaraḥ |
+
+	pratiṣiddhe'pi rūpādau na pravartitumarhati ||53||
+
+	tānnirāsāya cediṣṭo vidhyantaraparigrahaḥ |
+
+	prakṣālanāddhi paṅkasya dūrādasparśanaṃ varam ||54||
+
+	neṣṭo bhujagavaccāsan saṃkalpaḥ kalpitatvataḥ |
+
+	rajjvātmanā hyanekāntāt pratītirapi bādhikā ||55||
+
+	tadaṃśadṛṣṭerna bhrāntiranekāṃśā hi sā yataḥ |
+
+	sarvathārthaniṣedhāt te syācca vastvapavāditā ||56||
+
+	tadasattve'pi saṃkleśo na nāmno'rthapravṛttitaḥ |
+
+	abhilāpāparokṣāṇāṃ tiraścāṃ kleśadarśanāt ||57||
+
+	rūpābhilāpasāpekṣarūpadhījanmato na ca |
+
+	rūpaṃ rūpasvabhāvena śūnyaṃ kalpayituṃ kṣamam ||58||
+
+	arūpātmavyavacchinnavastvābhamatigocaraḥ |
+
+	rūpasyātmā tadastitvādayuktā rūpaśūnyatā ||59||
+
+	sāmānyamabhilāpyaṃ hi sāmānyaṃ na ca kiṃcana |
+
+	nābhilāpyātmaśūnyatvamevamapyupapadyate ||60||
+
+	vācyaṃ sāmānyavadvastu tadābhamatihetutaḥ |
+
+	tasya tenātmanā sattvānna yuktānabhilāpyatā ||61||
+
+	vijātīyena śūnyatvaṃ tulyadhīvṛttihetutaḥ |
+
+	sāmānyāt tulyajātīye sāmānyamiti niścitam ||62||
+
+	nāśrayasyāgrahe grāhyaṃ saṃkhyāvat tadgrahe grahāt |
+
+	tadvat kalpyamato vastu vācyaṃ neṣṭaṃ pṛthag bhavet ||63||
+
+	abhedasattvādravyābhyāmekato'nekavṛttyapi |
+
+	tadvināśe'vināśācca nānyasmin tanmatirna ca ||64||
+
+	anīlānutpalābhinnarūpeṇāvyavadhānaṃtaḥ |
+
+	sāmānādhikaraṇyaṃ hi dvayorekārthavṛttitaḥ ||65||
+
+	nānyāpoho'nyasāmānyamanyadharmād viśeṣavat |
+
+	nābhāvasyāviśeṣatvād dhībhedaḥ kambalādiṣu ||66||
+
+	vastvagrahe grahāccāsya neṣṭā kalpyatvavācyate |
+
+	taddvāreṇānyavācyatve tadvācyatvādi hīyate ||67||
+
+	tadanyabhinnarūpasya vastuno'nabhilāpyatā |
+
+	na yuktaiva manoyuktā yogācāranayāditi ||68||
+
+	abhilāpātmaśūnyatvād bhāvānāṃ niḥsvabhāvatā |
+
+	tenaiva cāpyanutpādādanutpannāniruddhatā ||69||
+
+	yato'bhilāpavad vastu na tathā kathyate yathā |
+
+	avastukatvaṃ dharmāṇāṃmityādi bahu coditam ||70||
+
+	paratantrāstitoktau ca saṃvṛtyā siddhasādhanam |
+
+	tattvataścenna dṛṣṭānto hetoścāpi viruddhatā ||71||
+
+	utpattiniḥsvabhāvatvaṃ sadbhūtājātito yadi |
+
+	nānutpādanirodhādipratiṣedhasamarthanam ||72||
+
+	pratyayairjāyate yo hi tamajātaṃ jagau muniḥ |
+
+	svabhāvatastadutpādaniṣedhāt paramārthataḥ ||73||
+
+	abhūtatvācca dharmāṇāṃ tatsvasāmānyagocaraḥ |
+
+	saṃvṛtyā na virudhyante citradhīśabdavṛttayaḥ ||74||
+
+	yena yena hi nāmnā vai yo yo dharmo'bhilapyate |
+
+	na sa saṃvidyate tatra dharmāṇāṃ sā ca dharmatā ||75||
+
+	atha pratyayasaṃbhūtasvabhāve neṣṭasādhanam |
+
+	utpattiḥ pāratantryāccenmāyāvannanvabhūtatā ||76||
+
+	paratantrāgrahaścāpi svabhāvājātito mataḥ |
+
+	jātasya paramārthena mithyākhyānaṃ na yujyate ||77||
+
+	yathā khyānti tathā santi tadābhāsātmanā yataḥ |
+
+	yathā khyānti tathā sattvād dharmā māyopamāḥ katham ||78||
+
+	sadbhūtenātmanājāteranutpannāniruddhatā |
+
+	avastutvāsvabhāvatve tathāpyadravyasattvataḥ ||79||
+
+	vijñaptimātratulyatvāt prajñapternāsti duṣṭatā |
+
+	heyaprahātryasadbhāvāt kasyeṣṭaṃ nirvidādi sat ||80||
+
+	vikalpoparamānmuktiradravyatve'pi sā yataḥ |
+
+	dravyasattve'pyajātatvānnāto'nyā kalpaneṣyate ||81||
+
+	prajñapterapyasadbhāvo vastvabhāve bhavet sati |
+
+	taddṛṣṭirnāstiko'kathyaḥ sa hyasaṃvāsya eva ca ||82||
+
+	svayamāpāyikatve'sau pareṣāṃ ca vipādakaḥ |
+
+	iti dveṣāmiṣodgāro'bhimānājīrṇasūcakaḥ ||83||
+
+	asadbhūtasvabhāvatvād bālasaṃmohahetutaḥ |
+
+	abhūtvābhavanād vāpi dharmā māyopamā matāḥ ||84||
+
+	nākāśasamatā yuktā nirvikalpasya vastunaḥ |
+
+	nānāsaṃjñāvikalpānāmavakāśaprabhāvanāt ||85||
+
+	jāte nānabhilapyatvaṃ pratikṣepāt puroditāt |
+
+	satyapyanabhilāpitve saṃvṛtau tattvavibhramaḥ ||86||
+
+	tattve'nyatattvasadbhāvād yadīṣṭaṃ tattvadarśanam |
+
+	ghaṭe'pi dvighaṭābhāvāt kiṃ neṣṭaṃ tattvadarśanam ||87||
+
+	na nīticchidraguptyarthaṃ tatsaṃkleśaviśuddhite |
+
+	syātāṃ te kanakādīnāṃ pratyayānuvidhānataḥ ||88||
+
+	yathākṣuśuddhyaśuddhibhyāṃ khyāti khaṃ samalāmalam |
+
+	viśuddhaṃ ca sadākāśaṃ dharmāṇāṃ dharmatā tathā ||89||
+
+	tatkliṣṭatvādidhībhrāntiḥ kartṛdharmo na karmaṇaḥ |
+
+	na tadālambanā śuddhistattvaṃ nālambyamiṣyate ||90||
+
+	dravyasattve ca tattvasya pūrvavad doṣasaṃplavaḥ |
+
+	lokottarāvikalpā ca tadbuddhirna matā vyayāt ||91||
+
+	tāvat satimirā buddhiryāvajjñeyānukāriṇī |
+
+	yāvadutpadyate jñānaṃ tāvajjñeyānukāritā ||92||
+
+	svātmanīvāsidhārāyāḥ jñānāvṛtterasaṃbhavāt |
+
+	svasaṃvṛttiniṣedhācca na syāt sarvajñatā sakṛt ||93||
+
+	prāgvajjātipratikṣepādajātādravyasattvataḥ |
+
+	nirvikalpāryadhīgrāhyo'nabhilapyaśca sarvathā ||94||
+
+	bhāvābhāvasya bhāvo'pi svabhāvaḥ pāramārthikaḥ |
+
+	samāropāpavādāntamuktiste vidyate katham ||95||
+
+	na bhāvastattvato'jāternābhāvastadabhāvataḥ
+
+	bhāvābhāvadvayāpetamiṣṭaṃ tattvamato'dvayam ||96||
+
+	nirālambo na śāstā syāt tathatālambanatvataḥ |
+
+	na cāpi samatā bodhistattvasvābhāsabhedataḥ ||97||
+
+	tathatālambanā yā dhīḥ kuto'nāhitaśaktikā |
+
+	khapuṣpābhā na dhīryuktā yathānāhitaśaktitā ||98||
+
+	naikatvānyatvamuktaṃ vastattvaṃ svanayaguptitaḥ |
+
+	adravyānupalabhyatvād yuktaṃ nastak yathoditam ||99||
+
+	ajāternirviśeṣatvāt khatulyaṃ cāpyalipyataḥ |
+
+	atyantānabhilāpyaṃ ca sarvathāpyagrahād dhiyā ||100||
+
+	vigatotpādatimirā matirlokottarā matā |
+
+	lokāduttāraṇārthena lokātikramato'pi vā ||101||
+
+	nirvikalpā nirālambā nirnimittā ca sā tayā |
+
+	abodhasamatābodhāt svānyadharmatayā sakṛt ||102||
+
+	anutpādo hi dharmāṇāṃ dharmanairātmyamucyate |
+
+	na kalpanākalaṅkāṅkasaṃbhavastatra pūrvavat ||103||
+
+	tattvasyātarkagamyatvāt tadbodho nānumānataḥ |
+
+	nātastarkeṇa dharmāṇāṃ gamyate dharmateti cet ||104||
+
+	ihānumānānnirdoṣādāgamānuvidhāyinaḥ |
+
+	kalpitāśeṣavividhavikalpaughanirākṛteḥ ||105||
+
+	sakalajñeyayāthātmyamākāśasamacetasaḥ |
+
+	jñānena nirvikalpena buddhāḥ paśyantyadarśanāt ||106||
+
+	ato'numānaviṣayaṃ na tattvaṃ pratipadyate |
+
+	tattvajñānavipakṣo yastasya tena nirākriyā ||107||
+
+	āgamāntarabhedena bhedāyātāsu buddhiṣu |
+
+	abhede'pyāgamasyānyaḥ kaḥ parīkṣākṣamo bidhiḥ ||108||
+
+	pratijñāmātrakā neṣṭā pratipakṣanirākriyā |
+
+	aniṣiddhe vipakṣe ca nirvikalpā matiḥ kutaḥ ||109||
+
+	satyadvayamataścoktaṃ muninā tattvadarśinā |
+
+	vyavahāraṃ samāśritya tattvārthādhigamo yataḥ ||110||
+
+	sālambanatvād vitathā tathatālambanādapi |
+
+	svapnādidhīvat tadgrāhyaṃ nātastattvaṃ ca yujyate ||111||
+
+	agrāhyo'nabhilāpyaśca dhīpracāravivarjitaḥ |
+
+	dharma ukto munīndreṇa sa caivaṃ sati bādhyate ||112||
+
+	ato yuktāgamopetaṃ tattvaṃ yat prāgudāhṛtam |
+
+	parīkṣyamāṇaṃ yuktyaivaṃ tadevāvyāhataṃ sthitam ||113||
+
+	kha cig phun po'i ljon sin chags /
+
+	kha cig rnam ses rgya la thogs //
+
+	yan dag rntha' yi gyan sar yan /
+
+	ma lhun rgyal ba'i thugs sras rol //14//
+
+	yogācāratattvaviniścayo nāma pañcamaḥ paricchedaḥd vitathā tathatālambanādapi |
+
+	svapnādidhīvat tadgrāhyaṃ nātastattvaṃ ca yujyate ||111||
+
+	agrāhyo'nabhilāpyaśca dhīpracāravivarjitaḥ |
+
+	dharma ukto munīndreṇa sa caivaṃ sati bādhyate ||112||
+
+	ato yuktāgamopetaṃ tattvaṃ yat prāgudāhṛtam |
+
+	parīkṣyamāṇaṃ yuktyaivaṃ tadevāvyāhataṃ sthitam ||113||
+
+	kha cig phun po'i ljon sin chags /
+
+	kha c

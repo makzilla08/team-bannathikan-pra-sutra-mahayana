@@ -66,3 +66,53 @@
 ### Next (พรุ่งนี้)
 - **สุญตวาทกับมัทธมกะและโยคาจาร** (Śūnyatāvāda — Mādhyamaka & Yogācāra)
 - น่าจะต้องสร้างหมวดใหม่ในโครงสร้างโปรเจค
+
+## 2026-07-29 — Session 9: อารยสังธินิรโมจนสูตร (Saṃdhinirmocana Sūtra) แปลเสร็จสมบูรณ์
+
+### Critical Context
+- **อารยสังธินิรโมจนสูตร (Āryasaṃdhinirmocana Sūtra)** = รากฐานโยคาจาร, Toh 106, 10 บท
+- Source: 84000.co (แปลจาก Tib. จับคู่กับ Eng. Powers/Keenan)
+- สร้างหมวด 17_yogacara ใหม่ — ไม่มี subcategories
+- หน้าแยก: yogacara_index.html, yogacara_data.js, yogacara_app.js
+
+### Done
+- ดาวน์โหลดต้นฉบับจาก 84000.co แยก 10 บท
+- สร้างโครงสร้าง `translations/17_yogacara/01_samdhinirmocana/chapter_001-010/`
+- แปลครบ 10 บท (~18,000+ บรรทัด)
+- แก้ไขภาษาอังกฤษหลงเหลือ (Prologue, conditioned/unconditioned, domain, phenomenal appearance)
+- สร้างระบบเว็บโยคาจาร: yogacara_index.html + yogacara_data.js + yogacara_app.js
+- อัปเดต navigation ทุกหน้า (index, tantra, sarvastivada, reader)
+- อัปเดต `docs/translation_progress.md` → สรุป: 7/12 เรื่องสำคัญแปลเสร็จ
+- Commit + Push: `f0bd2d1`
+
+### Chapters Status
+- ✅ ทั้ง 10 บท แปลเสร็จสมบูรณ์
+
+### Notes
+- โยคาจารเป็นหมวดหมู่แยกจากมหายานทั่วไป — หน้า yogacara_index.html
+- บทที่สำคัญ: Ch.5 (อาลยวิญญาณ), Ch.6 (ไตรลักษณะ — parikalpita/paratantra/pariṇiṣpanna), Ch.8 (กาย-วาจา-ใจลับ)
+
+## 2026-08-19 — Session 10: สร้างหมวดมัธยมกะ (Mādhyamaka) — โครงสร้าง + ดาวน์โหลด 44 เล่ม + เว็บหมวด
+
+### Critical Context
+- ผู้ใช้สั่ง: ตั้ง **DSBC list 177** เป็นเป้าหมายดูทีหลัง (ถูก mod_security บล็อก HTTP 406)
+- หมวดมัธยมกะเดิมไม่มีโครงสร้าง → สร้างใหม่ `translations/madhyamaka/` (ไม่ใช้เลขนำหน้า เหมือน sarvastivada)
+- DSBC **list 64** (madhyamaka 28 เล่ม) + **list 65** (madhyamaka-yogācāra 16 เล่ม) = **44 เล่ม** ดาวน์โหลดครบ ~949K ตัวอักษร
+- คิวตันตระค้างอยู่: 78 มัญชุศรีมูลกัลป์ ✅, 84 สรวะตถาคตทัตวาสังคหะ ✅ → ถัดไป 792 อโมฆปาส
+
+### Done
+- สร้าง `translations/madhyamaka/` 44 โฟลเดอร์ (เช่น 0931_m_lamadhyamakak_rik_praj_n_ma, 0247_prasannapad_madhyamakav_tti 27 บท)
+- สร้าง `scripts/download_madhyamaka_texts.py` (แยก list 64/65)
+- สร้าง `web/js/madhyamaka_data.js` (44 เล่ม, id `md_<dsbc_id>`) + `web/js/madhyamaka_app.js` + `web/madhyamaka_index.html`
+- แก้ metadata 962, 963, 970 (romanized) → แสดง 44 เล่มครบ
+- เชื่อม MADHYAMAKA_DATA เข้า getAllData() ใน app.js + เพิ่ม script tag
+- เพิ่ม nav ☀️ มัธยมกะ ใน index/reader/tantra/yogacara/sarvastivada/madhyamaka
+- ทดสอบ local server (port 8098): ทุก path 200, reader.md_931=931 แสดง มูลมัธยมากการิกา ครบ 27 ปริกรรณ
+- **ยังไม่ได้ commit/push**
+
+### Priority (มัธยมกะ ตามลำดับ)
+- 931 มูลมัธยมากการิกา (27 บท), 254 ปรสนนา-ปทา (27), 252 มัธยมากศาตร (27), 255 มัธยมากาวตาร (5), 248 วยวหาร-สัตยา-สัตยาย (4)
+### Pending
+- DSBC list 177 → ตั้งเป้าหมายไว้ดูทีหลัง (mod_security บล็อก)
+- 02_mahayanasutralankara (โยคาจาร) แปลแล้วแต่ยังไม่ได้ commit (QC: ch004/011 จีน, ch014 ละติน 4, ch018-019 ละตินติด)
+- คิวตันตระ: 792 อโมฆปาสกัปราชา ภาค 6

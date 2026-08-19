@@ -1,0 +1,1634 @@
+Chapter 3: tṛtīyaḥ paricchedaḥ
+Source: https://www.dsbcproject.org/canon-text/book/240
+
+Digital Sanskrit Buddhist Canon - Books
+
+Digital Sanskrit Buddhist Canon
+
+×
+
+Home
+
+Canon Texts
+
+Main Introduction
+
+Browse By List
+
+Romanized
+
+देवनागरी
+
+Bibliography
+
+Manuscripts
+
+Introduction
+
+Short History
+
+Contributors
+
+People
+
+Browse Gallery
+
+Resources
+
+Links
+
+Catalog
+
+About Us
+
+Donations
+
+People
+
+Usage Policy
+
+News
+
+Contact Us
+
+(626) 571-8811 ext.321
+
+[email protected]
+
+Home
+
+Canon Texts
+
+Main Introduction
+
+Browse By
+Category
+
+Browse By List
+
+Romanized
+
+देवनागरी
+
+Bibliography
+
+Manuscripts
+
+Introduction
+
+Short History
+
+Contributors
+
+People
+
+Browse Gallery
+
+Resources
+
+Links
+
+Catalog
+
+About Us
+
+Donations
+
+People
+
+Usage Policy
+
+News
+
+Contact Us
+
+Home
+
+Canon Text
+
+Romanized
+
+śāstrapiṭaka
+
+madhyamaka
+
+tṛtīyaḥ paricchedaḥ
+
+tṛtīyaḥ paricchedaḥ
+
+Technical Details
+
+Text Version:
+
+Input Personnel:
+
+Input Date:
+
+Proof Reader:
+
+Supplier:
+
+Sponsor:
+
+Parallel
+version
+
+तृतीयः परिच्छेदः
+
+	tṛtīyaḥ paricchedaḥ
+
+	tattvajñānaiṣaṇā
+
+	yasya jñānamayaṃ cakṣuścakṣustasyāsti netarat |
+
+	yatastasmād bhaved dhīmāṃstattvajñānaiṣaṇāparaḥ ||1||
+
+	paśyatyandho'pi matimān didṛkṣurviprakṛṣṭakān |
+
+	sūkṣmavyavahitānarthāstrailokyāhatadarśanaḥ ||2||
+
+	sahasreṇāpi netrāṇāmanetro buddhivarjitaḥ |
+
+	svargāpavargasadbhūtamārgāmārgāsamīkṣaṇāt ||3||
+
+	dṛṣṭādṛṣṭaviśiṣṭeṣṭaphalāśāviṣakaṇṭake |
+
+	pravartate na dānādau prajñonmīlitalocanaḥ ||4||
+
+	trimaṇḍalaviśuddhe hi dānādāvabhiyujyate |
+
+	kāruṇyāt sarvavittvāya tatrāpyasthitamānasaḥ ||5||
+
+	prajñāmṛtaṃ tṛptikaraṃ dīpo'pratihataprabhaḥ |
+
+	mokṣaprāsādasopānaṃ kleśendhanahutāśanaḥ ||6||
+
+	sā ca satyadvayāpekṣā dvividhābhimatā matiḥ |
+
+	tathyasaṃvṛtibhūtārthapravivekānuguṇyataḥ ||7||
+
+	dānādipuṇyajñānākhyasaṃbhāraparipūraṇe |
+
+	taddhetuphalasaṃbandhalakṣaṇādiviniścaye ||8||
+
+	mahāmaitrīkṛpābhyāsasattvasaṃgrahapācane |
+
+	prajñā sāṃketikī jñeyā dvādaśāyatanāśrayā ||9||
+
+	aśeṣakalpanājālapratiṣedhavidhāyinī |
+
+	śāntapratyātmasaṃvedyanirvikalpanirakṣare ||10||
+
+	vigataikatvanānātve tattve gagananirmale |
+
+	apracārapracārā ca prajñā syāt pāramārthikī ||11||
+
+	tattvaprāsādaśikharārohaṇaṃ na hi yujyate |
+
+	tathyasaṃvṛtisopānamantareṇa yatastataḥ ||12||
+
+	pūrvaṃ saṃvṛtisatyena praviviktamatirbhavet |
+
+	tato dharmasvasāmānyalakṣaṇe suviniścitaḥ ||13||
+
+	abhiyujyeta medhāvī samādhānāya cetasaḥ |
+
+	tathā śrutamayajñāne tadanyajñānahetutaḥ ||14||
+
+	na paśyati yathā vaktraṃ kaluṣapracale jale |
+
+	tathāsamāhite citte tattvaṃ nivaraṇāvṛte ||15||
+
+	nibadhyālambanastambhe smṛtirajjvā manogajam |
+
+	unmārgacāriṇaṃ kuryāt prajñāṅkuśavaśaṃ śanaiḥ ||16||
+
+	anityatāmanaskārairuddhataṃ śamamānayet |
+
+	vipulālambanābhyāsāt saṃkṣiptaṃ vipulātmatām ||17||
+
+	vikṣiptaṃ saṃharet kṣiptanimittādīnavekṣaṇāt |
+
+	vīryānuśaṃsadarśitvāllīnamuttejayedapi ||18||
+
+	rāgadveṣamohapaṅkamalīmasamasaṃyatam |
+
+	kṣālayedaśubhāmaitrīpratītyotpādavāriṇā ||19||
+
+	viviktamacalaṃ śāntamālambanaparāyaṇam |
+
+	karmaṇyaṃ mṛdu ca jñātvā tatra samyagupekṣayet ||20||
+
+	samāhitamatiḥ paścāt prajñayaivaṃ parīkṣayet |
+
+	yo'yaṃ svabhāvo dharmāṇāṃ gṛhyeta vyavahārataḥ ||21||
+
+	vicāryamāṇastu dhiyā kimayaṃ paramārthataḥ |
+
+	yadi syāt tattvamevāyamato'nyaścet sa mṛgyate||22||
+
+	na pakṣapātasaṃtaptaḥ śāntimarhati ca kvacit |
+
+	saṃskṛtāsaṃskṛtā dharmāḥ skandhāyatanadhātavaḥ ||23||
+
+	kleśāvaraṇahānāya śrāvakāṇāṃ prakāśitāḥ |
+
+	kleśajñeyāvṛtimalaprahāṇāya kṛpātmanām ||24||
+
+	audārikatvāt prathamaṃ rūpaskandhaḥ parīkṣyate |
+
+	tatrāpi pūrvaṃ bhūtāni yathoktādeva kāraṇāt ||25||
+
+	atra bhūtasvabhāvaṃ hi norvyādi paramārthataḥ |
+
+	kṛtakatvād yathā jñānaṃ hetumattvādito'pi vā ||26||
+
+	kharasvabhāvā na mahī bhūtatvāt tadyathānilaḥ |
+
+	dhāraṇaṃ na bhuvaḥ kāryaṃ kṛtakatvād yathāmbhasaḥ ||27||
+
+	kharasvabhāvā yadyurvī tattvato'pyasatī matā |
+
+	yoginastatra yujyete nonmajjananimajjane ||28||
+
+	dhyāyināṃ dhyānasāmarthyānna yuktā dravatā kṣiteḥ |
+
+	svabhāvasyānapāyitvānna vāsyāḥ kaṭhinātmatā ||29||
+
+	evaṃ jalānilāgnīnāṃ na dravādisvabhāvatā |
+
+	yujyate nāpi tatkāryaṃ saṃgrahavyūhapaktayaḥ ||30||
+
+	na hi tulyaguṇā neṣṭāḥ saṃvṛtyā pavanādayaḥ |
+
+	kāyendriyopalabhyatvād bhūtatvād vāpi bhūmivat ||31||
+
+	dravyasanna pṛthivyādi sāmagryaṅgāgrahe'grahāt |
+
+	yad yathoktaṃ na tad dṛṣṭaṃ dravyasat tadyathā vanam ||32||
+
+	dravyasadviṣayā ceyaṃ na kṣityādimatirmatā |
+
+	sakāraṇatvānnāśād vā tadyathā kānanādidhīḥ ||33||
+
+	dravyābhidhāyako neṣṭo dhvaniḥ kṣityādivācakaḥ |
+
+	śrāvaṇatvād yathā neṣṭo dhvaniḥ senādivācakaḥ ||34||
+
+	nānaikāntikatā hetościttacaitasabuddhibhiḥ |
+
+	jāyate sādhyatulyatvaṃ tadvattatpratiṣedhataḥ ||35||
+
+	nārambhakā vanasyeṣṭāḥ palāśaspandanādayaḥ |
+
+	hetumattvādihetubhyastadyathā caraṇādayaḥ ||36||
+
+	palāśādibhirārabdho na vano'vayavī mataḥ |
+
+	pratyekamasamāptatvāt teṣu yadvat karādibhiḥ ||37||
+
+	ato dṛṣṭāntadoṣo'pi na pakṣa upapadyate |
+
+	dvitīye'pi yathā nāsti tathedamabhidhīyate ||38||
+
+	nānekāniyatadravyasaṃkhyāvṛttirvanadhvaniḥ |
+
+	viśiṣṭabuddhihetutvād ghaṭakuṇḍādiśabdavat ||39||
+
+	na cakṣurindriyagrāhyaṃ rūpaṃ hi paramārthataḥ |
+
+	saṃghātatvād yathā śabdo bhautikatvāt tathāpi vā ||40||
+
+	na cakṣuḥ prekṣate rūpaṃ bhautikatvāt svarūpavat |
+
+	sukhādyutpattihetutvād vācyatvād vā rasādivat ||41||
+
+	tathā na bhautikaṃ rūpamutpatterjvalanādivat |
+
+	hetumattvādihetubhyaścittavad veti lakṣayet ||42||
+
+	etena varṇasaṃsthānasaṃcitatvādilakṣaṇaḥ |
+
+	sūkṣmaudārikabhedaśca yāvān rūpasya kalpitaḥ ||43||
+
+	pratiṣiddho'vaboddhavyo yathāyogaprayogataḥ |
+
+	śabdagandharasasparśapratiṣedhe'pyayaṃ nayaḥ ||44||
+
+	na cakṣurindriyaṃ rūpamīkṣate paramārthataḥ |
+
+	cittacaitasikānyatvāt tadyathā rasanendriyam ||45||
+
+	na rūpamīkṣate cakṣurathavā paramārthataḥ |
+
+	avijñānasvabhāve satyanutpattestvagādivat ||46||
+
+	na varṇaviṣayo rūpaprasādaścakṣurindriyam |
+
+	kṛtakatvādihetubhyo dṛṣṭāntāśca tvagādikāḥ ||47||
+
+	na cakṣū rūpaviṣayaṃ svarūpāgrahaṇānmatam|
+
+	śravaṇādīndriyaṃ yadvad rūpitvād vā rasādivat ||48||
+
+	tadvad vācakṣuṣo draṣṭudarśanaṃ nānidarśanam |
+
+	kathaṃ vādraṣṭṛrūpasya yujyate rūpadarśanam ||49||
+
+	kathaṃ vādraṣṭṛrūpasya yujyate rūpadarśanam |
+
+	draṣṭaiva ced bhavecchrotā śrotṛtvaṃ tasya kiṃkṛtam ||50||
+
+	na cādeyaviśeṣatvādiṣṭe tajjñatvanityate |
+
+	na caikatvaṃ dvirūpatvād dehāntaraśarīravat ||51||
+
+	rūpopalabdhau karaṇaṃ neṣyate cakṣurindriyam |
+
+	amanastve sati draṣṭuranyatvācchravaṇādivat ||52||
+
+	na cāsya draṣṭṛtā yuktā cakṣurādivyapekṣaṇāt |
+
+	manovat pariṇāmitvāt pratibimbodayāt tathā ||53||
+
+	akṣāntareṇa vādṛṣṭermanovad draṣṭṛtā katham |
+
+	manasastattvato neṣṭamātmavad rūpadarśanam ||54||
+
+	adravyasattvāt sāmagryāstadvad vā nāsti darśanam |
+
+	dharmāntarābhinirvṛtterghaṇṭāvat kartṛtāstu vā ||55||
+
+	na cakṣū raśmivad yuktamakṣatvāditarākṣavat |
+
+	naktaṃcarākṣyadhiṣṭhānaṃ dṛśyaṃ dṛśyaṃ na hīkṣaṇam ||56||
+
+	na sukhādyātmakaṃ cakṣurvastutvāt tadyathā pumān |
+
+	nāpi sarvagataṃ cakṣuḥ sattvāt tadgolakādivat ||57||
+
+	athavāsarvagantrakṣi pārārthyāt tadyathā ghaṭaḥ |
+
+	rūpopalabdhihetutvād yathā rūpaṃ tatheti vā ||58||
+
+	na cakṣustejaḥsaṃyuktamindriyatvāt tvagādivat |
+
+	tejo'dhikaṃ mahābhūtaprasādādyātmakaṃ na ca ||59||
+
+	na prāptaviṣayaṃ cakṣurindriyatvād yathā manaḥ |
+
+	rūpavat kāraṇatvād vā hetumattvāt tathāpi vā ||60||
+
+	bāhyārthagrahaṇāt sākṣādatītānāgatāgrahāt |
+
+	na prāptaviṣayagrāhi ghrāṇādīṣṭaṃ yathekṣaṇam ||61||
+
+	sādhyatulyaniṣedhācca nānekāntastvagādibhiḥ |
+
+	nayenānena boddhavyaṃ pratyuktaṃ śravaṇādyapi ||62||
+
+	trayaṃ nāprāptaviṣayaṃ manaḥśrotrākṣilakṣaṇam |
+
+	indriyatvād yathā ghrāṇaṃ cittahetutvato'pi vā ||63||
+
+	darśanenaiva boddhavyā yathākathitavistarāt |
+
+	śravaṇaghrāṇarasanatvagindriyanirākriyāḥ ||64||
+
+	 sgra dang dri dang ro dang reg /
+
+	dgag pa'i tshul yang de yin te//
+
+	mkhas pas gzu bo'i blo dag gis/
+
+	ci rigs par ni shes par bya // 65 //
+
+	na yuktā paramārthena vedanānubhavātmikā|
+
+	vijñānasaṃprayuktatvāt tadanye caitasā yathā ||66||
+
+	sukhānugrāhikā neṣṭā sparśajatvāt tadanyavat |
+
+	yathoktahetorvijñeyā na duḥkhā pīḍanātmikā ||67||
+
+	neṣṭāduḥkhāsukhā tadvat tṛṭphalatvād yathetarā |
+
+	vivakṣitād vā vijñānasvabhāvapratiṣedhataḥ ||68||
+
+	etena saṃjñā vyākhyātā saṃskārāścobhayātmakāḥ|
+
+	 mkhas pas gzu boi blo dag gis/
+
+	ci rigs par ni shes par bya //69//
+
+	na vastuprativijñaptisvabhāvaṃ tattvato manaḥ |
+
+	sālambanatvāt saṃjñāvannāśitvād vā pradīpavat ||70||
+
+	phung po lnga po rnam dpyad pai/
+
+	sgrub paji skad bstan pa des //
+
+	skandhaistu dhātavo jñeyā jñeyānyāyatanāni ca ||71||
+
+	naibotpādādayo yuktāḥ saṃskṛtatvena lakṣaṇam |
+
+	saṃskṛtatvāddhi lakṣyasya bodhyatvācca tadanyavat ||72||
+
+	nāpi lakṣaṇasadbhāvād bhāvānāṃ sātmatā matā |
+
+	viruddho'pi hi hetuḥ syādasiddhārtho'pi vā yataḥ ||73||
+
+	kāṭhinyaṃ lakṣaṇaṃ mahyā na mahītvena yujyate |
+
+	kāyavijñānahetutvādagnitve lakṣaṇaṃ katham ||74||
+
+	blang gi mtshan nyid glang nyid kyis/
+
+	nog dang lkog shal songs mi 'dod//
+
+	khyad par can gyi blos brtag phyir /
+
+	dper na bong bu'i mtshan nyid bshin //75//
+
+	gcig na ji ltar mtshan nyid yin/
+
+	des ni de nyid mi mtshon phyir//
+
+	gshan na ji ltar mtshan nyid yin/
+
+	gshan gyis gshan nyid mi msthon phyir //76//
+
+	agate paramārthena na gatiḥ saṃpratīyate |
+
+	adhvatvād gatyabhāvād vā tadanyasmin yathā gate ||77||
+
+	gatāgatavinirmuktagamyamānānirūpaṇāt|
+
+	na gamyamāne gamanaṃ jñāyate paramārthataḥ ||78||
+
+	gatāgatatvāvācye'pi gamyamāne gatirna ca |
+
+	adhvatvāt tadyathātīte yathā vānāgate'dhvani ||79||
+
+	gatyasiddherna gantāsti nāgatirgacchatīṣyate |
+
+	aganturna gatiryuktā gatyayogād yathā purā ||80||
+
+	svato'rthāntarasaṃbandhe gantetīyaṃ matirmatā |
+
+	daṇḍivannānvayābhāvād buddhiśabdānuvṛttitaḥ ||81||
+
+	nirantaradigutpādisaṃskāraprasarāśrayā |
+
+	jvālādivad gatibhrāntiḥ sāṃvṛtī sā na tattvataḥ ||82||
+
+	adravyatvāt kalāpasya nirīhatvādathāpi vā |
+
+	na gantṛkalpanā nyāyyā kāpilaiḥ paramārthataḥ ||83||
+
+	dravyasan samudāyaścet samudāyyagrahe'grahāt |
+
+	tadātmavadayuktaṃ tat teṣāmadravyasattvataḥ ||84||
+
+	śeṣakriyāniṣedhe'pi digeṣā pratipāditā |
+
+	saṃsāramokṣasadbhāvādiṣṭā cet sasvabhāvatā ||85||
+
+	yathāvikalpitaṃ rūpaṃ yadaiṣāṃ nāvadhāryate |
+
+	tadā nirūpya rūpāṇāṃ bandhamokṣau kutaḥ katham ||86||
+
+	yujyete niḥsvabhāveṣu māyāsvapnopameṣu tu |
+
+	svahetupratyayavaśād viśiṣṭeṣvātmalābhiṣu ||87||
+
+	nāmarūpasya saṃsāro na yuktaḥ paramārthataḥ |
+
+	saṃskṛtatvāt pṛthivyāderyathā bāhyasya neṣyate ||88||
+
+	na mucyate nāmarūpaṃ kathaṃcit paramārthataḥ |
+
+	utpattimattvānnāśād vā yathā bāhyaṃ jalādikam ||89||
+
+	na pudgalaḥ saṃsarati mucyate na ca tattvataḥ |
+
+	prajñapyatvād yathā veśma vācyatvād vāpi gandhavat ||90||
+
+	niṣpudgalā vā saṃskārā hetumattvād yathā ghaṭaḥ |
+
+	utpattimattvānnāśitvājjñeyatvād vāpi loṣṭavat ||91||
+
+	dravyasannāpyavācyatvād gandhavat pudgalo mataḥ |
+
+	śyāmagauratayāvācyavandhyāputreṇa saṃśayet ||92||
+
+	evaṃ nirātmakāḥ skandhā nirjīvāḥ sattvavarjitāḥ|
+
+	mkhas pas gzu bo'i blo dag gis/
+
+	ci rigs par ni shes par bya //93//
+
+	śarīrendriyasaṃghāto nirātmā tattvato mataḥ|
+
+	hetumattvād yathā stambhaḥ pracayād vāpi nākuvat ||94||
+
+	smaraṇapratyabhijñānajñānotpādādihetubhiḥ |
+
+	ātmasattāpratijñāne hetūnāṃ syādasiddhatā ||95||
+
+	sendriyaḥ sātmako deha ityevaṃ cet prasādhyate |
+
+	asādhāraṇataivaṃ syād hetūnāmanvayādṛte ||96||
+
+	ātmaśabdo yathārtho'yaṃ kvacit tadupacārataḥ |
+
+	tadyathā siṃhaśabdaścennaivamātmā prasidhyati ||97||
+
+	atha vijñānaviṣayo yathārtho'nyatra sādhyate |
+
+	nityasarvagatatvādivirodhāt syād viruddhatā ||98||
+
+	bandhamokṣāvato neṣṭau kasyacit paramārthataḥ |
+
+	song dang ma song bgom pa yis/
+
+	de dshin semsla lhag ma bshad//99//
+
+	utpannaṃ hi yadā ceto vināśābhimukhaṃ tadā |
+
+	rañjanaṃ kasya keneṣṭaṃ raktaṃ naṣṭaṃ na ceṣyate ||100||
+
+	rajyate jāyamānaṃ cet tat kiṃ janmonmukhaṃ yadi |
+
+	nirāśrayakriyāyogāt tadajātasya neṣyate ||101||
+
+	skye bshin skyes dang ma skyes par /
+
+	brjod pa min la'ang chags pa med//
+
+	avācyamapyavācyatvāccittaṃ raktaṃ na rāgavat ||102||
+
+	saktyākāreṇa cejjātaṃ cittaṃ raktamitīṣyate |
+
+	raktasphaṭikadhīvat syāt tadbuddhiraktatā katham ||103||
+
+	tadevaṃ rañjanābhāvāt sāṃvṛtī rāgakalpanā |
+
+	 'dod chags bshin du chos rnams kun /
+
+	ci rigs par ni shes par bya //104//
+
+	bhāvo dravyāśrayo yuktaḥ sa ca tasmānna bhidyate |
+
+	rāgasyeva na te raktiścetaso'pi prasajyate ||105||
+
+	na rāgasyānyatā yuktā raktasyāgrahaṇe'grahāt |
+
+	raktātmavat pṛthaktve'pi nānyavat tena raktatā ||106||
+
+	na vastuprativijñapte rāgād bhedo'sti cetasaḥ |
+
+	ālambanāditulyatvānna cānyad bhedakāraṇam ||107||
+
+	tasmāt samudayasyeṣṭa ekena samudāyinā |
+
+	svotpattyapekṣo nirdeśo yathā kusumite tarau ||108||
+
+	tatprahāṇānna nirvāṇaṃ yujyate tadayogataḥ |
+
+	mya ngan 'das pa don dam du /
+
+	dngos dan dngos med
+
+	mtshan nyid min //109//
+
+	bhāvo hi yadi nirvāṇaṃ bhāvatvāt saṃskṛtaṃ hi tat |
+
+	saṃskṛtatvād vipakṣo'pi na saṃskṛtanirodhavat ||110||
+
+	abhāvo yadyabhāvatvānnāśitvād yaḥ parāśrayāt |
+
+	neṣṭaśca pratipakṣo'sau nāśitāvat parāśrayaḥ ||111||
+
+	asaṃskṛto'pyayukto'sau pūrvoktapratiṣedhataḥ |
+
+	citerviśeṣāḥ kaścāsya muktāt sāṃkhyaprakalpitāt ||112||
+
+	svarasakṣayinaḥ kleśā vikalpāraṇisaṃbhavāḥ |
+
+	teṣāmasaṃciteḥ keṣāṃ kṣayānmokṣo'stu te'kṣayaḥ ||113||
+
+	ajātānāṃ tathāsattvāt kalpanāyāḥ samo nayaḥ |
+
+	vada kasya kṣayānmokṣaḥ kṣayino'kṣayino'pi vā ||114||
+
+	svabhāvaśūnyatābodhānnivṛttestanmaterapi |
+
+	akṣayākṣayidharmatvaṃ prāpnotyaprāptiyogataḥ ||115||
+
+	nātmakāmāḥ śrayantīmā yathābhūtaparīkṣakāḥ |
+
+	kudṛṣṭyāmayadurgandhasaktodgārā girastataḥ ||116||
+
+	na viparyāsasadbhāvāt sadbhāvastasya yujyate |
+
+	rāgatulyavicāratvāt tatklṛptirapi sāṃvṛtī ||117||
+
+	prāgeva cittacaittānāṃ svabhāvapratiṣedhataḥ |
+
+	rāgo rāgasvabhāvena na ca yat tena rajyate ||118||
+
+	etena dveṣamūḍhādi pratyuktaṃ pratibhāvayet |
+
+	tataśca bandhanāsiddheracalā niḥsvabhāvatā ||119||
+
+	neṣṭā mahyātmano'nanyā pṛthivī paramārthataḥ |
+
+	hetumattvād yathā vāyurvastutvād vāpi bodhavat ||120||
+
+	nānyat pṛthivyā salilaṃ gṛhyate paramārthataḥ |
+
+	utpattimattvādurvyātmā yathorvyā na pṛthak tathā ||121||
+
+	nāpi taddhvanidhībhedāt kṣityādīnāṃ matānyatā |
+
+	kāryalakṣaṇabhedād vā sādhyadharmāsamanvayāt ||122||
+
+	rūpasyātmetyabhede'pi vyapadeśācca saṃśayaḥ |
+
+	parikalpyasya cāsiddherasiddhārtho bhavedasau ||123||
+
+	śabdādibhedabhinne'pi tasmāt te vyabhicāriṇaḥ |
+
+	viśeṣaṇābhidhāne'pi nivāryante virodhinā ||124||
+
+	ubhayatvaṃ virodhānna yathāgneruṣṇaśītate |
+
+	anyānanyatvapakṣoktaniṣedhād vā tadapyasat ||125||
+
+	dvyātmakatve'pi sarvasya prasiddho'śo nidarśanam |
+
+	dṛṣṭāntanyūnatā tasmānna paraṃ prati jāyate ||126||
+
+	āpekṣikī ca tatsiddhirmanorathavikalpitā |
+
+	dvayoranyatarasyāpi prāgasiddherna sidhyati ||127||
+
+	sarveṣūbhayavādeṣu pratiṣedhe'pyayaṃ nayaḥ |
+
+	evaṃ yathoktavidhinā niṣiddhā sasvabhāvatā ||128||
+
+	ityete saṃskṛtā dharmāḥ sāhasena vicāritāḥ |
+
+	asaṃskṛtā nirodhau dvāvākāśaṃ tathatā tathā ||129||
+
+	pratisaṃkhyānirodho hi na bhāvaḥ paramārthataḥ |
+
+	nityāvikṛtarūpatvād vandhyātanayamūrtivat ||130||
+
+	ajātatvādabhedatvādakāryatvādathāpi vā |
+
+	saṃskṛtāsaṃgrahād vāpi nirodhāsaṃbhavādapi ||131||
+
+	yacca kāryaṃ mataṃ yasya na hi tat tasya kāraṇam |
+
+	ajātatvādihetubhyo hastimastakaśṛṅgavat ||132||
+
+	ajātakāraṇaṃ neṣṭaṃ kāryamityavasīyate |
+
+	kāryatvāt tadyathā kṣudraṃ na khapuṣpādikāraṇam ||133||
+
+	etena vyomatathatādikkālātmādi buddhimān |
+
+	pratiṣiddhaṃ vijānīyād yāvat kiṃcidasaṃskṛtam ||134||
+
+	dravyapradhānajīvādi jñeyaṃ yat tīrthyakalpitam |
+
+	yathāyogaṃ niṣeddhavyaṃ yuktyāgamaviśāradaiḥ ||135||
+
+	iti svaparasiddhāntakalpitātmanirātmatām |
+
+	vidvān vibhāvya bhāvānāṃ tattvajñānāmṛtaṃ pibet ||136||
+
+	athavā kalpanājālaprasaro hyevamādikaḥ |
+
+	jātabhāvāśrayo bālamākulīkurute balāt ||137||
+
+	vidvān vidyāpradīpena yathābhūtaṃ parīkṣate |
+
+	jāterniṣedhāt tacchānteḥ prapañcopaśamastadā ||138||
+
+	tatra tāvat svato janma saṃvṛtyāpi na yujyate |
+
+	sātmakatvād yathā dadhnaḥ svato janma na vidyate ||139||
+
+	notpannāḥ svātmato bhāvā bhāvatvāt tadyathā pumān |
+
+	nāpi cātmāstyajātānāmajātatvāt khapuṣpavat ||140||
+
+	khapuṣpābhāvavācyaṃ hi khādi yadyapi te matam |
+
+	na khapuṣpaṃ tad ityasmāt pakṣe'pi nyūnatā na naḥ ||141||
+
+	kāryasya kāraṇaṃ svātmā tasya janma tato matam |
+
+	svato janma tato'bhīṣṭaṃ bhāvānāmiti cenmatam ||142||
+
+	svātmavat tadananyatvāt kāraṇaṃ syādakāraṇam |
+
+	ajātatvācca kiṃ kasya kāraṇaṃ syādakāraṇam ||143||
+
+	satyātmani ca bhāvasya vṛthā kāraṇakalpanā |
+
+	tasmādeva tadutpannaṃ caikyaṃ janakajanyayoḥ ||144||
+
+	dadhibhāvena payaso'vasthānāccedabādhakam |
+
+	putratvenānavasthānāt piturna hi na bādhakam ||145||
+
+	vipakṣāsaṃbhavādiṣṭā nāpi hetorviruddhatā |
+
+	evaṃ tāvat svato janma bhāvānāṃ nopapadyate ||146||
+
+	svabhāvāsaṃbhavāccāpi kaḥ kasmāt para iṣyate |
+
+	na gośṛṅgādriśṛṅgatvaṃ vājiśṛṅgaṃ paraṃ matam ||147||
+
+	na pare paramārthena pratyayāścakṣurādayaḥ |
+
+	cakṣurvijñānajanakāḥ paratvād vīraṇādivat || 148||
+
+	na vivakṣitanetrādikāraṇā rūpadhīrmatā |
+
+	paratvāt prāgasattvād vā yathā ghaṭapaṭādayaḥ ||149||
+
+	ajātasya paratvaṃ ca sāṃvṛtaṃ na tu tattvataḥ |
+
+	parasmādapi janmaivamayuktamiti gṛhyate ||150||
+
+	anirdeśyasya cotpattirutpannasya nirarthikā |
+
+	nāpi jātirajātasya khapuṣpavadajātitaḥ ||151||
+
+	jāyamānasya cotpattau tulyaparyanuyogitā |
+
+	avācyasyāpyavācyatvāt tadanyavadasaṃbhavaḥ ||152||
+
+	vikalpitātmanā śūnyāstattvataścakṣurādayaḥ |
+
+	kṛtakatvād vināśād vā yathā māyāmayaṃ payaḥ ||153||
+
+	sādhyatulyaniṣedhācca saṃśayo netarātmanā |
+
+	akalpito'pi māyātmā vitathastattvato mataḥ ||154||
+
+	svātmābhimatihetutvād yathāsau kalpitātmatā |
+
+	pratītāṃśena tatsiddherdṛṣṭāntanyūnatā na naḥ ||155||
+
+	svabhāvaśūnyā hyathavā tattvataścakṣurādayaḥ |
+
+	kṛtakatvād vināśād vā māranirmitabuddhavat ||156||
+
+	yaśca svabhāvo bhāvānāṃ svabhāvo'sau na tattvataḥ |
+
+	kṛtakatvād yathoṣṇatvam ambhasaḥ sthiratāpi vā ||157||
+
+	svātmanaiva hi bhāvānāmutpādo nopapadyate |
+
+	parabhāvena cotpādo na dṛṣṭo goḥ kharātmanā ||158||
+
+	hetvādipratyayebhyaśca parebhyo janma sāṃvṛtam |
+
+	nāto'bhyupetabādhitāstattvato hi na te yataḥ ||159||
+
+	na sato nāsato yuktaḥ pratyayaḥ sadasattvataḥ |
+
+	tadanyavadajātervā pratyayaḥ pratyayaḥ kutaḥ ||160||
+
+	na hetuḥ kāryajanakastacchūnyatvāt tadanyavat |
+
+	nāpi tajjanmatotpitsoḥ prāgasattvāt tadanyavat ||161||
+
+	nājātaṃ jāyamānaṃ vā jātaṃ vā janayatyayam |
+
+	uktadoṣādajāteśca tasmāddheturna tattvataḥ ||162||
+
+	jātasyālambanāyogo jāte jātirvṛthā yataḥ |
+
+	ajātasyāpyajātatvād yathānutpattidharmiṇaḥ ||163||
+
+	jāyamānasya yogaḥ syāt sa ca nālambanaṃ vinā |
+
+	janikriyāsamāveśo vikalāṃṅgasya neṣyate ||164||
+
+	athavā cittacaittānāṃ naivālambanamiṣyate |
+
+	tattvato jāyamānatvād grāhyatvād vāpi rūpavat ||165||
+
+	kiṃ ca sālambanasya syāt kālabhedāt sa cāpyasan |
+
+	evamālambanābhāvāt kiṃ kasyālambanaṃ bhavet ||166||
+
+	nājātasya nirodho'sti khapuṣpavadajātitaḥ |
+
+	na niruddhe nirodho'sti niruddhatvād yathā mṛte ||167||
+
+	nāniruddhe'niruddhatvād vartamānapradīpavat |
+
+	nirudhyamāne nāpīṣṭaḥ pūrvoktapratiṣedhataḥ ||168||
+
+	tulyakālastathāpi syād bhinnakālo'pi vā bhavet |
+
+	yukto nirudhyamānatvānnārhaccaramacittavat ||169||
+
+	tattvato jātyasadbhāvād bhāvasattā na yujyate |
+
+	vandhyātanayasattāvadato nādhipatirmataḥ ||170||
+
+	kāryeṇa śūnyo'śūnyo vā pratyayo'dhipatirbhavet |
+
+	na śūnyastena śūnyatvācchabdabuddheryathekṣaṇam ||171||
+
+	saṃvṛtyāpi na cāśūnyaḥ pratītirbādhikā yataḥ |
+
+	kārye ca na bhavet kāryamasat kāryaṃ ca te bhavet ||172||
+
+	kāryaśaktirhi kāryaṃ cet kimanyat kāraṇaṃ tataḥ |
+
+	ādhārādheyabhāvo hi tadananyasya neṣyate ||173||
+
+	kāryaparyāyamātraṃ vā vyomni vyomasthitau yathā |
+
+	yadāsau kāraṇaṃ kiṃ tad yenāśūnyaṃ tadiṣyate ||174||
+
+	sataśca saṃbhavābhāvāt kaḥ kasyādhipatirmataḥ |
+
+	asataḥ pratyayābhāvāt kaḥ kasyādhipatirmataḥ ||175||
+
+	jātā ghaṭādayo dṛṣṭā dṛṣṭe heturnirarthakaḥ |
+
+	dṛṣṭapratītibādhaivaṃ bādhikā bhavatīti cet ||176||
+
+	dṛṣṭaṃ janma ghaṭādīnāṃ bālasāmānyayā dhiyā |
+
+	pratiṣedhastathā nāyaṃ nāto doṣo yathoditaḥ ||177||
+
+	na rūpālambanā buddhiḥ svasaṃvedyāsti tattvataḥ |
+
+	yato no na hi tadbādhā bādhikā tadajātitaḥ ||178||
+
+	naiva pratyakṣadhīryuktā yathārthā paramārthataḥ |
+
+	bālabuddhiviśiṣṭatvādalāta iva cakradhīḥ ||179||
+
+	nāpi tadgocaraṃ vastu saṃskṛtatvād yathātmadhīḥ|
+
+	adravyatvācca rūpādeḥ pratyakṣaṃ no na bādhakam ||180||
+
+	vidvannītivicāraṃ ca na pratītiḥ prabādhate |
+
+	nāvidyāpaṭalāndhānāṃ tattve'dhikriyate vacaḥ ||181||
+
+	sato'pi janma nābhīṣṭaṃ sataḥ kiṃ janmanā bhavet |
+
+	sthaulyaṃ cenna ca satkāryaṃ sthaulyasyāsaṃbhavāt purā ||182||
+
+	kiṃ ca yaccakṣuṣaḥ sthaulyaṃ na tat tatpratyayaiḥ kṛtam |
+
+	prāgasattvād yathā kuṇḍaṃ jñeyatvād vāpi bhoktṛvat ||183||
+
+	sāmānyena ca saṃvṛtyā bhoktrādyabhimataṃ hi naḥ |
+
+	nāto dṛṣṭāntadoṣo'pi kvacidatropapadyate ||184||
+
+	abhivyakteradoṣaścet kiṃ kena vyajyate yathā |
+
+	yathā ghaṭaḥ pradīpena nābhivyaktiḥ sato yataḥ ||185||
+
+	saṃvṛtyāpi pradīpena prakāśasahito ghaṭaḥ|
+
+	kriyate tanmatirvāpi pratipakṣodayo'pi vā ||186||
+
+	vyajyate nānabhivyaktamavyaktatvāt khapuṣpavat |
+
+	svanītyā vā yathā bhoktā pradhānaṃ ceti nirdiśet ||187||
+
+	na vā sarvagato bhoktā nāhetuścetano na ca |
+
+	yadi tasyāpyabhivyaktiravyaktatvaṃ ca hīyate ||188||
+
+	kāryaṃ pariṇataṃ yacca pradhānaṃ vaḥ prasajyate |
+
+	vyaktipradhānarūpeṇa kāryatve'vikṛtiḥ katham ||189||
+
+	vyañjakā yasya ye ceṣṭā na te tadvyañjakā matāḥ |
+
+	kāraṇatvādihetubhyo dadhnastantvādayo yathā ||190||
+
+	tantvāderapi tacchakterdṛṣṭāntanyūnateti cet |
+
+	tanna tantvādibhāvena na te tadvyañjakā yataḥ ||191||
+
+	svaparasmānna janmeṣṭaṃ na ca sadasadātmanaḥ |
+
+	yato nobhayavādo'sti yuktitaḥ prāk parīkṣitaḥ ||192||
+
+	saṃvṛtyāpi na kāryasya pratyayairvyaktiriṣyate |
+
+	tadbhedānuvidhāyitvād ghaṭasyeva mṛdādibhiḥ ||193||
+
+	saṃvṛtyāpi hi nākasmājjātaṃ cakṣuritīṣyate |
+
+	sāmānyena ca tadyogād viśeṣeṇa ca kuṇḍavat ||194||
+
+	kāryatvāt kramajanmatvād vināśāt pariṇāmataḥ |
+
+	hetupratyayanaiyamyājjātitaśceti lakṣayet ||195||
+
+	jātyantaraniruddho hi notpannaḥ śivako mataḥ |
+
+	nāśitvāt tadyathā kuṇḍaṃ kāryatvād veti cenmatam ||196||
+
+	na kuṇḍaṃ kuṇḍarūpeṇa niruddhaṃ jāyate yathā |
+
+	tathā cecchivako'bhīṣṭa iṣṭameva prasādhyate ||197||
+
+	atha niruddhahetutvaṃ hetorevaṃ viruddhatā|
+
+	saṃtatyā cedanaṣṭasya syādevaṃ vyabhicāritā ||198||
+
+	asti garbhādibuddheḥ prāganantaraniruddhadhīḥ |
+
+	jñeyabhedena tadbhedād dhītvād vāpi tadūrdhvavat ||199||
+
+	caitrasya śabdabuddhiryā rūpabuddhiśca jāyate|
+
+	jñeyabhedāt tayoraikyaṃ bhinnasaṃtānayoryathā ||200||
+
+	dṛṣṭāntāsaṃbhavastasyā naikatvājjāyate dhiyaḥ|
+
+	dhītvānnāpi tadekatvaṃ vyabhicārād dhiyānyayā ||201||
+
+	bālasya cyuticittaṃ cet sādhyate'pratisaṃdhikam|
+
+	nāstikaiḥ cyuticittatvādarhaccaramacittavat ||202||
+
+	syādanaikāntiko heturatītacyuticetasā |
+
+	jātismarādisadbhāvāduktanītyāpi tacca sat||203||
+
+	cyuticittaṃ ca janakaṃ bhavatyevānyacetasaḥ |
+
+	sāvidyatvādanāryasya cittaṃ tajjanakaṃ yathā ||204||
+
+	svakarmajanitā neṣṭāḥ śarīrendriyabuddhayaḥ |
+
+	vināśitvād yathā kuṇḍaṃ paraloko'styato na cet ||205||
+
+	tenaiva tasyākaraṇāt tadanyenāpi cākṛteḥ |
+
+	nānyasvakarmajanito deha ityatra kiṃ hi naḥ ||206||
+
+	akarmajanitatve ca vidyate na nidarśanam |
+
+	shing la sogs padus skye ba /
+
+	sems can las kyi dban gis te //207//
+
+	sems dmyal gnas dang mtho ris na/
+
+	mtshon dang dpag bsam shing skye bshin //
+
+	bhūtebhyaśca kathaṃ buddhistadatyantavilakṣaṇā ||208||
+
+	acetanānāṃ bhūtānāṃ caitanyaṃ madaśaktivat  |
+
+	sūryakāntāgnivad vāpi jāyate jātimattvataḥ ||209||
+
+	madaśakteracaitanyād dṛṣṭāntanyūnatā hi te |
+
+	atulyajātihetutvāddhetoścāpi viruddhatā ||210||
+
+	nādhyātmikāni bhūtāni boddhṛṇīti pratīyate |
+
+	kaṭhinādisvabhāvatvād bhūtatvād hi tadanyavat ||211||
+
+	ato garbhādivijñānaṃ vijñānāntarapūrvakam|
+
+	vidvadbhiravaboddhavyaṃ grāhakatvāt tadūrdhvavat ||212||
+
+	vatsaḥ pūrvakṛtābhyāsājjātasyāhārameṣate |
+
+	āhārārthaṃ parispandād yathā pariṇatendriyaḥ ||213||
+
+	nānaikāntikatā hetorayaskāntopalādibhiḥ |
+
+	tadāhārābhyavahṛterdṛṣṭatvānnāpyasiddhatā ||214||
+
+	kasyacit prītihetutvālloko neśvarakartṛkaḥ |
+
+	vidadhāno yathā prītiṃ neśa īśvarakartṛkaḥ ||215||
+
+	ahetutvādajātervā neśo viśvasya kāraṇam |
+
+	yathākāśasya kusumaṃ neṣṭaṃ viśvasya kāraṇam ||216||
+
+	aśeṣasyāsya jagato neśvaraḥ kāraṇaṃ param |
+
+	cittavattvād yathā gopo na jagatkāraṇaṃ param ||217||
+
+	sāmagryā bhāvanirvṛtteḥ kaścinneko'sti neśvaraḥ |
+
+	na caikakartṛkaḥ kaścinnānaikāntikatāpyataḥ ||218||
+
+	seśvaraṃ cakṣurādīṣṭaṃ bahutvād yadi dāsavat |
+
+	ajātaikeśvarādiddherīśaḥ syāt tadviparyayaḥ ||219||
+
+	sakartṛkamathābhīṣṭaṃ racitatvād ghaṭādivat |
+
+	anirdiṣṭaviśeṣeṇa kartā cet siddhasādhanam ||220||
+
+	atha nityaikasūkṣmādiviśeṣeṇa na te'nvayaḥ |
+
+	anityamūrtajātatvadoṣāpattiśca tasya va ||221||
+
+	sattvabhājanasaṃkhyātalokavaicitryakāraṇam |
+
+	karmeśvaraścet saṃvṛtyā siddhameva prasādhyate ||222||
+
+	etena kālapuruṣapradhānaparamāṇavaḥ |
+
+	kāraṇaṃ nāsya jagato viṣṇurveti niṣedhayet ||223||
+
+	dṛṣṭyandhakāravidhvaṃso buddhotpādo yatastataḥ |
+
+	tadvadāyatanotpād iṣṭaścedasaduttaram ||224||
+
+	adhvābhāvādanutpāde kasya kā dṛṣṭiriṣyate|
+
+	tadabhūtasya bodhāya buddhotpādasya kartṛtā||225||
+
+	asuraścet surānnānyaḥ kathamevamaśāśvatam |
+
+	asuraścet surādanyo'nucchedo yujyate katham ||226||
+
+	avācyatve'pi ghaṭavat kathamucchedavarjanam |
+
+	sadasattve'pi nirvāṇe netarasyāstyatikramaḥ ||227||
+
+	yadyutpādo niruddhasya kathamevaṃ na śāśvatam |
+
+	anutpāde niruddhasya kathaṃ nocchedavāditā ||228||
+
+	saṃtānādravyasattvācca kasmāducchedaśāśvataḥ
+
+	tadabhāvādanutpādo yukto'nucchedaśāśvataḥ ||229||
+
+	anutpādāya duḥkhasya buddhānāṃ dharmadeśanā |
+
+	atastatphalasadbhāvādutpādo'bhimato yadi ||230||
+
+	pūrvavat tadanutpādāt kasyānutpāda iṣyate |
+
+	nānutpādaḥ phalaṃ tasya tatparijñā tu tatphalam ||231||
+
+	tenaiva tasyākaraṇāt svakṛtaṃ tanna yujyate |
+
+	anyenānyakriyāyogānna cānyakṛtamiṣyate ||232||
+
+	na svasaṃtānajaṃ duḥkhamiṣṭaṃ sattvādyasaṃbhavāt |
+
+	adravyatvādabhedācca duḥkhaṃ tannāpi saṃtateḥ ||233||
+
+	utpādinaḥ prasādyante saṃskārāścakṣurādayaḥ |
+
+	sattvasaṃjñābhidheyatvād buddhavad yadi tattvataḥ ||234||
+
+	notpādadharmo buddho no nātastadvat tadudbhavaḥ |
+
+	ātmavat tadasattvād vā māyāvad vāstu saṃbhavaḥ ||235||
+
+	rūpaṃ na buddho bodhyatvādudayād vāpi loṣṭavat |
+
+	parābhāsātmabhāsatvād vijñānaṃ nendrajālavat ||236||
+
+	na buddho rūpiṇaḥ skandhāḥ skandhasaṃgrahato matāḥ |
+
+	udayavyayadharmitvājjñeyatvād vāpi rūpavat ||237||
+
+	tannāśe nāśadoṣācca skandhā buddho na yujyate |
+
+	nānyo'nyalakṣaṇābhāvādātmavat sa kathaṃ ca naḥ ||238||
+
+	avācyo'dravyasanneṣṭaḥ pūrvavat tannirākṛteḥ |
+
+	ghaṭavad vāpyavācyatvāt kathaṃ tadbuddhatā matā ||239||
+
+	na pratītyasamutpādadṛṣṭeḥ saṃbuddhadarśanāt |
+
+	iṣṭa āyatanotpādaḥ pūrvavat tannirākṛteḥ ||240||
+
+	na san nāsan sadasato na nityānnāpyahetutaḥ |
+
+	nāpyasmānnāpyanasmācca śāśvatocchedavarjitaḥ ||241||
+
+	na san nāsanna sadasannutpādo'taḥ sakīdṛśaḥ |
+
+	darśanaṃ darśanāt tasya kathaṃ śāstuḥ pratīyate ||242||
+
+	svabhāvavādināṃ vādaḥ svasmādiṣṭavighāṭakaḥ |
+
+	māyotpādavadutpādo yasya tasya tu yujyate ||243||
+
+	uktadoṣamalāpāyāt saddharmolkāprakāśanāt |
+
+	kriyopakārarūpeṇa sāṃvṛtaṃ buddhadarśanam ||244||
+
+	māyopamasyābhūtatvāt tattvatastannidarśanam |
+
+	apratarkyamavijñeyamanirūpyānidarśanam ||245||
+
+	nirnimittaṃ nirābhāsaṃ nirvikalpaṃ nirakṣaram |
+
+	paśyato buddhiboddhavyaṃ taddarśanamadarśanāt ||246||
+
+	tadevaṃ paramārthena na svataḥ parato na ca |
+
+	nobhayasmādakasmād vā na sad vāsanna cānyathā ||247||
+
+	na keśaveśapuruṣapradhānāṇvādikāraṇāt |
+
+	jāyate vyajyate vāpi bhāvaḥ kaścit kathaṃcana ||248||
+
+	tatra svabhāvakāritvalakṣyalakṣaṇasaṃśrayaḥ |
+
+	ekatvānyatvasaṃkleśavyavadhānakriyāśrayāḥ ||249||
+
+	yathākāśe kaśāghāto vicitraṃ citrakarma vā |
+
+	bījāni vā na rohanti tathāsmin sarvakalpanāḥ ||250||
+
+	timirāpagame yadvad viśuddhāmalalocanaḥ |
+
+	nekṣate keśamaśakadvicandraśikhicandrakān ||251||
+
+	kleśajñeyāvṛtitamastimirāpagame tathā |
+
+	na paśyati budhaḥ kiṃcit samyagjñānāmalekṣaṇaḥ ||252||
+
+	yathā prasuptaḥ putrastrīvimānabhavanādikam |
+
+	paśyet siddhavaśāt tatra pratibuddho na paśyati ||253||
+
+	saṃvṛtyādhigatāṃstadvad unmīlitamatīkṣaṇaḥ |
+
+	ajñānanidroparamāt pratibuddho na paśyati ||254||
+
+	niśi bhūtānyabhūtāni yathā tamasi paśyati |
+
+	pronmīlitākṣo'bhyudite ravāvapi na paśyati ||255||
+
+	na paśyati tathā vidvāṃścittacaitasagocaram |
+
+	samyagjñānaravidhvastasamastājñānavāsanaḥ ||256||
+
+	svabhāvāpariniṣpatterajātervā svabhāvataḥ |
+
+	māyebhavanna bhāvānāmīkṣate satsvabhāvatām ||257||
+
+	utpattimattvāt saṃvṛtyā hetumattvādathāpi vā |
+
+	māyebhavanna bhāvānāmīkṣate satsvabhāvatām ||258||
+
+	na santi bhāvā iti vā yathārthā na matirmatā |
+
+	kalpanādvāranirvṛtteḥ sthāṇoḥ puruṣabuddhivat ||259||
+
+	asadbuddhyupalabhyo vā bhāvātmā vitatho mataḥ |
+
+	kalpanājñānagamyatvānmarīcyudakabuddhivat ||260||
+
+	sadasadbuddhiboddhavyaniṣedhādevameva tu |
+
+	jāyate'jātiyogena nirvikalpā matiḥ satām ||261||
+
+	śūnyatvāt sarvadharmāṇāṃ tadaśūnyatvato'pi vā |
+
+	na niṣkalpā matirneṣṭā prāgvat tatpratiṣedhataḥ ||262||
+
+	śūnyatādisvabhāvena yataḥ śūnyā hi śūnyatā |
+
+	na paśyati tato vidvāñchūnyatetyapi śūnyatām ||263||
+
+	nirābhāso'pi bhāvātmā niṣkalpamatigocaraḥ |
+
+	ālambyatvād yathārtho na jalendāviva candradhīḥ ||264||
+
+	nirvikalpārthaviṣayā nirvikalpāpi dhīrmṛṣā |
+
+	 anātmādisvabhāvatvāt tadyathā savikalpadhīḥ ||265||
+
+	jñeyasya sarvathāsiddhernirvikalpāpi yatra dhīḥ |
+
+	notpadyate tadatulyaṃ tattvaṃ tattvavido viduḥ ||266||
+
+	tadbodhāducyate buddho yo'sāvanudayo dhiyaḥ |
+
+	abodhabodhato mukhyo vikalpasvapnasaṃkṣayāt ||267||
+
+	abhijñeyādiniṣṭhātaḥ samatābodhato'pi vā |
+
+	nirmāṇairvāpi bhavyānāṃ budhyambujavibodhanāt ||268||
+
+	vilakṣaṇānāṃ dharmāṇāmanutpādyānirudhya vā |
+
+	samatvenāpi samatāṃ samaṃ vā svaparātmanoḥ ||269||
+
+	anālambyaiva saṃbodhālloke'smin sanarāmare |
+
+	ukto'saṃbodhasaṃbodhādeṣa saṃbuddha ityapi ||270||
+
+	aprakṣepānnirutkṣepād dharmāṇāṃ dharmatā yathā |
+
+	tathaiva sa gato yasmāt tasmāt sa ca tathāgataḥ ||271||
+
+	gantavyaṃ sarvathāśeṣamantapātavivarjyatā |
+
+	agatyāpi kāyagatyā sugataḥ sugato yataḥ ||272||
+
+	so'meyo'meyabodhyatvādasaṃkhyeyo'pi vāgrahāt |
+
+	acintyo'cittagamyatvādanidarśyo'nidarśanāt ||273||
+
+	anirūpyo'nirūpyatvādidaṃ taditi sarvathā |
+
+	nirañjano'ñjanābhāvācchivaścopadravātyayāt ||274||
+
+	sarvathāpyavikalpena nirābhāso'tadātmanaḥ |
+
+	nityatvānnitya ityuktaṃ nityaṃ cārthaprasādhanāt ||275||
+
+	śāntaḥ svabhāvaśūnyatvādanimitto'svabhāvataḥ|
+
+	nimittatvānupagamādanimittatayāpyayam ||276||
+
+	animitto nirābhāsānnirābhāsatayāpi hi |
+
+	ānimitto nirābhāso didṛkṣūṇāṃ kṛpātmanām ||277||
+
+	apratiṣṭho nirātmatvānnirvikalpo'pratiṣṭhiteḥ |
+
+	niṣprapañco'vikalpatvānnirālambastadagrahāt ||278||
+
+	nirutpādaṃ nirākāraṃ nirvikāraṃ prabhāsvaram |
+
+	samāsamamaparyantaṃ nirvikalpamalakṣaṇam ||279||
+
+	vyomavad ye mahātmānamīkṣante tamanīkṣaṇāt |
+
+	nirvikalpanirābhogavihārāmalalocanāḥ ||280||
+
+	namaskāramanaskāravyāhārādinirākṛtāḥ |
+
+	namasyanti hi ye nāthaṃ namastebhyo'pi bhāvataḥ ||281||
+
+	buddhādyuktisamāropāt pratipattyanuguṇyataḥ |
+
+	sarvathāpyavikalpatvādavācyastattvato mataḥ ||282||
+
+	atra vāco nivartante cittasyedamagocaraḥ |
+
+	nivartate ca saṃkalpo jñānamaunaṃ ca jāyate ||283||
+
+	anantapuṇyarāśīṇāmameyajñeyavedinām |
+
+	buddhānāṃ dharmakāyo'yaṃ prapañcopaśamaḥ śivaḥ ||284||
+
+	na māṃsacakṣuṣā dṛśyo na dṛśyo divyacakṣuṣā |
+
+	savikalpāvikalpena jñānenāpyeṣa durdṛśaḥ ||285||
+
+	pāpātmanāmiva svargaḥ saraṇānāmivāraṇā |
+
+	jātyandhānāmivādityaḥ tārkikāṇāmagocaraḥ ||286||
+
+	na sannāsanna sadasannānyastebhyo na cānyathā |
+
+	nāṇīyān na mahān naiko na dūre nāpi cāntike ||287||
+
+	kiṃcit kathaṃcinnāpyasmājjāyate vyajyate'pi vā |
+
+	nātrāvatiṣṭhate kaścinnāpi kaścit pralīyate ||288||
+
+	idaṃ tat paramaṃ brahma brahmādyairyanna gṛhyate |
+
+	idaṃ tat paramaṃ satyaṃ satyavādī jagau muniḥ ||289||
+
+	āryāvalokiteśāryamaitreyādyāśca sūrayaḥ |
+
+	anupāsanayogena munayo yad upāsate ||290||
+
+	tataḥ svabhāvāsaṃbhedāt tena bodhitatattvataḥ |
+
+	kāyastathāgatasyeṣṭo nānyasya tadabodhataḥ ||291||
+
+	etadabhyasyato hyasyānupalambhavihāriṇaḥ |
+
+	sajyate mānasaṃ kutra dviṣyate muhyate'pi vā ||292||
+
+	iṣṭāniṣṭaviyogādisaṃbhavo'sya kuto rujaḥ |
+
+	na lipyate lokadharmairvāriṇeva saroruham ||293||
+
+	na nirgataśca saṃsārāt saṃsārācca gatavyathaḥ |
+
+	asaṃprāptaśca nirvāṇaṃ nirvāṇa iva ca sthitaḥ ||294||
+
+	na ca kleśāgnisaṃtāpo vyomavat kleśavānapi |
+
+	acittako na cācittaḥ samāpattisamāśritaḥ ||295||
+
+	sa prajñāmeruśikharamāruḍhaḥ karuṇāvaśāt |
+
+	aśokaḥ śokasaṃtaptaṃ prekṣate duḥkhitaṃ jagat ||296||
+
+	sa tadā karuṇārdreṇa lokamālokya cakṣuṣā |
+
+	vikalpaśilpasaṃbhūtakalpanājālasaṃvṛtam ||297||
+
+	janmamṛtyujarārogaśokaśalyavraṇāturam |
+
+	dīnaṃ kṛpaṇamasvasthamanāthamaparāyaṇam ||298||
+
+	mahāduḥkhaughapatitaṃ duḥkhopaśamavāñchayā |
+
+	pravṛttaṃ mūḍhamanasaṃ duḥkhahetuvivṛddhaye ||299||
+
+	śive prapañcopaśame śaradgagananirmale |
+
+	tattvāmṛte nirālokadhīpracāramalocanam ||300||
+
+	pepīḍyamānaḥ kṛpayā taddhitādhānadīkṣitaḥ |
+
+	vajraśailamahāsārasattvaḥ sattvottamaḥ kṛtī ||301||
+
+	dānaśīlakṣamāvīryadhyānaprajñāniyogavān |
+
+	yathākālaṃ yathāśaktiḥ prajñāsmṛtipuraḥsaraḥ ||302||
+
+	dānādiśailaprabhavāḥ puṇyāmalajalāḥ śubhāḥ |
+
+	sarvasattvahitāyaiva pravartayani nimnagāḥ ||303||
+
+	sarvebhyaḥ sarvadā sarvabāhyādyātmikavastunā |
+
+	arthibhyaḥ sarvadāridryayācñāduḥkhānapohati ||304||
+
+	arthināṃ pūrayannāśāḥ pratikṣaṇamanoramaḥ |
+
+	sarvadā cākṣayaphalo dhanyaḥ kalpadrumāyate ||305||
+
+	sugatāveva janmāsya parasaukhyahitodayam |
+
+	icchayā vā tadanyatra parasaukhyahitoditeḥ||306||
+
+	bhaktaśuddhopadhānāntaparivāro gatau gatau |
+
+	samudravad bahumukhaiḥ puṇyaughaiḥ paripūryate ||307||
+
+	dakṣāvikṣiptacittaśca jñeyādhigamavijñayā |
+
+	yuktaḥ sahajayā buddhyā tiṣṭhet kalpān yathepsitān ||308||
+
+	samādhyāptyā ca dhīmattvamasaṃkhyeyāprameyayā |
+
+	anantalokadhātūnāmalaṃkārairalaṃkriyā ||309||
+
+	śilpakarmābhisaṃskārakarmapākapradarśanam |
+
+	yathābhīṣṭopapattiśca jagaddhitavidhitsayā ||310||
+
+	darśanaṃ lokadhātūnāṃ pūrṇānāṃ buddhavigrahaiḥ |
+
+	yatheṣṭakālāsaṃbodhabuddhakṣetrapradarśanam ||311||
+
+	darśanaṃ jñeyatattvasya sarvasya jñānacakṣuṣā |
+
+	dharmavyavasthāveditvaṃ nāmādīnāṃ ca lābhitā ||312||
+
+	prakampanamanantānāṃ lokānāmṛddhijṛmbhaṇāt |
+
+	yugapat kramaśo vāpi kāyajvalanavarṣaṇam ||313||
+
+	sarvāsāmapyanantānāṃ svābhayā sphuraṇaṃ diśām |
+
+	saṃvegāya surādīnāṃ nirayādipradarśanam ||314||
+
+	aprameyādbhutācintyaguṇaratnojjvalatviṣām |
+
+	darśanaṃ lokabandhūnāṃ buddhānāṃ caiva parṣadaḥ ||315||
+
+	suvarṇamaṇivaiḍūryamuktāvajrendranīlatām |
+
+	vāñchan mahāmahīdhrāṇāṃ karotyagneśca śītatām ||316||
+
+	udāreṇa śarīreṇa vajrādiṣvapyasaṅginā |
+
+	kṣaṇāt karoti sāścaryaṃ sarvadikṣu gatāgatam ||317||
+
+	svakāye paramāṇau vā saṃpraveśanadarśane |
+
+	anantalokadhātūnāṃ sattvapīḍāṃ vināpi ca ||318||
+
+	lokadhātūnaṇostulyānaṇorvā tatpramāṇatām |
+
+	saṃkṣepaprathane vāñchan karotyūrdhvamadho'pi vā ||319||
+
+	tatpramāṇaprabhāvarṇasvareryapathasaṃpadā |
+
+	brahmādyāḥ parṣado'bhyeti vineyavininīṣayā ||320||
+
+	āvirbhāvatirobhāvāvajñātastatra kenacit |
+
+	paravyabhibhavaṃ caiva karoti karuṇeritaḥ ||321||
+
+	gatisthānoktiṣu vaśaṃ jagat sthāpayatīcchayā |
+
+	pratibhānavihīnānāṃ pratibhānasukhapradaḥ ||322||
+
+	niraye duḥkhataptānāṃ śāntaye raśmimokṣaṇam |
+
+	karoti sa surendrādisabhāgāgamanāni ca ||323||
+
+	yathāvineyaṃ nirmāṇairnirmāṇaiḥ pūrayan diśaḥ |
+
+	karotyalaukikīṃ prītiṃ deśanāratnavṛṣṭibhiḥ ||324||
+
+	tryadhvāpramāṇakāyatvaṃ saṃbuddhakṣetrasaṃpadam |
+
+	ameyalokadhātūnāṃ saṃvartanavivartane ||325||
+
+	svakāye sugatakṣetraṃ tad vā svaṃ kāyamātmani |
+
+	svakṣetre saugataṃ kāyamicchayā cādhitiṣṭhati ||326||
+
+	raśmibhyo romakūpebhyasturyebhyo vāntarikṣataḥ |
+
+	nirmāṇebhyaśca niścārya śravaṇotsavabhūtayā ||327||
+
+	vyāptāparyantayā spaṣṭakalaviṅkamanojñayā |
+
+	gambhīrodāranādinyā lokānāpūrayan girā ||328||
+
+	adhimuktīndriyavaśāt praśamaikarasaṃ śivam |
+
+	vinayāya vineyānāṃ vakti dharmamanekadhā ||329||
+
+	kliṣṭaṃ sānuśayaṃ śuddhaṃ sukhaduḥkhādiyogi ca |
+
+	hīnaṃ madhyaṃ praṇītaṃ vā samyakpraṇihitādi ca ||330||
+
+	yeṣāṃ yatra yathā yāvaccittaṃ bhavati dehinām |
+
+	teṣāṃ tatra tathā tāvad bahūnāmapi vetti tat ||331||
+
+	divyanirmitasūkṣmāṇi tadviparyayabhāñji ca |
+
+	sarvatra sarvarūpāṇi divyacakṣuḥ sa paśyati ||332||
+
+	divyāryadhananirmāṇadivyāñchabdān samānuṣān |
+
+	dūrasthān viparītāṃśca divyaśrotraḥ śṛṇotyasau ||333||
+
+	pūrve nivāsaṃ sarvatra sattvānāṃ svātmano'pi vā |
+
+	smarati smārayatyanyān nāmagotrādibhedataḥ ||334||
+
+	nānāgatiṣvaniṣṭeṣṭacitrakarmaphalasthitān |
+
+	cyavamānāṃścyutān jātān vetti sarvatra dehinaḥ ||335||
+
+	lokadhātuṣvameyeṣu vineyān vinayatyayam |
+
+	tuṣitacyutyavakrāntisaṃbodhādipradarśanaiḥ ||336||
+
+	ākāṅkṣamāṇo'paryantalokadhāturajaḥsamān |
+
+	buddhakṣetreṣu tāvatsu svakṣetrādacalo'pi san ||337||
+
+	nirmāya svecchayā kāyānekaikasmiṃśca tāvataḥ |
+
+	pāṇīn mūrdhnaśca tajjihvāḥ pratyekaṃ cāpi tāvatīḥ ||338||
+
+	gandhapuṣpapuṭaiścitrairjāhnavīsikatopamaiḥ |
+
+	merumātraiḥ sphuradgandhasphītottamasugandhibhiḥ ||339||
+
+	saṃbuddhebhyo vibuddhebhyo jagaddhitavidhau pare |
+
+	pūjāṃ vidhatte bhaktyārdraḥ stutibhiḥ staiti cāsakṛt ||340||
+
+	ratnacchatravitānādyairmuktājālapariṣkṛtaiḥ |
+
+	apramāṇaiḥ sphuradratnakiraṇāṅkuradanturaiḥ ||341||
+
+	ramyaharmyojjvalastambhairmuktāhāravilambibhiḥ |
+
+	vicitrodāraratnaughaghaṭitaiścitrakarmabhiḥ ||342||
+
+	kūṭāgārairjvaladratnaprabhādīpaśatojjvalaiḥ |
+
+	abhraṃlihaiśca kurvadbhiḥ svaprabhāśavalā diśaḥ ||343||
+
+	sa tebhyo'nekaparyāyāṃ deśanāṃ cāsakṛt kṛtī |
+
+	śṛṇoti vakti cānyebhyo'nyūnādhikapadākṣarām ||344||
+
+	ameyakalpāsaṃkhyeyapuṇyajñānacayocchritaḥ |
+
+	gatvā pāramitāpāramityevaṃ puruṣottamaḥ ||345||
+
+	bhūtvā saṃbuddhasavitā bhavyabuddhyambujākaram |
+
+	bodhayatyuktikiraṇairamalairmalahāribhiḥ ||346||
+
+	tuṣārahāraśītāṃśucandanādhikaśītalaiḥ |
+
+	manaḥkleśāgnisaṃtāpaṃ dehināṃ hanti vāgjalaiḥ ||347||
+
+	janmāvartād duḥkhavīcermṛtyugrāhād bhavodadheḥ |
+
+	tārayatyāśu janatāṃ yānatrayamahāplavaiḥ ||348||
+
+	svasubhāṣitaratnaughairatyantaṃ tṛḍvighātibhiḥ |
+
+	nihanti guṇadāridryaṃ jagato'nādikālikam ||349||
+
+	dravantaṃ bhavakāntāramavidyādharmadeśikam |
+
+	janaṃ nayanti nirvāṇaṃ prajñonmīlitacakṣuṣam ||350||
+
+	saṃkleśāśīviṣairdaṣṭaṃ svahitādhāramūrcchitam |
+
+	cikitsati yathābhūtaṃ jñānavidyāgadairjagat ||351||
+
+	ciramajñānaśayitānanāthān prāṇino bhave |
+
+	prabodhayati kāruṇyād deśanāpaṭahasvanaiḥ ||352||
+
+	tṛṣṇānigaḍabaddhānāṃ ciraṃ saṃsāracārake |
+
+	karoti bandhanirmokṣaṃ caturmāraparājayāt ||353||
+
+	hutāśavadatṛptānāṃ viṣayairdivyamānuṣaiḥ |
+
+	karoti dehināṃ tṛptiṃ prajñāmṛtarasaiḥ śubhaiḥ ||354||
+
+	durdāntatīrthyamātaṅgajñānamānamadāpaham |
+
+	parṣatsu śūnyatāsiṃhamahānādaṃ nadatyapi ||355||
+
+	mahendracāpasaṃkāśavyomābhāpariveṣiṇā |
+
+	deśasthottaptasaṃpūrṇalakṣaṇavyañjanaśriyā ||356||
+
+	lakṣmyalaṃkārabhūtena manonayanahāriṇā |
+
+	rūpeṇāpratirūpeṇa sarvaśobhābhibhāvinā ||357||
+
+	saprātihāryayā caiva saṣaṣṭyākārayā girā |
+
+	surāsuranarādīnāmāvarjayati mānasam ||358||
+
+	sa cintāmaṇikalpena vapuṣā vacasāpi ca |
+
+	vineyārthavaśād datte viśveṣo viśvarūpatām ||359||
+
+	ityevamādyasaṃkhyeyāmeyādbhutaguṇākaram |
+
+	māhātmyaṃ labhate vidvānetāṃ pratipadaṃ śritaḥ ||360||
+
+	tattvajñānaiṣaṇā nāma tṛtīyaḥ paricchedaḥavyomābhāpariveṣiṇā |
+
+	deśasthottaptasaṃpūrṇalakṣaṇavyañjanaśriyā ||356||
+
+	lakṣmyalaṃkārabhūtena manonayanahāriṇā |
+
+	rūpeṇāpratirūpeṇa sarvaśobhābhibhāvinā ||357||
+
+	saprātihāryayā caiva saṣaṣṭyākārayā girā |
+
+	surāsuranarādīnāmāvarjayati mānasam ||358||
+
+	sa cintāmaṇikalpena vapuṣā vacasāpi ca |
+
+	vineyārthavaśād datte viśveṣo viśvarūpatām ||359||
+
+	ityevamādyasaṃkhyeyāmeyādbhutaguṇākaram |
+
+	māhātmyaṃ labhate vidvānetāṃ pratipadaṃ śritaḥ ||360||
+
+	tattvajñānaiṣaṇā nāma
