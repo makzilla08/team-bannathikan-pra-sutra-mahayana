@@ -86,10 +86,10 @@ const TANTRA_DATA = [
     dsbc_id: 730,
     century: "คริสต์ศตวรรษที่ 7-8",
     priority: 5,
-    status: "in_progress",
-    description: "ตันตระว่าด้วยการชำระล้างทุรคติทั้งปวง — พิธีมณฑลไวโรจนะ ใช้ที่บุโรพุทโธ/อภัยคีรี (ลังกา–ชวา)",
+    status: "completed",
+    description: "ตันตระว่าด้วยการชำระล้างทุรคติทั้งปวง — พิธีมณฑลไวโรจนะ ใช้ที่บุโรพุทโธ/อภัยคีรี (ลังกา–ชวา) — แปลครบ 89 ตอน",
     chapters_count: 1,
-    chapters: [{ id: 1, title_thai: "ตัวคัมภีร์ (89 ตอน)", title_sanskrit: "sarvadurgatipariśodhana tantra", status: "in_progress" }],
+    chapters: [{ id: 1, title_thai: "ตัวคัมภีร์ (89 ตอน)", title_sanskrit: "sarvadurgatipariśodhana tantra", status: "completed" }],
     source_url: "https://www.dsbcproject.org/canon-text/book/730"
   },
 

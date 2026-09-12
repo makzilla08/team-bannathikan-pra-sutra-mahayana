@@ -17,7 +17,7 @@
 | 11 | 15_manjusrimumlakalpa | มัญชุศรีมูลกัลป์ (Kriyā Tantra) | ✅ แปลเสร็จสมบูรณ์ (55/55) 🎉 |
 | 12 | 16_sarvatathagatatattvasangraha | สรวะตถาคตทัตวาสังคหะ (Yoga Tantra) | ✅ แปลเสร็จสมบูรณ์ (26/26) 🎉 |
 | 13 | 22_karandavyuha | การัณฑวยูหสูตร (Kāraṇḍavyūha) — โอม มณี ปัทเม หูม / สิงหลทวีป | ✅ แปลเสร็จสมบูรณ์ (24/24) 🎉 — *ลังกา-ชวา* |
-| 14 | 730_sarvadurgatiparisodhana | สรวทุรคติปริโศธนตันตระ (Yoga Tantra) — มณฑลไวโรจนะ | 🟡 กำลังแปล (89 ตอน, in_progress) — *ลังกา-ชวา* |
+| 14 | 730_sarvadurgatiparisodhana | สรวทุรคติปริโศธนตันตระ (Yoga Tantra) — มณฑลไวโรจนะ | ✅ แปลเสร็จสมบูรณ์ (89 ตอน) 🎉 — *ลังกา-ชวา* |
 | 15 | 17_surangama | ศูรังคมสูตร (Great Buddha's Summit) | ⏳ Pending |
 | 15 | 18_mahavairocana | มหาไวโรจนสูตร (Mahavairocana Sutra) | ✅ แปลเสร็จสมบูรณ์ |
 | 16 | 19_brahmajala | พรหมณชาลสูตร (Brahmajala Sutra) | ✅ แปลเสร็จสมบูรณ์ |
