@@ -15,9 +15,10 @@
 | 9 | 09_lankavatara | ลังกาวตารสูตร | ✅ แปลเสร็จสมบูรณ์ |
 | 10 | 10_gandavyuha | คัณฑวยูหะสูตร (สุธนกุมาร) | **แปลเสร็จ (56/56)** |
 | 11 | 15_manjusrimumlakalpa | มัญชุศรีมูลกัลป์ (Kriyā Tantra) | ✅ แปลเสร็จสมบูรณ์ (55/55) 🎉 |
-| 12 | 16_sarvatathagatatattvasangraha | สรวะตถาคตทัตวาสังคหะ (Yoga Tantra) | 🟢 แปลแล้ว 1/26 |
-| 13 | 17_surangama | ศูรังคมสูตร (Great Buddha's Summit) | ⏳ Pending |
-| 14 | 18_mahavairocana | มหาไวโรจนสูตร (Mahavairocana Sutra) | ✅ แปลเสร็จสมบูรณ์ |
+| 12 | 16_sarvatathagatatattvasangraha | สรวะตถาคตทัตวาสังคหะ (Yoga Tantra) | ✅ แปลเสร็จสมบูรณ์ (26/26) 🎉 |
+| 13 | 22_karandavyuha | การัณฑวยูหสูตร (Kāraṇḍavyūha) — โอม มณี ปัทเม หูม / สิงหลทวีป | ✅ แปลเสร็จสมบูรณ์ (24/24) 🎉 — *ลังกา-ชวา* |
+| 14 | 17_surangama | ศูรังคมสูตร (Great Buddha's Summit) | ⏳ Pending |
+| 15 | 18_mahavairocana | มหาไวโรจนสูตร (Mahavairocana Sutra) | ✅ แปลเสร็จสมบูรณ์ |
 | 16 | 19_brahmajala | พรหมณชาลสูตร (Brahmajala Sutra) | ✅ แปลเสร็จสมบูรณ์ |
 
 ## โครงสร้างโฟลเดอร์แต่ละพระสูตร

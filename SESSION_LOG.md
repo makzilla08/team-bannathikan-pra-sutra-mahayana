@@ -116,3 +116,19 @@
 - DSBC list 177 → ตั้งเป้าหมายไว้ดูทีหลัง (mod_security บล็อก)
 - 02_mahayanasutralankara (โยคาจาร) แปลแล้วแต่ยังไม่ได้ commit (QC: ch004/011 จีน, ch014 ละติน 4, ch018-019 ละตินติด)
 - คิวตันตระ: 792 อโมฆปาสกัปราชา ภาค 6
+
+## 2026-09-11 — สำรวจ DSBC category/19 śāstrapiṭaka (32 หมวดย่อย)
+
+### Critical Context
+- `category/19` = ศาตรปิฎก — ชั้นอรรถกถา/ปกรณ์ อธิบายพระสูตร ไม่ใช่พระสูตรเอง — เป็นแม่ของ list 64/65 ที่เราทำอยู่
+- สำรวจ 6 ลิสต์: 74 yogācāra, 68 prajñāpāramitā, 20 abhidharma, 69 pramāṇa, 60 darśana, 73 vividha → คัด 5 เรื่องเกี่ยวงานปัจจุบัน
+
+### 5 เรื่องคัดไว้ดูทีหลัง
+1. **yogācāra list/74 (21 เรื่อง)** — ต่อ `17_yogacara` โดยตรง: 328 Bodhisattvabhūmi, 331 Madhyāntavibhāga, 335 Ratnagotravibhāga/Uttaratantra, 337 Triṃśikā + 339 Viṃśatikā, 341 Yogācārabhūmi, 867 Mahāyānasaṃgraha — เติม Asanga/Vasubandhu ให้ครบ
+2. **abhidharma list/20 (11 เรื่อง)** — เติม `sarvastivada` ที่ว่าง: 96 Abhidharmakośakārikā, 98 Abhidharmasamuccaya+99 Bhāṣya, 102 Jñānaprasthāna — สะพาน Abhidharma→Yogācāra
+3. **prajñāpāramitā-śāstra list/68 (7 เรื่อง)** — สะพาน `01_astasahasrika` → มัธยมกะ: 276 Abhisamayālaṅkāraloka + 278 Sphuṭārthā, 279 Vajracchedikā-ṭīkā, 904 Prajñāhṛdaya-vyākhyā — ต้องอ่านคู่ Aṣṭasāhasrikā
+4. **pramāṇa list/69 (35 เรื่อง, ใหญ่สุด)** — เครื่องมือโต้วาที: 298 Pramāṇavārttika (4 ปริจเฉท), 294 Nyāyabindu, 288 Hetubindu, 283 Ālambanaparīkṣā — ใช้กับ 44 เล่มมัธยมกะ
+5. **vividha list/73 + darśana list/60** — 320 Śālistambakakārikā+321 Ṭīkā (ปฏิจจสมุปบาทที่ Nagarjuna อ้างใน 931), 322 Tarkabhāṣā — แปลคู่ Mūlamadhyamakakārikā
+
+### Next
+- ผู้ใช้สั่ง "บันทึกไว้ เดี๋ยวมาดูทีหลัง" — รอเลือกว่าจะลงมือ list ไหนก่อน (แนะนำ 74 → 20 → 68 → 69)
