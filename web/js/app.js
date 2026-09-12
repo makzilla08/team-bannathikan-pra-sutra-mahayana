@@ -114,7 +114,7 @@ async function initReader() {
   const sutraId = params.get('sutra') || '40';
   const chapterId = params.get('chapter') || '1';
 
-  const sutra = getAllData().find(s => String(s.id) === String(sutraId));
+  const sutra = getAllData().find(s => String(s.id) === String(sutraId) || String(s.dsbc_id) === String(sutraId) || String(s.page_id) === String(sutraId));
   if (!sutra) { showError('ไม่พบพระสูตรที่ต้องการ'); return; }
 
   // Header
