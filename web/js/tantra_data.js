@@ -79,16 +79,17 @@ const TANTRA_DATA = [
   {
     id: "tn_yoga_2",
     category: "yoga",
+    folder: "730_sarvadurgatiparisodhana",
     title_thai: "สรวทุรคติปริโศธนตันตระ",
     title_sanskrit: "Sarvadurgatipariśodhana tantra",
     title_english: "The Tantra for Eliminating All Evil Destinies",
     dsbc_id: 730,
     century: "คริสต์ศตวรรษที่ 7-8",
     priority: 5,
-    status: "pending",
-    description: "ตันตระว่าด้วยการชำระล้างทุรคติทั้งปวง — พิธีกรรมเพื่อหลุดพ้นจากอบายภูมิ",
+    status: "in_progress",
+    description: "ตันตระว่าด้วยการชำระล้างทุรคติทั้งปวง — พิธีมณฑลไวโรจนะ ใช้ที่บุโรพุทโธ/อภัยคีรี (ลังกา–ชวา)",
     chapters_count: 1,
-    chapters: [{ id: 1, title_thai: "ตัวคัมภีร์", title_sanskrit: "sarvadurgatipariśodhana tantra", status: "pending" }],
+    chapters: [{ id: 1, title_thai: "ตัวคัมภีร์ (89 ตอน)", title_sanskrit: "sarvadurgatipariśodhana tantra", status: "in_progress" }],
     source_url: "https://www.dsbcproject.org/canon-text/book/730"
   },
 
