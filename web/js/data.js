@@ -1311,7 +1311,7 @@ const SUTRAS_DATA = [
             place: "Delhi",
             year: "1987"
         }
-    }
+    },
     {
         id: 222,
         dsbc_book_id: 222,
