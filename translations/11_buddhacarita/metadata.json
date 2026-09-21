@@ -7,7 +7,7 @@
   "source_url": "https://www.dsbcproject.org/canon-text/book/222",
   "source_corpus": "DSBC Romanized text, Buddhacarita",
   "author": "Ācārya Aśvaghoṣa",
-  "status": "in_progress",
+  "status": "completed",
   "total_chapters": 14,
   "chapters": [
     {
@@ -19,80 +19,80 @@
     {
       "number": 2,
       "title": "Antaḥpuravihāro nāma dvitīyaḥ sargaḥ",
-      "title_thai": "สรรคที่ 2",
-      "status": "pending"
+      "title_thai": "สรรคที่ 2 พระราชอุทยานฝ่ายใน",
+      "status": "completed"
     },
     {
       "number": 3,
       "title": "Saṃvegotpattirnāma tṛtīyaḥ sargaḥ",
-      "title_thai": "สรรคที่ 3",
-      "status": "pending"
+      "title_thai": "สรรคที่ 3 การเกิดความสังเวช",
+      "status": "completed"
     },
     {
       "number": 4,
       "title": "Strīvighātano nāma caturthaḥ sargaḥ",
-      "title_thai": "สรรคที่ 4",
-      "status": "pending"
+      "title_thai": "สรรคที่ 4 การกำจัดสตรี",
+      "status": "completed"
     },
     {
       "number": 5,
       "title": "Abhiniṣkramaṇo nāma pañcamaḥ sargaḥ",
-      "title_thai": "สรรคที่ 5",
-      "status": "pending"
+      "title_thai": "สรรคที่ 5 การเสด็จออกผนวช",
+      "status": "completed"
     },
     {
       "number": 6,
       "title": "Chandakanivartano nāma ṣaṣṭhaḥ sargaḥ",
-      "title_thai": "สรรคที่ 6",
-      "status": "pending"
+      "title_thai": "สรรคที่ 6 การเสด็จกลับของฉันนะ",
+      "status": "completed"
     },
     {
       "number": 7,
       "title": "Tapovanapraveśo nāma saptamaḥ sargaḥ",
-      "title_thai": "สรรคที่ 7",
-      "status": "pending"
+      "title_thai": "สรรคที่ 7 การเข้าสู่อาศรม",
+      "status": "completed"
     },
     {
       "number": 8,
       "title": "Antaḥpuravilāpo nāmāṣṭamaḥ sargaḥ",
-      "title_thai": "สรรคที่ 8",
-      "status": "pending"
+      "title_thai": "สรรคที่ 8 ความคร่ำครวญของฝ่ายใน",
+      "status": "completed"
     },
     {
       "number": 9,
       "title": "Kumārānveṣaṇoṃ nāma navamaḥ sargaḥ",
-      "title_thai": "สรรคที่ 9",
-      "status": "pending"
+      "title_thai": "สรรคที่ 9 การตามหาพระกุมาร",
+      "status": "completed"
     },
     {
       "number": 10,
       "title": "Śreṇyābhigamano nāma daśamaḥ sargaḥ",
-      "title_thai": "สรรคที่ 10",
-      "status": "pending"
+      "title_thai": "สรรคที่ 10 การเข้าเฝ้าพระเจ้าพิมพิสาร",
+      "status": "completed"
     },
     {
       "number": 11,
       "title": "Kāmavigarhaṇo nāmaikādaśa sargaḥ",
-      "title_thai": "สรรคที่ 11",
-      "status": "pending"
+      "title_thai": "สรรคที่ 11 การตำหนิกาม",
+      "status": "completed"
     },
     {
       "number": 12,
       "title": "Arāḍadarśano nāma dvādaśaḥ sargaḥ",
-      "title_thai": "สรรคที่ 12",
-      "status": "pending"
+      "title_thai": "สรรคที่ 12 การพบอาราฑะ",
+      "status": "completed"
     },
     {
       "number": 13,
       "title": "Māravijayo nāma trayodaśaḥ sargaḥ",
-      "title_thai": "สรรคที่ 13",
-      "status": "pending"
+      "title_thai": "สรรคที่ 13 ชัยชนะเหนือมาร",
+      "status": "completed"
     },
     {
       "number": 14,
       "title": "Caturdaśaḥ sargaḥ",
-      "title_thai": "สรรคที่ 14",
-      "status": "pending"
+      "title_thai": "สรรคที่ 14 การตรัสรู้",
+      "status": "completed"
     }
   ],
   "translators": [],
