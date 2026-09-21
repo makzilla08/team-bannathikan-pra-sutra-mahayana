@@ -1312,6 +1312,35 @@ const SUTRAS_DATA = [
             year: "1987"
         }
     }
+    {
+        id: 222,
+        dsbc_book_id: 222,
+        folder: "11_buddhacarita",
+        title_thai: "พุทธจริต",
+        title_sanskrit: "Buddhacarita",
+        title_english: "The Acts of the Buddha",
+        priority: 3,
+        status: "in_progress",
+        description: "พุทธประวัติกวีนิพนธ์ของอาจารย์อัศวโฆษ",
+        chapters_count: 14,
+        chapters: [
+            { id: 1, title_thai: "การประสูติของพระผู้มีพระภาค", status: "completed" },
+            { id: 2, title_thai: "พระราชอุทยานฝ่ายใน", status: "pending" },
+            { id: 3, title_thai: "การเกิดความสังเวช", status: "pending" },
+            { id: 4, title_thai: "การกำจัดสตรี", status: "pending" },
+            { id: 5, title_thai: "การเสด็จออกผนวช", status: "pending" },
+            { id: 6, title_thai: "การเสด็จกลับของฉันนะ", status: "pending" },
+            { id: 7, title_thai: "การเข้าสู่อาศรม", status: "pending" },
+            { id: 8, title_thai: "ความคร่ำครวญของฝ่ายใน", status: "pending" },
+            { id: 9, title_thai: "การตามหาพระกุมาร", status: "pending" },
+            { id: 10, title_thai: "การเข้าเฝ้าพระเจ้าพิมพิสาร", status: "pending" },
+            { id: 11, title_thai: "การตำหนิกาม", status: "pending" },
+            { id: 12, title_thai: "การพบอาราฑะ", status: "pending" },
+            { id: 13, title_thai: "ชัยชนะเหนือมาร", status: "pending" },
+            { id: 14, title_thai: "สรรคที่ 14", status: "pending" }
+        ],
+        source_url: "https://www.dsbcproject.org/canon-text/book/222"
+    },
 ];
 
 // เนื้อหาพระสูตร - บทที่ 1 และ 2 วิมาลากีรตินิเทศสูตร
